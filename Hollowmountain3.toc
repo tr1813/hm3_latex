@@ -1,0 +1,149 @@
+\contentsline {part}{I\hspace {1em}Introduction}{6}{part.1}
+\contentsline {section}{The cave areas of Migovec}{7}{section*.2}
+\contentsline {subsection}{Tolminski Migovec}{7}{subsection*.3}
+\contentsline {subsection}{Geography of the mountain}{9}{subsection*.6}
+\contentsline {section}{Building the Survey of the Migovec Cave System}{15}{section*.10}
+\contentsline {subsection}{Data collection and storage}{15}{subsection*.11}
+\contentsline {subsection}{Processing and displays}{16}{subsection*.13}
+\contentsline {subsection}{Making the final maps}{18}{subsection*.15}
+\contentsline {subsection}{Geographical Information Systems and the survey}{18}{subsection*.16}
+\contentsline {part}{II\hspace {1em}The exploration of the Migovec system between 2013-2017}{19}{part.2}
+\contentsline {chapter}{2013 - Z Mig Na Kuk}{20}{chapter*.17}
+\contentsline {section}{A mysterious companion}{21}{section*.18}
+\contentsline {subsection}{20-7-13}{21}{subsection*.19}
+\contentsline {subsection}{21-7-13}{21}{subsection*.20}
+\contentsline {subsection}{22-7-13}{22}{subsection*.21}
+\contentsline {subsection}{23-7-13}{24}{subsection*.23}
+\contentsline {chapter}{Bibliography}{27}{chapter*.27}
+\contentsline {section}{Discovery of Jailbreak}{28}{section*.28}
+\contentsline {section}{A storm hits the mountain}{31}{section*.31}
+\contentsline {section}{Leads in the Labyrinth}{33}{section*.33}
+\contentsline {section}{ Exploration of Area S}{36}{section*.34}
+\contentsline {section}{Discoveries big and small in the Hollow mountain}{37}{section*.36}
+\contentsline {section}{ At the end Atlantis}{37}{section*.37}
+\contentsline {section}{Below Balamory}{37}{section*.38}
+\contentsline {subsection}{06/08/2013}{37}{subsection*.39}
+\contentsline {subsection}{07/08/2013}{37}{subsection*.40}
+\contentsline {chapter}{2014 - Zkosi Zrcalo}{106}{chapter*.105}
+\contentsline {section}{A rather cold welcome}{47}{section*.48}
+\contentsline {section}{The death of Jailbreak}{49}{section*.50}
+\contentsline {section}{Surface exploration on Migovec}{52}{section*.53}
+\contentsline {subsection}{Digging B10}{52}{subsection*.54}
+\contentsline {subsection}{Exploring the limestone pavement}{53}{subsection*.56}
+\contentsline {section}{Preparing the ground for another camp}{56}{section*.59}
+\contentsline {section}{Exploring the Northern extensions}{66}{section*.62}
+\contentsline {subsection}{Republica}{66}{subsection*.63}
+\contentsline {subsection}{Colarado Sump}{66}{subsection*.64}
+\contentsline {section}{Pushing an evasive esoteric streamway and plumbing the depths of humour}{70}{section*.68}
+\contentsline {section}{Esoterica - a lead close to camp X-Ray}{72}{section*.70}
+\contentsline {section}{Putting Hydrophobia to rest}{76}{section*.73}
+\contentsline {section}{Cavers returning}{77}{section*.74}
+\contentsline {section}{ A Fresher's first camping trip}{78}{section*.76}
+\contentsline {section}{Back to Sic Semper Tyrannis}{87}{section*.83}
+\contentsline {section}{Five days under with ICCC}{89}{section*.86}
+\contentsline {section}{Epilogue}{95}{section*.90}
+\contentsline {section}{Squidgy Goodness --- more furry friends sightings}{97}{section*.92}
+\contentsline {section}{Additional findings around Migovec}{99}{section*.95}
+\contentsline {subsection}{An overview of surface exploration}{99}{subsection*.96}
+\contentsline {subsection}{Pushing Balamory to another deep sump}{100}{subsection*.98}
+\contentsline {subsection}{Checking more leads near Atlantis, the Pleasure Palace}{101}{subsection*.100}
+\contentsline {chapter}{2014 - Zkosi Zrcalo}{106}{chapter*.105}
+\contentsline {chapter}{2015 - Pivo Moz}{109}{chapter*.106}
+\contentsline {section}{M10}{110}{section*.107}
+\contentsline {section}{Coincidence Cave}{112}{section*.110}
+\contentsline {section}{Yorkshire}{115}{section*.112}
+\contentsline {section}{The finding of Meridian Way}{117}{section*.114}
+\contentsline {section}{Pushing our Luck above Cuckoo's Nest}{122}{section*.118}
+\contentsline {section}{A first Night Train experience}{125}{section*.120}
+\contentsline {subsection}{Revisiting the Esoterica streamway (again)}{125}{subsection*.121}
+\contentsline {subsection}{More misery in a flooded streamway}{127}{subsection*.122}
+\contentsline {section}{A photo trip to Sic Semper Tyrannis}{128}{section*.123}
+\contentsline {section}{A new lead in the north}{134}{section*.129}
+\contentsline {section}{Additional findings around Migovec}{139}{section*.132}
+\contentsline {subsection}{Closing a loop beyond Sic Semper Tyrannis}{139}{subsection*.133}
+\contentsline {subsection}{Atlantis and beyond}{139}{subsection*.134}
+\contentsline {subsection}{Roaring - the muddy window}{140}{subsection*.135}
+\contentsline {subsection}{Agartha}{140}{subsection*.136}
+\contentsline {subsection}{Andrea Bocelli - climbs off 'Strap-on-the-Nitro}{140}{subsection*.138}
+\contentsline {subsection}{Surface exploration}{140}{subsection*.139}
+\contentsline {section}{DVANAJSTA BITKA - The Twelfth Battle}{147}{section*.144}
+\contentsline {section}{The Twelfth Battle}{151}{section*.147}
+\contentsline {chapter}{2016 - Neprehojene Poti}{157}{chapter*.150}
+\contentsline {section}{Back to the Hollow Mountain}{158}{section*.151}
+\contentsline {section}{A steep learning curve: first leads in Primadona}{160}{section*.153}
+\contentsline {section}{The Primadona-Monatip through-trip: impressions}{168}{section*.157}
+\contentsline {section}{First findings: Quantum State and below}{170}{section*.159}
+\contentsline {section}{When dreams come true - The discovery of Karstaway}{172}{section*.160}
+\contentsline {section}{The Karstaway branch}{175}{section*.162}
+\contentsline {subsection}{Karstaway}{175}{subsection*.163}
+\contentsline {subsection}{Mighty Fine Indeed}{177}{subsection*.165}
+\contentsline {subsection}{Hall of the Mountain King}{177}{subsection*.166}
+\contentsline {section}{A little fun in the valleys south of the bivi}{182}{section*.168}
+\contentsline {section}{Luck runs out in the new shaft series}{188}{section*.172}
+\contentsline {subsection}{What a Coincidence}{188}{subsection*.173}
+\contentsline {subsection}{Tight and Scrotty and Gambler\IeC {\textquoteright }s Ruin}{190}{subsection*.174}
+\contentsline {section}{D\IeC {\'e}j\IeC {\`a} Vu}{194}{section*.177}
+\contentsline {section}{The survey of a sewer - Cloaca Maxima}{199}{section*.180}
+\contentsline {section}{Account of the rescue}{206}{section*.183}
+\contentsline {section}{Additional findings around Migovec}{216}{section*.190}
+\contentsline {subsection}{The Auld Alliance}{216}{subsection*.191}
+\contentsline {subsection}{The Stile, Cattlegrid}{216}{subsection*.193}
+\contentsline {subsection}{B9 - Jackie's blower revisited (aka the Eyrie)}{216}{subsection*.194}
+\contentsline {chapter}{2017 - \IeC {\v C}ez Rob}{223}{chapter*.199}
+\contentsline {section}{The expedition starts with a bang!}{224}{section*.200}
+\contentsline {section}{The fall of Gondolin}{230}{section*.203}
+\contentsline {section}{Playing the traverse game over Karstaway}{235}{section*.207}
+\contentsline {subsection}{Electric Dreams}{235}{subsection*.208}
+\contentsline {subsection}{Strangehold}{237}{subsection*.211}
+\contentsline {section}{Pushing a stream passage to its natural conclusion}{240}{section*.212}
+\contentsline {section}{Hammerhead passage}{244}{section*.214}
+\contentsline {subsection}{A mind-bending survey trip}{244}{subsection*.215}
+\contentsline {section}{The Lead That Wouldn't Die}{250}{section*.221}
+\contentsline {subsection}{Beyond the ridge - trying to outrun a building thunderstorm}{258}{subsection*.225}
+\contentsline {subsection}{33T 403722 5124054 \IeC {\textendash } an obvious shakehole 500m west of Kuk}{259}{subsection*.227}
+\contentsline {subsection}{33T 404491 5124240 1840m \IeC {\textendash } Elephant\IeC {\textquoteright }s foot rockbridge}{259}{subsection*.228}
+\contentsline {subsection}{33T 404446 5124051 (\IeC {\textpm }10m) \IeC {\textendash } Cave prebolted and also spotted by Ben and William}{259}{subsection*.229}
+\contentsline {subsection}{The ridge between Tolminski Kuk and Veliki Bogatin}{260}{subsection*.230}
+\contentsline {subsection}{New beginnings at the end of the Fenestrator branch}{261}{subsection*.232}
+\contentsline {section}{Other findings}{264}{section*.233}
+\contentsline {subsection}{Codeine --- to the tune of Jolene (Dolly Parton)}{264}{subsection*.234}
+\contentsline {section}{Primadona-Monatip through trip}{270}{section*.238}
+\contentsline {subsection}{Overview}{270}{subsection*.239}
+\contentsline {subsection}{Surface abseil}{270}{subsection*.240}
+\contentsline {subsection}{Entrance series to Bear Pitch}{270}{subsection*.241}
+\contentsline {subsection}{Bear Pitch to Spiral Climb}{270}{subsection*.242}
+\contentsline {subsection}{Spiral Climb to Monatip rift - Short Route}{271}{subsection*.243}
+\contentsline {subsection}{Spiral Climb to Risanke}{271}{subsection*.244}
+\contentsline {subsection}{Risanke to Sejna Soba}{271}{subsection*.245}
+\contentsline {subsection}{Sejna Soba to Monatip rift}{271}{subsection*.246}
+\contentsline {subsection}{Monatip rift to Big Chamber}{272}{subsection*.247}
+\contentsline {subsection}{Big Chamber to Monatip entrance}{272}{subsection*.248}
+\contentsline {subsection}{Monatip entrance to Primadona entrance}{272}{subsection*.249}
+\contentsline {section}{Lower reaches of Primadona}{275}{section*.252}
+\contentsline {subsection}{Overview}{275}{subsection*.253}
+\contentsline {subsection}{Sejna Soba to Knot So Great}{275}{subsection*.254}
+\contentsline {subsection}{Knot so Great to Rokovo Brezno}{275}{subsection*.255}
+\contentsline {subsection}{Rokovo Brezno to the Hall of the Mountain King}{275}{subsection*.256}
+\contentsline {subsection}{Hall of the Mountain King to Upside Down Chamber}{276}{subsection*.257}
+\contentsline {subsection}{Hall of the Mountain King to Ajdovcina}{276}{subsection*.258}
+\contentsline {subsection}{Ajvdovcina to TTT}{276}{subsection*.259}
+\contentsline {subsection}{TTT to Povezava aven}{277}{subsection*.260}
+\contentsline {subsection}{Povezava aven to Sejna Soba}{277}{subsection*.261}
+\contentsline {section}{A visit to the Southern Reaches via Stuck in Paradise}{279}{section*.263}
+\contentsline {subsection}{Overview}{279}{subsection*.264}
+\contentsline {subsection}{Friendship Gallery to Hidden Surprise}{279}{subsection*.265}
+\contentsline {subsection}{Hidden Surprise to Red Baron traverse}{279}{subsection*.266}
+\contentsline {subsection}{Red Baron traverse to Stuck in Paradise}{279}{subsection*.267}
+\contentsline {subsection}{Stuck in Paradise to Sic Semper Tyrannis}{281}{subsection*.269}
+\contentsline {subsection}{Sic Semper Tyrannis to First Draft}{281}{subsection*.270}
+\contentsline {subsection}{Final Draft to Choke-a-Bloke}{281}{subsection*.271}
+\contentsline {section}{M2-M16 roundtrip with excursion to Bikini Carwash}{284}{section*.273}
+\contentsline {subsection}{Overview}{284}{subsection*.274}
+\contentsline {subsection}{ M2 entrance to Silos pitch}{284}{subsection*.275}
+\contentsline {subsection}{Silos pitch to Tradesman entrance}{284}{subsection*.276}
+\contentsline {subsection}{Tradesman entrance to Level 2}{284}{subsection*.277}
+\contentsline {subsection}{Level 2 to Bikini Carwash}{285}{subsection*.278}
+\contentsline {subsection}{Level 2 to Hotline}{285}{subsection*.279}
+\contentsline {subsection}{Hotline to Brezno Strahov}{285}{subsection*.280}
+\contentsline {subsection}{Brezno Strahov to M16 Entrance}{285}{subsection*.281}
+\contentsfinish 

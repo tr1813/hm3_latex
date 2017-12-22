@@ -1,0 +1,326 @@
+\documentclass[symmetric, a4paper, 11pt]{tufte-book}
+
+
+%______________________HEADER INFO
+\title{The Hollow Mountain III}
+\author{Imperial College Caving Club - Jamarska Sekcija PD Tolmin}
+\publisher{Explorations in Tolminski Migovec 2013--2017}
+
+
+%________________________PACKAGE ZONE
+
+%___________Handling the graphics, floats and captions
+\usepackage{grffile}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{ccaption}
+\usepackage{subcaption}
+\captionsetup{compatibility=false}
+
+%____________Handling the fonts
+\usepackage[utf8]{inputenc}
+
+%____________General page structure + typesetting options
+\usepackage{multicol}
+\usepackage{ragged2e}
+\usepackage[strict]{changepage}
+\usepackage{setspace}
+\usepackage{xfrac}
+\usepackage[pages=some,placement=center]{background}
+\usepackage{afterpage}
+
+\newcommand\blankpage{%
+    h\null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage}
+
+%_________Allows the use of RGBA call
+\usepackage{xcolor}
+
+%________FANCY LATEX TABLES
+\usepackage{booktabs}
+\usepackage{colortbl}
+\usepackage{tabularx}
+\usepackage{multirow}
+%_______REFERENCING
+\usepackage{cleveref}
+\usepackage{hyperref}
+\usepackage{cite}
+
+
+%__________________________END OF PACKAGE ZONE
+
+%___________manual override of the numbering and listing in the table of contents: number down to parts, list down to sections.
+\setcounter{secnumdepth}{-1}
+\setcounter{tocdepth}{1}
+
+%____________________ CHANGING FONT DEFAULTS
+\renewcommand{\rmdefault}{ppl}
+\renewcommand{\sfdefault}{lmss}
+\renewcommand{\ttdefault}{lmtt}
+\renewcommand{\familydefault}{\rmdefault}
+
+%____________________ MORE FORMATTING OPTIONS
+\newcommand{\name}[1]{\large{\textbf{\textsl{\flushright{#1}}}} \\}
+\renewcommand{\paragraph}[1]{\textsl{#1}}
+
+%_____________________Definition of the color box environment for the main title pages...
+\usepackage[most]{tcolorbox}
+
+\tcbset{	frame code={}
+    		center title,
+   			left=0pt,
+    		right=0pt,
+    		top=0pt,
+    		bottom=0pt,
+    		colback=white,
+    		colframe=white,
+   		width=\dimexpr\textwidth\relax,
+    		enlarge left by=0mm,
+    		boxsep=5pt,
+    		arc=0pt,outer arc=0pt,
+    		opacityback=0.7
+    	}
+
+%__________________Definitiion of the Tikz environments for side stories and fancy tables
+\usepackage{tikz}
+\usetikzlibrary{shapes,snakes}
+\usepackage{amsmath,amssymb}
+
+\tikzstyle{name-dest} = [	draw=orange!80, 
+					fill=orange!20, 
+					thick,
+					rectangle, 
+					rounded corners, 
+					inner sep=5pt, 
+					inner ysep=10pt
+					]
+					
+\tikzstyle{fancytitle} =	 [	font=\sffamily\large, 
+					fill=orange,
+					text=white
+					]
+
+\tikzstyle{table} = [		draw={rgb:red,1;green,2;blue,5},
+					fill={rgb:red,1;green,2;blue,5;white,24},
+					thick,
+					rectangle, 
+					rounded corners, 
+					inner sep=5pt, 
+					inner ysep=10pt
+					]
+					
+\tikzstyle{tabletitle} = [	font=\sffamily\large,
+					fill={rgb:red,1;green,2;blue,5},
+					text=white
+					]
+					
+%__________________End of the definition of: Tikz environments for side stories and fancy tables	
+
+
+
+
+%___________________START OF THE DOCUMENT: CONTENT ADDED UNDERNEATH				
+
+\begin{document}
+
+\maketitle %Title page
+
+\justify
+
+\tableofcontents %Table of contents listing parts -chapters - sections
+
+\newpage
+
+\setfloatalignment{b} %puts the caption in line with the bottom of the floats for the whole doc.
+
+%__________________________PART 1 -INTRODUCTION (geography, geology, surveying, history, etc...
+
+\begin{tcolorbox} %makes a white opaque background for the text.
+	\part{Introduction}
+\end{tcolorbox}
+	\backgroundsetup{	scale=1,
+					color=black,
+					opacity=1,
+					angle=0,
+					contents={%
+							  \includegraphics[height=\paperheight]{backgrounds/migface.jpg}
+  					} % this puts the entire image as local background
+	}
+\BgThispage %calls the image to be displayed as background, flush with paper edge.
+
+	%_______content files included below:
+	\include{maps-of-mig/Maps-of-Mig}
+	\include{survey/Survey}
+
+
+%____________________________PART 2 - EXPLORATION OF MIGOVEC
+\begin{tcolorbox}
+	\part{The exploration of the Migovec system between 2013-2017}
+\end{tcolorbox}
+	\backgroundsetup{	scale=1,
+					color=black,
+					opacity=1,
+					angle=0,
+					contents={%
+  							\includegraphics[height=\paperheight]{backgrounds/Part-2-explorations.jpg}
+  					}
+	}
+	
+\BgThispage
+%__________________________________2013 CHAPTER
+
+\newpage
+\begin{tcolorbox}
+	\chapter{2013 - Z Mig Na Kuk}
+		\paragraph{A new stage of exploration} opened with 2013. The major connection between System Migovec
+		\\
+		\\
+		\\
+\end{tcolorbox}
+	\backgroundsetup{	scale=1,
+					color=black,
+					opacity=1,
+					angle=0,
+					contents={%
+							  \includegraphics[height=\paperheight]{backgrounds/Kuk-2013.jpg}
+  					}
+	}
+\BgThispage
+ 
+ %2013 content files included below
+  
+	\include{2013/tetley-sam-2013/Tetley-Sam-2013}  
+	\include{2013/rhys-jailbreak-2013/Rhys_Jailbreak_2013}
+	\include{2013/sam-storm-2013/Sam_Storm_2013}
+	\include{2013/rhys-sling-2013/Rhys_Sling_2013}
+	\include{2013/gergely-2013/Gergely-2013}
+	\include{2013/other-finds-2013/Other-finds-2013}
+
+\begin{tcolorbox}
+	\paragraph{In many ways} the 2013 expedition was a good expedition
+	\\
+	\\
+	\\
+\end{tcolorbox}
+	\backgroundsetup{	scale=1,
+					color=black,
+					opacity=1,
+					angle=0,
+					contents={%
+							  \includegraphics[height=\paperheight]{backgrounds/Dave-2013.jpg}
+ 					}
+	}
+\BgThispage
+
+
+
+%__________________________________2014 CHAPTER
+
+ %2014 content files included below
+	\include{2014/2014-intro}
+	
+	\include{2014/welcome-2014/Welcome-2014}
+	\include{2014/tanguy-jailbreak-2014/Tanguy-Jailbreak-2014}
+	\include{2014/tanguy-B10-2014/Tanguy-B10-2014}
+	\include{2014/jarv-2014/Jarv-2014}
+	\include{2014/rhys-colarado-2014/Rhys-Colarado-2014}
+	\include{2014/james-yourmum-2014/James-YourMum-2014}
+	\include{2014/esoterica-2014/Esoterica-2014}
+	\include{2014/sam-stupid-2014/Sam-Stupid-2014}
+	\include{2014/tanguy-2014/Tanguy-2014}
+	\include{2014/more-extracts-2014/More-extracts-2014}
+	\include{2014/other-finds-2014/Other-finds-2014}
+	
+	\include{2014/2014-intro}
+
+%___________________________________2015 CHAPTER
+
+
+	\include{2015/2015-intro}
+
+	\include{2015/jack-M10-2015/Jack-M10-2015}
+	\include{2015/jack-coincidence-2015/Jack-coincidence-2015}
+	\include{2015/jack-yorkshire-2015/Jack-Yorkshire-2015}
+	\include{2015/tanguy-meridian-2015/Tanguy-Meridian-2015}
+	\include{2015/tanguy-push-2015/Tanguy-Push-2015}
+	\include{2015/tanguy-night-2015/Tanguy-Night-2015}
+	%\include{2015/ben-2015/Ben-2015}
+	\include{2015/tanguy-photography-2015/Tanguy-Photography-2015}
+	\include{2015/tanguy-lazarus-2015/Tanguy-Lazarus-2015}
+	\include{2015/other-finds-2015/Other-finds-2015}
+
+	\include{2015/2015-outro}
+	
+	\newpage
+
+	\include{2015/rile-connection-2015/Rile_Connection_2015} %Between 2015 and 2016 I included Rile's connection report both Slovene and English versions.
+
+%__________________________________2016 CHAPTER
+
+	\include{2016/2016-intro}
+
+	 \include{2016/back-to-the-hollow-mountain-2016/Back-to-the-Hollow-Mountain-2016}
+	 \include{2016/jack-begin-2016/Jack-Begin-2016} 
+	 \include{2016/miriam-2016/Miriam-2016}
+	 \include{2016/tanguy-karstaway-2016/Tanguy-Karstaway-2016} 
+	 \include{2016/jack-middle-2016/Jack_Middle_2016}
+	 \include{2016/tanguy-pavement-2016/Tanguy-Pavement-2016}
+	 \include{2016/jack-end-2016/Jack_End_2016}
+	 \include{2016/tanguy-dvu-2016/Tanguy-DVU-2016}
+	 \include{2016/tanguy-sewer-2016/Tanguy-sewer-2016}
+ 	 \include{2016/arun-rescue-2016/Arun-rescue-2016}
+ 	 \include{2016/other-finds-2016/Other-finds-2016}
+	 
+	 \include{2016/2016-outro}
+ 
+
+  
+
+%_______________________________ 2017 CHAPTER
+
+	\include{2017/2017-intro}
+
+	\include{2017/welcome-2017/Jarv-welcome-2017}
+	\include{2017/gondolin-2017/Gondolin-2017}
+	\include{2017/jack-electric-2017/Jack-Electric-2017}
+	\include{2017/tanguy-hearts-2017/Tanguy-Hearts-2017}
+	\include{2017/tanguy-hammerhead-2017/Tanguy-hammerhead-2017}
+	\include{2017/rhys-hallelujah-2017/Rhys-Hallelujah-2017}
+	\include{2017/tanguy-n-2017/Tanguy_N_2017}
+	\include{2017/tanguy-alabaster-2017/Tanguy-Alabaster-2017}
+	\include{2017/other-finds-2017/Other-Finds-2017}
+	
+	\include{2017/2017-outro}
+  
+%_______________________________END OF PART2 _ HISTORY OF EXPLORATION
+
+
+%_______________________________  PART 3 - TRIP & CAVE DESCRIPTIONS - SURVEYS
+
+\begin{tcolorbox}
+	\include{footsteps}
+\end{tcolorbox}
+
+	\backgroundsetup{	scale=1,
+					color=black,
+					opacity=1,
+					angle=0,
+					contents={%
+							  \includegraphics[width=\paperwidth]{backgrounds/Jack-Mountain-King.jpg}
+  					}
+	}
+\BgThispage
+
+	\include{Prima-Mona-trip}
+	\include{Prima-low-trip}
+	\include{Paradise-trip}
+	\include{M2_M16_roundtrip}
+
+
+
+	\checkoddpage \ifoddpage \forcerectofloat \else \forceversofloat \fi
+	\listoffigures
+
+\end{document}
