@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="440mm"
+   height="297mm"
+   viewBox="0 0 1559.0551 1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="hollowmountain 3 frontpage.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4168">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4170" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4172" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4160">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4162" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4164" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4213">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4215" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4217" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4213"
+       id="linearGradient4219"
+       x1="414.16254"
+       y1="1029.2095"
+       x2="416.92847"
+       y2="887.78815"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.902988,802,106.44668)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4160"
+       id="linearGradient4166"
+       x1="10.726196"
+       y1="-124.51899"
+       x2="-377.14703"
+       y2="1.9234731"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-822,0)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4168"
+       id="radialGradient4176"
+       cx="5.5466528"
+       cy="-497.89651"
+       fx="5.5466528"
+       fy="-497.89651"
+       r="39.830025"
+       gradientTransform="matrix(1,0,0,6.520521,-823.89978,3116.9988)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4213"
+       id="linearGradient4186"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.6781436,-11.05155,-1832.3218)"
+       x1="414.16254"
+       y1="1029.2095"
+       x2="416.92847"
+       y2="887.78815" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4213"
+       id="linearGradient4189"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.902988,-22,106.44668)"
+       x1="414.16254"
+       y1="1029.2095"
+       x2="416.92847"
+       y2="887.78815" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="207.95281"
+     inkscape:cy="552.36544"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="749"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     width="440mm">
+    <sodipodi:guide
+       position="735.39106,0"
+       orientation="0,1"
+       id="guide4489" />
+    <sodipodi:guide
+       position="702.85715,1054.2857"
+       orientation="0,1"
+       id="guide4491" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1.6535434e-6)">
+    <image
+       sodipodi:absref="/Users/AchilleTalon/Desktop/Dave-Hallelujah.jpg"
+       xlink:href="file:///Users/AchilleTalon/Desktop/Dave-Hallelujah.jpg"
+       transform="matrix(0,1,-1,0,0,0)"
+       width="1137.5385"
+       height="758.35895"
+       preserveAspectRatio="none"
+       id="image4336"
+       x="-80.58815"
+       y="-1571.2268" />
+    <image
+       sodipodi:absref="/Users/AchilleTalon/Desktop/Will Scott ascending.jpg"
+       xlink:href="file:///Users/AchilleTalon/Desktop/Will%20Scott%20ascending.jpg"
+       width="756.46313"
+       height="1137.5385"
+       preserveAspectRatio="none"
+       id="image4198"
+       x="-18.184334"
+       y="-54.58815" />
+    <rect
+       y="-128.03639"
+       x="-1572.2788"
+       height="172.69983"
+       width="758.36005"
+       id="use4221"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4166);stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(-1,-1)" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient4219);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       id="rect4211"
+       width="758.36005"
+       height="188.05006"
+       x="793.91876"
+       y="907.1236" />
+    <g
+       id="g4266"
+       transform="translate(874.57141,-82)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4205"
+         y="1044.5458"
+         x="-1.7949219"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:20px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+           y="1044.5458"
+           x="-1.7949219"
+           id="tspan4207"
+           sodipodi:role="line">Imperial College </tspan><tspan
+           style="font-size:20px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+           y="1069.5458"
+           x="-1.7949219"
+           sodipodi:role="line"
+           id="tspan4178">Caving Club</tspan><tspan
+           style="font-size:20px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+           id="tspan4209"
+           y="1094.5458"
+           x="-1.7949219"
+           sodipodi:role="line" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="646.4361"
+         y="1023.579"
+         id="use4227"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4231"
+           x="653.38922"
+           y="1023.579"
+           style="font-size:20px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">Jamarska Sekcija </tspan><tspan
+           sodipodi:role="line"
+           x="653.38922"
+           y="1048.579"
+           style="font-size:20px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+           id="tspan4180">Planinskega Drustva </tspan><tspan
+           sodipodi:role="line"
+           x="646.4361"
+           y="1073.579"
+           style="font-size:20px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+           id="tspan4182">Tolmin</tspan><tspan
+           sodipodi:role="line"
+           x="646.4361"
+           y="1098.579"
+           id="tspan4233"
+           style="font-size:20px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1" /></text>
+    </g>
+    <rect
+       y="-344.31653"
+       x="-19.132812"
+       height="349.47864"
+       width="758.36005"
+       id="rect4184"
+       style="opacity:1;fill:url(#linearGradient4186);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       transform="scale(1,-1)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4341"
+       y="71.707848"
+       x="519.79968"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.8407402px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5936296;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:23.74518394px;text-align:end;text-anchor:end;fill:#ffffff;stroke:#ffffff;stroke-width:0.5936296;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-opacity:1"
+         y="71.707848"
+         x="519.79968"
+         id="tspan4343"
+         sodipodi:role="line">The Hollow Mountain III</tspan><tspan
+         id="tspan4345"
+         style="font-size:14.8407402px;text-align:end;text-anchor:end;fill:#ffffff;stroke:#ffffff;stroke-width:0.5936296;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-opacity:1"
+         y="101.38933"
+         x="519.79968"
+         sodipodi:role="line" /></text>
+    <rect
+       transform="scale(-1,-1)"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient4176);stroke-width:1.07546329;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4347"
+       width="78.584587"
+       height="1140.6029"
+       x="-817.23932"
+       y="-1095.8273" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4351"
+       y="782.01251"
+       x="-201.6832"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         id="tspan4355"
+         style="font-size:30px;text-align:end;letter-spacing:2.57999992px;word-spacing:-7.21000004px;text-anchor:end;fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-opacity:1"
+         y="782.01251"
+         x="-199.1032"
+         sodipodi:role="line"
+         dx="-0.83999997">The Hollow Mountain III   2013 - 2017</tspan></text>
+    <image
+       sodipodi:absref="/Users/AchilleTalon/Documents/Migface.png"
+       y="737.81567"
+       x="-1050.9503"
+       id="image4421"
+       xlink:href="file:///Users/AchilleTalon/Documents/Migface.png"
+       preserveAspectRatio="none"
+       height="77.199242"
+       width="125.3201"
+       inkscape:transform-center-x="-4.0886371"
+       inkscape:transform-center-y="7.542644"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="1495.7318"
+       y="70.689453"
+       id="text4201"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4203"
+         x="1495.7318"
+         y="70.689453"
+         style="font-size:45px;text-align:end;text-anchor:end;fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-opacity:1">The Hollow Mountain III</tspan><tspan
+         sodipodi:role="line"
+         x="1495.7318"
+         y="107.00447"
+         style="font-size:25px;text-align:end;text-anchor:end;fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan4264">2013-2017</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4185"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.96519997;fill:#de8787;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="translate(818.302,-36)"><flowRegion
+         id="flowRegion4187"><rect
+           id="rect4189"
+           width="602.05096"
+           height="632.35553"
+           x="-759.6347"
+           y="143.2249"
+           style="stroke-width:0.30000001;stroke-miterlimit:4.21362352;stroke-dasharray:none" /></flowRegion><flowPara
+         id="flowPara4191"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;text-anchor:start;fill:#ffffff;stroke-width:0.30000001;stroke-miterlimit:4.21362352;stroke-dasharray:none">Sistem Migovec, tucked away at the western edge of the Trigavski Narodni Park is the longest cave system in Slovenia. It has been since 2012, when, defying the expectations after a half a decade of effort, the connection between the ‘Old System’ (M2-M16-M18) and the newer Vrtnarija (Gardener’s World) and Vilinska Jama cave was forged after a routine pushing trip at -600m. This - 38 years since the beginnings of exploration underneath Tolminski Migovec, ‘Mig’ as it is affectionately named - made the national news. 	</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;text-anchor:start;fill:#ffffff;stroke-width:0.30000001;stroke-miterlimit:4.21362352;stroke-dasharray:none"
+         id="flowPara4197" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;text-anchor:start;fill:#ffffff;stroke-width:0.30000001;stroke-miterlimit:4.21362352;stroke-dasharray:none"
+         id="flowPara4199">Since then, and rather more discreetly,  Imperial College cavers (ICCC) have repeatedly spent their summers discovering more voids under the hollow mountain, in tandem with the Jamarska Sekcija Planinskega Drustva Tolmin (JSPDT). Bit by bit, the other pieces of the puzzle were extended and connected to the main system. In October 2015, three Slovene cavers found a way between the last big independent cave system, Primadona-Monatip-Uben571 and one of the earliest high level passages of Sistem Migovec, bringing the total to 35.6km of connected passage. Since October 2017, it stands at 39.2km.</flowPara><flowPara
+         id="flowPara4193"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;text-anchor:start;fill:#ffffff;stroke-width:0.30000001;stroke-miterlimit:4.21362352;stroke-dasharray:none" /><flowPara
+         id="flowPara4195"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;text-anchor:start;fill:#ffffff;stroke-width:0.30000001;stroke-miterlimit:4.21362352;stroke-dasharray:none" /></flowRoot>    <rect
+       y="907.1236"
+       x="-30.081238"
+       height="188.05006"
+       width="758.36005"
+       id="rect4187"
+       style="opacity:1;fill:url(#linearGradient4189);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424" />
+    <flowRoot
+       transform="translate(818.302,810)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.96519997;fill:#de8787;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="flowRoot4201"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4203"><rect
+           style="stroke-width:0.30000001;stroke-miterlimit:4.21362352;stroke-dasharray:none"
+           y="143.2249"
+           x="-759.6347"
+           height="73.784111"
+           width="604.90808"
+           id="rect4205" /></flowRegion><flowPara
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;text-anchor:start;fill:#ffffff;stroke-width:0.30000001;stroke-miterlimit:4.21362352;stroke-dasharray:none"
+         id="flowPara4215">Front cover: Hallelujah streamway, Primadona (Rhys Tyers, 2017)</flowPara><flowPara
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;text-anchor:start;fill:#ffffff;stroke-width:0.30000001;stroke-miterlimit:4.21362352;stroke-dasharray:none"
+         id="flowPara4233">Back cover: Bottom of Rokovo Brezno, Primadona. (Tanguy Racine, 2016)</flowPara><flowPara
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;text-anchor:start;fill:#ffffff;stroke-width:0.30000001;stroke-miterlimit:4.21362352;stroke-dasharray:none"
+         id="flowPara4231" /></flowRoot>    <image
+       sodipodi:absref="/Volumes/Tanguy's hard-drive/hm3_latex/jspdt logo.jpg"
+       xlink:href="jspdt logo.jpg"
+       width="62.972542"
+       height="55.795521"
+       preserveAspectRatio="none"
+       id="image4537"
+       x="746.09534"
+       y="4.6425185" />
+  </g>
+</svg>
