@@ -1,5 +1,0 @@
-\beamer@endinputifotherversion {3.36pt}
-\beamer@sectionintoc {1}{Introduction and localisation}{3}{0}{1}
-\beamer@sectionintoc {2}{Brief history}{11}{0}{2}
-\beamer@sectionintoc {3}{Logistics}{24}{0}{3}
-\beamer@sectionintoc {4}{Expedition findings}{34}{0}{4}
