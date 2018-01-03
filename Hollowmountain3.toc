@@ -231,11 +231,4 @@
 \contentsline {subsection}{Hotline to Brezno Strahov}{279}{subsection*.365}
 \contentsline {subsection}{Brezno Strahov to M16 Entrance}{279}{subsection*.366}
 \contentsline {chapter}{Bibliography}{289}{chapter*.368}
-\contentsline {section}{Post-script}{290}{section*.369}
-\contentsline {paragraph}{Collection of the articles}{290}{paragraph*.370}
-\contentsline {paragraph}{Format of this publication}{290}{paragraph*.371}
-\contentsline {paragraph}{Language}{290}{paragraph*.372}
-\contentsline {paragraph}{Graphics}{290}{paragraph*.373}
-\contentsline {paragraph}{Surveys and maps}{290}{paragraph*.374}
-\contentsline {paragraph}{Printing choices}{290}{paragraph*.375}
 \contentsfinish 
