@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.6)  4 JAN 2018 12:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.6)  4 JAN 2018 12:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -885,11 +885,7 @@ Package: changepage 2009/10/20 v1.0c check page and change page layout
 LaTeX Warning: Unused global option(s):
     [symmetric].
 
-(./Jama Gondolin.aux
-
-LaTeX Warning: Label `' multiply defined.
-
-)
+(./Jama Gondolin.aux)
 \openout1 = `"Jama Gondolin.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
@@ -904,7 +900,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
- (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count128
 \scratchdimen=\dimen190
@@ -1054,28 +1051,25 @@ n_Gondolin.jpg> <./images/2017/gondolin-2017/Tanguy-Gondolin.jpg>] (./Jama Gond
 olin.bbl) [6
 
 ]
-(./Jama Gondolin.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+(./Jama Gondolin.aux) ) 
 Here is how much of TeX's memory you used:
- 13840 strings out of 493014
- 273873 string characters out of 6133352
- 316415 words of memory out of 5000000
- 17082 multiletter control sequences out of 15000+600000
+ 13841 strings out of 493014
+ 273878 string characters out of 6133352
+ 316384 words of memory out of 5000000
+ 17083 multiletter control sequences out of 15000+600000
  8850 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,9n,77p,522b,541s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
-local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
-ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "Jama Gondolin.pdf" (6 pages, 2727428 bytes).
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmti10.pfb>
+Output written on "Jama Gondolin.pdf" (6 pages, 2727418 bytes).
 PDF statistics:
  1427 PDF objects out of 1440 (max. 8388607)
  818 compressed objects within 9 object streams
