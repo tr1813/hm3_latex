@@ -85,6 +85,10 @@
 %____________________ MORE FORMATTING OPTIONS
 \newcommand{\name}[1]{\sffamily\normalsize{\textbf{\textsl{\flushright{#1}}}} \\ \rmfamily}
 
+\newenvironment{pagefigure}{% This enables the full width captions.
+    \begin{figure*}[b]
+    \classiccaptionstyle
+  }{\end{figure*}}
 
 %_____________________Definition of the color box environment for the main title pages...
 \usepackage[most]{tcolorbox}
