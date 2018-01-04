@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.6)  3 JAN 2018 21:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.6)  3 JAN 2018 21:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2211,7 +2211,8 @@ LaTeX Warning: Label `paradise' multiply defined.
 
 LaTeX Warning: Label `paradise@cref' multiply defined.
 
-) (./text/other_tex_files/M2_M16_roundtrip.aux) (./Post-script.aux))
+) (./text/other_tex_files/M2_M16_roundtrip.aux)
+(./text/other_tex_files/Post-script.aux))
 \openout1 = `Hollowmountain3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 147.
@@ -2429,7 +2430,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 )
-<images/backgrounds/migface.jpg, id=531, 803.0pt x 1126.2075pt>
+<images/backgrounds/migface.jpg, id=549, 803.0pt x 1126.2075pt>
 File: images/backgrounds/migface.jpg Graphic file (type jpg)
 
 <use images/backgrounds/migface.jpg>
@@ -2447,7 +2448,7 @@ Package pdftex.def Info: images/backgrounds/migface.jpg used on input line 1.
 
 
 ] [8]
-<"images/2017/tanguy-hammerhead-2017/hammerhead-chamber".jpg, id=547, 803.0pt x
+<"images/2017/tanguy-hammerhead-2017/hammerhead-chamber".jpg, id=565, 803.0pt x
  987.69pt>
 File: "images/2017/tanguy-hammerhead-2017/hammerhead-chamber".jpg Graphic file 
 (type jpg)
@@ -2478,7 +2479,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--2
 \openout2 = `text/maps-of-mig/Maps-of-Mig.aux'.
 
  (./text/maps-of-mig/Maps-of-Mig.tex
-<"images/maps-of-mig/migovec-alongside-Andy".jpg, id=562, 301.125pt x 575.14874
+<"images/maps-of-mig/migovec-alongside-Andy".jpg, id=580, 301.125pt x 575.14874
 pt>
 File: "images/maps-of-mig/migovec-alongside-Andy".jpg Graphic file (type jpg)
  <use "images/maps-of-mig/migovec-alongside-Andy".jpg>
@@ -2512,7 +2513,7 @@ LaTeX Warning: Marginpar on page 12 moved.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 10.
 
-<"images/maps-of-mig/Jana Carga Migoec in winter".jpg, id=563, 803.0pt x 364.36
+<"images/maps-of-mig/Jana Carga Migoec in winter".jpg, id=581, 803.0pt x 364.36
 125pt>
 File: "images/maps-of-mig/Jana Carga Migoec in winter".jpg Graphic file (type j
 pg)
@@ -2540,7 +2541,7 @@ Underfull \hbox (badness 1062) in paragraph at lines 21--21
 
  <./images/maps-of-mig/migovec-alongside-Andy.jpg> <./images/maps-of-mig/Jana C
 arga Migoec in winter.jpg>]
-<"images/maps-of-mig/good_geology".png, id=571, 192.72pt x 172.7253pt>
+<"images/maps-of-mig/good_geology".png, id=590, 192.72pt x 172.7253pt>
 File: "images/maps-of-mig/good_geology".png Graphic file (type png)
 
 <use "images/maps-of-mig/good_geology".png>
@@ -2562,7 +2563,7 @@ d in places
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13 <./images/maps-of-mig/good_geology.png>]
-<"images/maps-of-mig/marls_limestone".jpg, id=581, 301.125pt x 567.11874pt>
+<"images/maps-of-mig/marls_limestone".jpg, id=600, 301.125pt x 567.11874pt>
 File: "images/maps-of-mig/marls_limestone".jpg Graphic file (type jpg)
 
 <use "images/maps-of-mig/marls_limestone".jpg>
@@ -2623,7 +2624,7 @@ Overfull \hbox (5.6732pt too wide) in paragraph at lines 58--59
 t named
  []
 
-<"images/maps-of-mig/M2 entrance".jpg, id=588, 301.125pt x 452.69125pt>
+<"images/maps-of-mig/M2 entrance".jpg, id=606, 301.125pt x 452.69125pt>
 File: "images/maps-of-mig/M2 entrance".jpg Graphic file (type jpg)
 
 <use "images/maps-of-mig/M2 entrance".jpg>
@@ -2651,7 +2652,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 74--74
 \T1/ppl/m/n/10 the eight en-trances in \T1/ppl/m/it/10 Sis-tem
  []
 
-<"images/maps-of-mig/M16 entrance".jpg, id=589, 301.125pt x 424.58624pt>
+<"images/maps-of-mig/M16 entrance".jpg, id=607, 301.125pt x 424.58624pt>
 File: "images/maps-of-mig/M16 entrance".jpg Graphic file (type jpg)
 
 <use "images/maps-of-mig/M16 entrance".jpg>
@@ -2682,7 +2683,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--82
 
 LaTeX Warning: Marginpar on page 15 moved.
 
-<"images/maps-of-mig/M17-M19".jpg, id=590, 301.125pt x 452.69125pt>
+<"images/maps-of-mig/M17-M19".jpg, id=608, 301.125pt x 452.69125pt>
 File: "images/maps-of-mig/M17-M19".jpg Graphic file (type jpg)
 
 <use "images/maps-of-mig/M17-M19".jpg>
@@ -2708,7 +2709,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--91
 
 LaTeX Warning: Marginpar on page 15 moved.
 
-<"images/maps-of-mig/system overlay".png, id=591, 192.72pt x 257.0403pt>
+<"images/maps-of-mig/system overlay".png, id=609, 192.72pt x 257.0403pt>
 File: "images/maps-of-mig/system overlay".png Graphic file (type png)
 
 <use "images/maps-of-mig/system overlay".png>
@@ -2736,7 +2737,7 @@ pg> <./images/maps-of-mig/M17-M19.jpg>]
 LaTeX Warning: Text page 16 contains only floats.
 
 [16 <./images/maps-of-mig/system overlay.png>]
-<"images/maps-of-mig/Area N map".pdf, id=607, 538.66014pt x 611.28424pt>
+<"images/maps-of-mig/Area N map".pdf, id=625, 538.66014pt x 611.28424pt>
 File: "images/maps-of-mig/Area N map".pdf Graphic file (type pdf)
 
 <use "images/maps-of-mig/Area N map".pdf>
@@ -2744,7 +2745,7 @@ Package pdftex.def Info: "images/maps-of-mig/Area N map".pdf used on input line
  113.
 (pdftex.def)             Requested size: 468.3323pt x 531.46788pt.
 
-<"images/maps-of-mig/Area K map".pdf, id=608, 545.37885pt x 609.57167pt>
+<"images/maps-of-mig/Area K map".pdf, id=626, 545.37885pt x 609.57167pt>
 File: "images/maps-of-mig/Area K map".pdf Graphic file (type pdf)
 
 <use "images/maps-of-mig/Area K map".pdf>
@@ -2761,7 +2762,7 @@ a K map.pdf>]
 \openout2 = `text/survey/Survey.aux'.
 
  (./text/survey/Survey.tex
-<"images/survey/compasses-Jarv".jpg, id=642, 401.5pt x 675.52374pt>
+<"images/survey/compasses-Jarv".jpg, id=660, 401.5pt x 675.52374pt>
 File: "images/survey/compasses-Jarv".jpg Graphic file (type jpg)
 
 <use "images/survey/compasses-Jarv".jpg>
@@ -2789,7 +2790,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
 \T1/ppl/m/n/10 in-spected prior to leav-ing on
  []
 
-<"images/survey/Jarv-PSS".jpg, id=643, 401.5pt x 631.35875pt>
+<"images/survey/Jarv-PSS".jpg, id=661, 401.5pt x 631.35875pt>
 File: "images/survey/Jarv-PSS".jpg Graphic file (type jpg)
 
 <use "images/survey/Jarv-PSS".jpg>
@@ -2834,7 +2835,7 @@ og-ging which
 
 
  <./images/survey/compasses-Jarv.jpg> <./images/survey/Jarv-PSS.jpg>]
-<"images/survey/Jarv-survey-notes".jpg, id=651, 401.5pt x 534.99875pt>
+<"images/survey/Jarv-survey-notes".jpg, id=669, 401.5pt x 534.99875pt>
 File: "images/survey/Jarv-survey-notes".jpg Graphic file (type jpg)
 
 <use "images/survey/Jarv-survey-notes".jpg>
@@ -2878,7 +2879,7 @@ Overfull \hbox (10.79999pt too wide) in paragraph at lines 100--101
  []
 
 [21 <./images/survey/Jarv-survey-notes.jpg>]
-<"images/survey/Surveying Colony".jpg, id=662, 401.5pt x 401.5pt>
+<"images/survey/Surveying Colony".jpg, id=680, 401.5pt x 401.5pt>
 File: "images/survey/Surveying Colony".jpg Graphic file (type jpg)
 
 <use "images/survey/Surveying Colony".jpg>
@@ -2920,7 +2921,7 @@ Overfull \hbox (10.79997pt too wide) in paragraph at lines 135--153
  []
 
 [22 <./images/survey/Surveying Colony.jpg>]
-<"images/survey/projection".png, id=669, 192.72pt x 63.3567pt>
+<"images/survey/projection".png, id=687, 192.72pt x 63.3567pt>
 File: "images/survey/projection".png Graphic file (type png)
 
 <use "images/survey/projection".png>
@@ -2944,7 +2945,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 )
-<images/backgrounds/Part-2-explorations.jpg, id=678, 803.0pt x 1083.04625pt>
+<images/backgrounds/Part-2-explorations.jpg, id=696, 803.0pt x 1083.04625pt>
 File: images/backgrounds/Part-2-explorations.jpg Graphic file (type jpg)
 
 <use images/backgrounds/Part-2-explorations.jpg>
@@ -2984,7 +2985,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
-) <"images/backgrounds/Kuk-2013".jpg, id=683, 823.075pt x 1026.83624pt>
+) <"images/backgrounds/Kuk-2013".jpg, id=701, 823.075pt x 1026.83624pt>
 File: "images/backgrounds/Kuk-2013".jpg Graphic file (type jpg)
 
 <use "images/backgrounds/Kuk-2013".jpg>
@@ -3003,7 +3004,7 @@ Package pdftex.def Info: "images/backgrounds/Kuk-2013".jpg used on input line 2
 LaTeX Warning: Marginpar on page 26 moved.
 
 
-<images/2013/tetley-sam-2013/beetlejuice_inset.pdf, id=690, 262.9825pt x 433.62
+<images/2013/tetley-sam-2013/beetlejuice_inset.pdf, id=708, 262.9825pt x 433.62
 pt>
 File: images/2013/tetley-sam-2013/beetlejuice_inset.pdf Graphic file (type pdf)
 
@@ -3047,7 +3048,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--32
 
 
  <./images/2013/tetley-sam-2013/beetlejuice_inset.pdf>] [27]
-<images/2013/tetley-sam-2013/creature.pdf, id=718, 1900.09875pt x 1114.1625pt>
+<images/2013/tetley-sam-2013/creature.pdf, id=737, 1900.09875pt x 1114.1625pt>
 File: images/2013/tetley-sam-2013/creature.pdf Graphic file (type pdf)
 
 <use images/2013/tetley-sam-2013/creature.pdf>
@@ -3055,7 +3056,7 @@ Package pdftex.def Info: images/2013/tetley-sam-2013/creature.pdf used on input
  line 89.
 (pdftex.def)             Requested size: 304.44447pt x 178.50764pt.
 
-<images/2013/tetley-sam-2013/hawaii_inset.pdf, id=719, 262.9825pt x 433.62pt>
+<images/2013/tetley-sam-2013/hawaii_inset.pdf, id=738, 262.9825pt x 433.62pt>
 File: images/2013/tetley-sam-2013/hawaii_inset.pdf Graphic file (type pdf)
 
 <use images/2013/tetley-sam-2013/hawaii_inset.pdf>
@@ -3096,7 +3097,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--105
 
 [28 <./images/2013/tetley-sam-2013/creature.pdf> <./images/2013/tetley-sam-2013
 /hawaii_inset.pdf>]
-<images/2013/tetley-sam-2013/Path-below-Kal.jpg, id=744, 803.0pt x 538.01pt>
+<images/2013/tetley-sam-2013/Path-below-Kal.jpg, id=762, 803.0pt x 538.01pt>
 File: images/2013/tetley-sam-2013/Path-below-Kal.jpg Graphic file (type jpg)
 
 <use images/2013/tetley-sam-2013/Path-below-Kal.jpg>
@@ -3114,7 +3115,7 @@ Underfull \hbox (badness 1917) in paragraph at lines 135--135
  []
 
 [29 <./images/2013/tetley-sam-2013/Path-below-Kal.jpg>]
-<images/2013/tetley-sam-2013/Dormouse.png, id=754, 144.54pt x 95.6373pt>
+<images/2013/tetley-sam-2013/Dormouse.png, id=772, 144.54pt x 95.6373pt>
 File: images/2013/tetley-sam-2013/Dormouse.png Graphic file (type png)
 
 <use images/2013/tetley-sam-2013/Dormouse.png>
@@ -3165,7 +3166,7 @@ Overfull \hbox (2.91182pt too wide) in paragraph at lines 21--22
  []
 
 
-<"images/2013/rhys-jailbreak-2013/Pete-Hambley-Jailbreak (1)".jpg, id=778, 602.
+<"images/2013/rhys-jailbreak-2013/Pete-Hambley-Jailbreak (1)".jpg, id=796, 602.
 25pt x 602.25pt>
 File: "images/2013/rhys-jailbreak-2013/Pete-Hambley-Jailbreak (1)".jpg Graphic 
 file (type jpg)
@@ -3175,7 +3176,7 @@ Package pdftex.def Info: "images/2013/rhys-jailbreak-2013/Pete-Hambley-Jailbrea
 k (1)".jpg used on input line 35.
 (pdftex.def)             Requested size: 196.6987pt x 196.70302pt.
 
-<"images/2013/rhys-jailbreak-2013/Pete-Jailbreak".jpg, id=779, 602.25pt x 451.6
+<"images/2013/rhys-jailbreak-2013/Pete-Jailbreak".jpg, id=797, 602.25pt x 451.6
 875pt>
 File: "images/2013/rhys-jailbreak-2013/Pete-Jailbreak".jpg Graphic file (type j
 pg)
@@ -3184,7 +3185,7 @@ Package pdftex.def Info: "images/2013/rhys-jailbreak-2013/Pete-Jailbreak".jpg u
 sed on input line 41.
 (pdftex.def)             Requested size: 262.26494pt x 196.70302pt.
 
-<"images/2013/rhys-jailbreak-2013/Rhys-Jailbreak (1)".jpg, id=780, 803.0pt x 45
+<"images/2013/rhys-jailbreak-2013/Rhys-Jailbreak (1)".jpg, id=798, 803.0pt x 45
 1.6875pt>
 File: "images/2013/rhys-jailbreak-2013/Rhys-Jailbreak (1)".jpg Graphic file (ty
 pe jpg)
@@ -3208,7 +3209,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--74
  []
 
 
-<images/2013/rhys-jailbreak-2013/jailbreak.jpg, id=790, 1918.16624pt x 1398.223
+<images/2013/rhys-jailbreak-2013/jailbreak.jpg, id=808, 1918.16624pt x 1398.223
 75pt>
 File: images/2013/rhys-jailbreak-2013/jailbreak.jpg Graphic file (type jpg)
  <use images/2013/rhys-jailbreak-2013/jailbreak.jpg>
@@ -3237,7 +3238,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
 
 ]
-<"images/2013/sam-storm-2013/Stormclouds".jpg, id=800, 803.0pt x 421.575pt>
+<"images/2013/sam-storm-2013/Stormclouds".jpg, id=818, 803.0pt x 421.575pt>
 File: "images/2013/sam-storm-2013/Stormclouds".jpg Graphic file (type jpg)
 
 <use "images/2013/sam-storm-2013/Stormclouds".jpg>
@@ -3252,7 +3253,7 @@ nput line 79.
 LaTeX Warning: Marginpar on page 37 moved.
 
 
-<"images/2013/rhys-sling-2013/Rhys-Skrbina".jpg, id=806, 301.125pt x 587.19376p
+<"images/2013/rhys-sling-2013/Rhys-Skrbina".jpg, id=824, 301.125pt x 587.19376p
 t>
 File: "images/2013/rhys-sling-2013/Rhys-Skrbina".jpg Graphic file (type jpg)
  <use "images/2013/rhys-sling-2013/Rhys-Skrbina".jpg>
@@ -3279,7 +3280,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--27
 
 
  <./images/2013/rhys-sling-2013/Rhys-Skrbina.jpg>]
-<"images/2013/rhys-sling-2013/Izi-Monatip".jpg, id=813, 301.125pt x 429.605pt>
+<"images/2013/rhys-sling-2013/Izi-Monatip".jpg, id=831, 301.125pt x 429.605pt>
 File: "images/2013/rhys-sling-2013/Izi-Monatip".jpg Graphic file (type jpg)
 
 <use "images/2013/rhys-sling-2013/Izi-Monatip".jpg>
@@ -3319,7 +3320,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--42
  []
 
 
-<"images/2013/gergely-2013/Tim-Child-Stitch".jpg, id=823, 803.0pt x 295.1025pt>
+<"images/2013/gergely-2013/Tim-Child-Stitch".jpg, id=841, 803.0pt x 295.1025pt>
 File: "images/2013/gergely-2013/Tim-Child-Stitch".jpg Graphic file (type jpg)
 <use "images/2013/gergely-2013/Tim-Child-Stitch".jpg>
 Package pdftex.def Info: "images/2013/gergely-2013/Tim-Child-Stitch".jpg used o
@@ -3342,7 +3343,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
 
-<"images/2013/other-finds-2013/Oli-fire".jpg, id=830, 301.125pt x 401.5pt>
+<"images/2013/other-finds-2013/Oli-fire".jpg, id=848, 301.125pt x 401.5pt>
 File: "images/2013/other-finds-2013/Oli-fire".jpg Graphic file (type jpg)
 
 <use "images/2013/other-finds-2013/Oli-fire".jpg>
@@ -3418,7 +3419,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
  []
 
 
-<"images/2013/other-finds-2013/Lethe Sifon 2".jpg, id=838, 602.25pt x 339.2675p
+<"images/2013/other-finds-2013/Lethe Sifon 2".jpg, id=856, 602.25pt x 339.2675p
 t>
 File: "images/2013/other-finds-2013/Lethe Sifon 2".jpg Graphic file (type jpg)
  <use "images/2013/other-finds-2013/Lethe Sifon 2".jpg>
@@ -3426,7 +3427,7 @@ Package pdftex.def Info: "images/2013/other-finds-2013/Lethe Sifon 2".jpg used
 on input line 76.
 (pdftex.def)             Requested size: 468.3323pt x 263.83553pt.
 
-<"images/2013/other-finds-2013/Clare in Lethe".jpg, id=839, 451.6875pt x 451.68
+<"images/2013/other-finds-2013/Clare in Lethe".jpg, id=857, 451.6875pt x 451.68
 75pt>
 File: "images/2013/other-finds-2013/Clare in Lethe".jpg Graphic file (type jpg)
 
@@ -3435,7 +3436,7 @@ Package pdftex.def Info: "images/2013/other-finds-2013/Clare in Lethe".jpg used
  on input line 84.
 (pdftex.def)             Requested size: 259.92099pt x 259.93195pt.
 
-<"images/2013/other-finds-2013/Lethe Canyon".jpg, id=840, 2457.18pt x 3276.24pt
+<"images/2013/other-finds-2013/Lethe Canyon".jpg, id=858, 2457.18pt x 3276.24pt
 >
 File: "images/2013/other-finds-2013/Lethe Canyon".jpg Graphic file (type jpg)
  <use "images/2013/other-finds-2013/Lethe Canyon".jpg>
@@ -3453,7 +3454,7 @@ Underfull \hbox (badness 1173) in paragraph at lines 98--98
  []
 
 
-<"images/2013/other-finds-2013/kate-end-of-expo-2013".jpg, id=841, 803.0pt x 60
+<"images/2013/other-finds-2013/kate-end-of-expo-2013".jpg, id=859, 803.0pt x 60
 2.25pt>
 File: "images/2013/other-finds-2013/kate-end-of-expo-2013".jpg Graphic file (ty
 pe jpg)
@@ -3471,7 +3472,7 @@ Overfull \hbox (10.79999pt too wide) in paragraph at lines 152--153
  []
 
 
-<"images/2013/other-finds-2013/2013plan".pdf, id=842, 1057.55098pt x 748.39598p
+<"images/2013/other-finds-2013/2013plan".pdf, id=860, 1057.55098pt x 748.39598p
 t>
 File: "images/2013/other-finds-2013/2013plan".pdf Graphic file (type pdf)
  <use "images/2013/other-finds-2013/2013plan".pdf>
@@ -3486,7 +3487,7 @@ Overfull \hbox (17.14865pt too wide) in paragraph at lines 157--160
 
 LaTeX Warning: Float too large for page by 34.0pt on input line 160.
 
-<"images/2013/other-finds-2013/EE2013".pdf, id=843, 597.432pt x 844.95674pt>
+<"images/2013/other-finds-2013/EE2013".pdf, id=861, 597.432pt x 844.95674pt>
 File: "images/2013/other-finds-2013/EE2013".pdf Graphic file (type pdf)
 
 <use "images/2013/other-finds-2013/EE2013".pdf>
@@ -3534,7 +3535,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
-) <images/backgrounds/Dave-2013.jpg, id=934, 803.0pt x 1071.00125pt>
+) <images/backgrounds/Dave-2013.jpg, id=952, 803.0pt x 1071.00125pt>
 File: images/backgrounds/Dave-2013.jpg Graphic file (type jpg)
 
 <use images/backgrounds/Dave-2013.jpg>
@@ -3573,7 +3574,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
-) <images/backgrounds/Rhys Red Cow.jpg, id=940, 803.0pt x 1065.9825pt>
+) <images/backgrounds/Rhys Red Cow.jpg, id=958, 803.0pt x 1065.9825pt>
 File: images/backgrounds/Rhys Red Cow.jpg Graphic file (type jpg)
 
 <use images/backgrounds/Rhys Red Cow.jpg>
@@ -3608,7 +3609,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
-<images/2014/welcome-2014/DSC_1239.jpg, id=946, 501.875pt x 501.875pt>
+<images/2014/welcome-2014/DSC_1239.jpg, id=964, 501.875pt x 501.875pt>
 File: images/2014/welcome-2014/DSC_1239.jpg Graphic file (type jpg)
 
 <use images/2014/welcome-2014/DSC_1239.jpg>
@@ -3616,7 +3617,7 @@ Package pdftex.def Info: images/2014/welcome-2014/DSC_1239.jpg used on input li
 ne 34.
 (pdftex.def)             Requested size: 184.0571pt x 184.05968pt.
 
-<images/2014/welcome-2014/DSC_1333.jpg, id=947, 602.25pt x 401.5pt>
+<images/2014/welcome-2014/DSC_1333.jpg, id=965, 602.25pt x 401.5pt>
 File: images/2014/welcome-2014/DSC_1333.jpg Graphic file (type jpg)
 
 <use images/2014/welcome-2014/DSC_1333.jpg>
@@ -3624,7 +3625,7 @@ Package pdftex.def Info: images/2014/welcome-2014/DSC_1333.jpg used on input li
 ne 40.
 (pdftex.def)             Requested size: 276.31433pt x 184.21437pt.
 
-<images/2014/welcome-2014/DSC_1324.jpg, id=948, 602.25pt x 401.5pt>
+<images/2014/welcome-2014/DSC_1324.jpg, id=966, 602.25pt x 401.5pt>
 File: images/2014/welcome-2014/DSC_1324.jpg Graphic file (type jpg)
 
 <use images/2014/welcome-2014/DSC_1324.jpg>
@@ -3632,7 +3633,7 @@ Package pdftex.def Info: images/2014/welcome-2014/DSC_1324.jpg used on input li
 ne 48.
 (pdftex.def)             Requested size: 276.31433pt x 184.21437pt.
 
-<images/2014/welcome-2014/DSC_1327.jpg, id=949, 501.875pt x 501.875pt>
+<images/2014/welcome-2014/DSC_1327.jpg, id=967, 501.875pt x 501.875pt>
 File: images/2014/welcome-2014/DSC_1327.jpg Graphic file (type jpg)
 
 <use images/2014/welcome-2014/DSC_1327.jpg>
@@ -3640,7 +3641,7 @@ Package pdftex.def Info: images/2014/welcome-2014/DSC_1327.jpg used on input li
 ne 54.
 (pdftex.def)             Requested size: 184.0571pt x 184.05968pt.
 
-<images/2014/welcome-2014/DSC_1252.jpg, id=950, 803.0pt x 351.3125pt>
+<images/2014/welcome-2014/DSC_1252.jpg, id=968, 803.0pt x 351.3125pt>
 File: images/2014/welcome-2014/DSC_1252.jpg Graphic file (type jpg)
 
 <use images/2014/welcome-2014/DSC_1252.jpg>
@@ -3671,7 +3672,7 @@ _1333.jpg> <./images/2014/welcome-2014/DSC_1324.jpg> <./images/2014/welcome-201
 LaTeX Warning: Marginpar on page 52 moved.
 
 
-<images/2014/tanguy-jailbreak-2014/JailbreakPlan.jpg, id=960, 803.0pt x 575.148
+<images/2014/tanguy-jailbreak-2014/JailbreakPlan.jpg, id=978, 803.0pt x 575.148
 74pt>
 File: images/2014/tanguy-jailbreak-2014/JailbreakPlan.jpg Graphic file (type jp
 g)
@@ -3680,7 +3681,7 @@ Package pdftex.def Info: images/2014/tanguy-jailbreak-2014/JailbreakPlan.jpg us
 ed on input line 30.
 (pdftex.def)             Requested size: 468.3323pt x 335.44702pt.
 
-<images/2014/tanguy-jailbreak-2014/migovec_cartoon 14.jpg, id=961, 803.0pt x 39
+<images/2014/tanguy-jailbreak-2014/migovec_cartoon 14.jpg, id=979, 803.0pt x 39
 7.485pt>
 File: images/2014/tanguy-jailbreak-2014/migovec_cartoon 14.jpg Graphic file (ty
 pe jpg)
@@ -3702,7 +3703,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 [53 <./images/2014/tanguy-jailbreak-2014/JailbreakPlan.jpg> <./images/2014/tang
 uy-jailbreak-2014/migovec_cartoon 14.jpg>]
-<images/2014/tanguy-jailbreak-2014/RhysTyers-Jailbreak.jpg, id=971, 501.875pt x
+<images/2014/tanguy-jailbreak-2014/RhysTyers-Jailbreak.jpg, id=989, 501.875pt x
  336.25626pt>
 File: images/2014/tanguy-jailbreak-2014/RhysTyers-Jailbreak.jpg Graphic file (t
 ype jpg)
@@ -3711,7 +3712,7 @@ Package pdftex.def Info: images/2014/tanguy-jailbreak-2014/RhysTyers-Jailbreak.
 jpg used on input line 59.
 (pdftex.def)             Requested size: 242.127pt x 162.22723pt.
 
-<images/2014/tanguy-jailbreak-2014/PeteHambley-Jailbreak.jpg, id=972, 501.875pt
+<images/2014/tanguy-jailbreak-2014/PeteHambley-Jailbreak.jpg, id=990, 501.875pt
  x 376.40625pt>
 File: images/2014/tanguy-jailbreak-2014/PeteHambley-Jailbreak.jpg Graphic file 
 (type jpg)
@@ -3749,8 +3750,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--29
  []
 
 
-<"images/2014/tanguy-B10-2014/Pete-Hambley-B10 (1)".jpg, id=984, 803.0pt x 451.
-6875pt>
+<"images/2014/tanguy-B10-2014/Pete-Hambley-B10 (1)".jpg, id=1002, 803.0pt x 451
+.6875pt>
 File: "images/2014/tanguy-B10-2014/Pete-Hambley-B10 (1)".jpg Graphic file (type
  jpg)
  <use "images/2014/tanguy-B10-2014/Pete-Hambley-B10 (1)".jpg>
@@ -3758,8 +3759,8 @@ Package pdftex.def Info: "images/2014/tanguy-B10-2014/Pete-Hambley-B10 (1)".jpg
  used on input line 34.
 (pdftex.def)             Requested size: 468.3323pt x 263.44006pt.
 
-<"images/2014/tanguy-B10-2014/LimestonePavement".pdf, id=985, 584.1825pt x 532.
-99126pt>
+<"images/2014/tanguy-B10-2014/LimestonePavement".pdf, id=1003, 584.1825pt x 532
+.99126pt>
 File: "images/2014/tanguy-B10-2014/LimestonePavement".pdf Graphic file (type pd
 f)
  <use "images/2014/tanguy-B10-2014/LimestonePavement".pdf>
@@ -3776,7 +3777,7 @@ LaTeX Warning: Marginpar on page 56 moved.
 
 [56 <./images/2014/tanguy-B10-2014/Pete-Hambley-B10 (1).jpg>]
 <"images/2014/tanguy-b10-2014/one of the shakeholes of the limestone pavement".
-jpg, id=992, 301.125pt x 451.6875pt>
+jpg, id=1010, 301.125pt x 451.6875pt>
 File: "images/2014/tanguy-b10-2014/one of the shakeholes of the limestone pavem
 ent".jpg Graphic file (type jpg)
 
@@ -3813,7 +3814,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--87
  []
 
 
-<"images/2014/tanguy-b10-2014/Shakehole_near_M24".jpg, id=1004, 803.0pt x 534.9
+<"images/2014/tanguy-b10-2014/Shakehole_near_M24".jpg, id=1023, 803.0pt x 534.9
 9875pt>
 File: "images/2014/tanguy-b10-2014/Shakehole_near_M24".jpg Graphic file (type j
 pg)
@@ -3834,7 +3835,7 @@ Overfull \hbox (7.42545pt too wide) in paragraph at lines 2--14
 LaTeX Warning: Marginpar on page 59 moved.
 
 
-<"images/2014/jarv-2014/quadcopter-jarv".jpg, id=1011, 301.125pt x 438.63875pt>
+<"images/2014/jarv-2014/quadcopter-jarv".jpg, id=1029, 301.125pt x 438.63875pt>
 File: "images/2014/jarv-2014/quadcopter-jarv".jpg Graphic file (type jpg)
 <use "images/2014/jarv-2014/quadcopter-jarv".jpg>
 Package pdftex.def Info: "images/2014/jarv-2014/quadcopter-jarv".jpg used on in
@@ -3871,7 +3872,7 @@ ren drums.
 
 
  <./images/2014/jarv-2014/quadcopter-jarv.jpg>]
-<images/2014/jarv-2014/red_cow_inset.png, id=1019, 261.52556pt x 436.03706pt>
+<images/2014/jarv-2014/red_cow_inset.png, id=1037, 261.52556pt x 436.03706pt>
 File: images/2014/jarv-2014/red_cow_inset.png Graphic file (type png)
 
 <use images/2014/jarv-2014/red_cow_inset.png>
@@ -3908,7 +3909,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--45
 LaTeX Warning: Marginpar on page 60 moved.
 
 [60 <./images/2014/jarv-2014/red_cow_inset.png>]
-<"images/2014/jarv-2014/formations-potato".jpg, id=1027, 301.125pt x 561.09625p
+<"images/2014/jarv-2014/formations-potato".jpg, id=1045, 301.125pt x 561.09625p
 t>
 File: "images/2014/jarv-2014/formations-potato".jpg Graphic file (type jpg)
  <use "images/2014/jarv-2014/formations-potato".jpg>
@@ -3940,7 +3941,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--79
 LaTeX Warning: Marginpar on page 61 moved.
 
 [61 <./images/2014/jarv-2014/formations-potato.jpg>]
-<images/2014/jarv-2014/Rhys Red Cow.jpg, id=1035, 803.0pt x 602.25pt>
+<images/2014/jarv-2014/Rhys Red Cow.jpg, id=1053, 803.0pt x 602.25pt>
 File: images/2014/jarv-2014/Rhys Red Cow.jpg Graphic file (type jpg)
 
 <use images/2014/jarv-2014/Rhys Red Cow.jpg>
@@ -3951,7 +3952,7 @@ ine 103.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [63]
-<images/2014/jarv-2014/colarado_inset.png, id=1046, 261.52556pt x 436.03706pt>
+<images/2014/jarv-2014/colarado_inset.png, id=1064, 261.52556pt x 436.03706pt>
 File: images/2014/jarv-2014/colarado_inset.png Graphic file (type png)
 
 <use images/2014/jarv-2014/colarado_inset.png>
@@ -3983,7 +3984,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--132
 LaTeX Warning: Marginpar on page 64 moved.
 
 
-<"images/2014/jarv-2014/Hourglass-passage (1)".jpg, id=1047, 451.6875pt x 602.2
+<"images/2014/jarv-2014/Hourglass-passage (1)".jpg, id=1065, 451.6875pt x 602.2
 5pt>
 File: "images/2014/jarv-2014/Hourglass-passage (1)".jpg Graphic file (type jpg)
 
@@ -3992,7 +3993,7 @@ Package pdftex.def Info: "images/2014/jarv-2014/Hourglass-passage (1)".jpg used
  on input line 157.
 (pdftex.def)             Requested size: 161.57521pt x 215.4314pt.
 
-<"images/2014/jarv-2014/Colarado Duck".jpg, id=1048, 501.875pt x 376.40625pt>
+<"images/2014/jarv-2014/Colarado Duck".jpg, id=1066, 501.875pt x 376.40625pt>
 File: "images/2014/jarv-2014/Colarado Duck".jpg Graphic file (type jpg)
 
 <use "images/2014/jarv-2014/Colarado Duck".jpg>
@@ -4000,7 +4001,7 @@ Package pdftex.def Info: "images/2014/jarv-2014/Colarado Duck".jpg used on inpu
 t line 163.
 (pdftex.def)             Requested size: 288.02693pt x 216.02986pt.
 
-<"images/2014/jarv-2014/Rhys Colarado Sump".jpg, id=1049, 602.25pt x 451.6875pt
+<"images/2014/jarv-2014/Rhys Colarado Sump".jpg, id=1067, 602.25pt x 451.6875pt
 >
 File: "images/2014/jarv-2014/Rhys Colarado Sump".jpg Graphic file (type jpg)
  <use "images/2014/jarv-2014/Rhys Colarado Sump".jpg>
@@ -4013,7 +4014,7 @@ Overfull \hbox (2.5pt too wide) in paragraph at lines 170--171
  []
 
 
-<"images/2014/jarv-2014/Rock-of-Sages (1)".jpg, id=1050, 401.5pt x 534.99875pt>
+<"images/2014/jarv-2014/Rock-of-Sages (1)".jpg, id=1068, 401.5pt x 534.99875pt>
 File: "images/2014/jarv-2014/Rock-of-Sages (1)".jpg Graphic file (type jpg)
 <use "images/2014/jarv-2014/Rock-of-Sages (1)".jpg>
 Package pdftex.def Info: "images/2014/jarv-2014/Rock-of-Sages (1)".jpg used on 
@@ -4033,7 +4034,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [65 <./images/2014/jarv-2014/Hourglass-passage (1).jpg> <./images/2014/jarv-20
 14/Colarado Duck.jpg> <./images/2014/jarv-2014/Rhys Colarado Sump.jpg> <./image
 s/2014/jarv-2014/Rock-of-Sages (1).jpg>]
-<images/2014/jarv-2014/SpaceOdyssey.jpg, id=1062, 599.23875pt x 301.125pt>
+<images/2014/jarv-2014/SpaceOdyssey.jpg, id=1080, 599.23875pt x 301.125pt>
 File: images/2014/jarv-2014/SpaceOdyssey.jpg Graphic file (type jpg)
 
 <use images/2014/jarv-2014/SpaceOdyssey.jpg>
@@ -4063,7 +4064,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 237--6
 \openout2 = `text/2014/rhys-colarado-2014/Rhys-Colarado-2014.aux'.
 
  (./text/2014/rhys-colarado-2014/Rhys-Colarado-2014.tex
-<"images/2014/rhys-colarado-2014/Frost-crystals Leprechaun".jpg, id=1078, 501.8
+<"images/2014/rhys-colarado-2014/Frost-crystals Leprechaun".jpg, id=1096, 501.8
 75pt x 376.40625pt>
 File: "images/2014/rhys-colarado-2014/Frost-crystals Leprechaun".jpg Graphic fi
 le (type jpg)
@@ -4089,7 +4090,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--27
  []
 
 
-<"images/2014/rhys-colarado-2014/republica_rerig".jpg, id=1079, 676.5275pt x 62
+<"images/2014/rhys-colarado-2014/republica_rerig".jpg, id=1097, 676.5275pt x 62
 9.35126pt>
 File: "images/2014/rhys-colarado-2014/republica_rerig".jpg Graphic file (type j
 pg)
@@ -4111,7 +4112,7 @@ Underfull \hbox (badness 3803) in paragraph at lines 76--76
 
 
  <./images/2014/rhys-colarado-2014/Frost-crystals Leprechaun.jpg>]
-<"images/2014/rhys-colarado-2014/Frost-crystals-Leprechaun-2".jpg, id=1087, 501
+<"images/2014/rhys-colarado-2014/Frost-crystals-Leprechaun-2".jpg, id=1105, 501
 .875pt x 376.40625pt>
 File: "images/2014/rhys-colarado-2014/Frost-crystals-Leprechaun-2".jpg Graphic 
 file (type jpg)
@@ -4140,7 +4141,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--86
 LaTeX Warning: Marginpar on page 70 moved.
 
 
-<"images/2014/rhys-colarado-2014/Republika_Jarvist".jpg, id=1088, 803.0pt x 449
+<"images/2014/rhys-colarado-2014/Republika_Jarvist".jpg, id=1106, 803.0pt x 449
 .68pt>
 File: "images/2014/rhys-colarado-2014/Republika_Jarvist".jpg Graphic file (type
  jpg)
@@ -4149,7 +4150,7 @@ Package pdftex.def Info: "images/2014/rhys-colarado-2014/Republika_Jarvist".jpg
  used on input line 97.
 (pdftex.def)             Requested size: 468.3323pt x 262.26923pt.
 
-<"images/2014/rhys-colarado-2014/Frost-mud-formations".jpg, id=1089, 501.875pt 
+<"images/2014/rhys-colarado-2014/Frost-mud-formations".jpg, id=1107, 501.875pt 
 x 501.875pt>
 File: "images/2014/rhys-colarado-2014/Frost-mud-formations".jpg Graphic file (t
 ype jpg)
@@ -4158,7 +4159,7 @@ Package pdftex.def Info: "images/2014/rhys-colarado-2014/Frost-mud-formations".
 jpg used on input line 104.
 (pdftex.def)             Requested size: 166.25597pt x 166.25487pt.
 
-<"images/2014/rhys-colarado-2014/Frost-mud-formations-2".jpg, id=1090, 501.875p
+<"images/2014/rhys-colarado-2014/Frost-mud-formations-2".jpg, id=1108, 501.875p
 t x 282.05376pt>
 File: "images/2014/rhys-colarado-2014/Frost-mud-formations-2".jpg Graphic file 
 (type jpg)
@@ -4194,7 +4195,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--21
  []
 
 
-<images/2014/james-yourmum-2014/Life_at_Xray.jpg, id=1107, 301.125pt x 490.8337
+<images/2014/james-yourmum-2014/Life_at_Xray.jpg, id=1125, 301.125pt x 490.8337
 6pt>
 File: images/2014/james-yourmum-2014/Life_at_Xray.jpg Graphic file (type jpg)
  <use images/2014/james-yourmum-2014/Life_at_Xray.jpg>
@@ -4228,7 +4229,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--42
  []
 
 
-<"images/2014/james-yourmum-2014/tent-on-surface".jpg, id=1108, 803.0pt x 534.9
+<"images/2014/james-yourmum-2014/tent-on-surface".jpg, id=1126, 803.0pt x 534.9
 9875pt>
 File: "images/2014/james-yourmum-2014/tent-on-surface".jpg Graphic file (type j
 pg)
@@ -4260,7 +4261,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--28
  []
 
 
-<"images/2014/esoterica-2014/Will-at-camp".jpg, id=1127, 301.125pt x 622.325pt>
+<"images/2014/esoterica-2014/Will-at-camp".jpg, id=1145, 301.125pt x 622.325pt>
 File: "images/2014/esoterica-2014/Will-at-camp".jpg Graphic file (type jpg)
 <use "images/2014/esoterica-2014/Will-at-camp".jpg>
 Package pdftex.def Info: "images/2014/esoterica-2014/Will-at-camp".jpg used on 
@@ -4295,7 +4296,7 @@ LaTeX Warning: Marginpar on page 76 moved.
 LaTeX Warning: Marginpar on page 76 moved.
 
 
-<"images/2014/esoterica-2014/plan_serrure".png, id=1128, 280.4076pt x 233.1912p
+<"images/2014/esoterica-2014/plan_serrure".png, id=1146, 280.4076pt x 233.1912p
 t>
 File: "images/2014/esoterica-2014/plan_serrure".png Graphic file (type png)
  <use "images/2014/esoterica-2014/plan_serrure".png>
@@ -4317,7 +4318,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
-<images/2014/esoterica-2014/Izi-sunset.jpg, id=1134, 803.0pt x 352.31625pt>
+<images/2014/esoterica-2014/Izi-sunset.jpg, id=1152, 803.0pt x 352.31625pt>
 File: images/2014/esoterica-2014/Izi-sunset.jpg Graphic file (type jpg)
 
 <use images/2014/esoterica-2014/Izi-sunset.jpg>
@@ -4334,7 +4335,7 @@ rica-2014/Izi-sunset.jpg>]
 LaTeX Warning: Marginpar on page 79 moved.
 
 
-<"images/2014/sam-stupid-2014/Sam-Stupid".jpg, id=1146, 301.125pt x 419.5675pt>
+<"images/2014/sam-stupid-2014/Sam-Stupid".jpg, id=1165, 301.125pt x 419.5675pt>
 File: "images/2014/sam-stupid-2014/Sam-Stupid".jpg Graphic file (type jpg)
 <use "images/2014/sam-stupid-2014/Sam-Stupid".jpg>
 Package pdftex.def Info: "images/2014/sam-stupid-2014/Sam-Stupid".jpg used on i
@@ -4382,7 +4383,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
 
 (./text/2014/tanguy-2014/Tanguy-2014.tex
-<images/2014/tanguy-2014/Bottom of Pico.jpg, id=1153, 803.0pt x 602.25pt>
+<images/2014/tanguy-2014/Bottom of Pico.jpg, id=1172, 803.0pt x 602.25pt>
 File: images/2014/tanguy-2014/Bottom of Pico.jpg Graphic file (type jpg)
 
 <use images/2014/tanguy-2014/Bottom of Pico.jpg>
@@ -4400,7 +4401,7 @@ LaTeX Warning: Marginpar on page 81 moved.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [81 <./images/2014/tanguy-2014/Bottom of Pico.jpg>]
-<"images/2014/tanguy-2014/Laurel-Jarv".jpg, id=1164, 301.125pt x 808.01875pt>
+<"images/2014/tanguy-2014/Laurel-Jarv".jpg, id=1182, 301.125pt x 808.01875pt>
 File: "images/2014/tanguy-2014/Laurel-Jarv".jpg Graphic file (type jpg)
 
 <use "images/2014/tanguy-2014/Laurel-Jarv".jpg>
@@ -4426,7 +4427,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--71
 
 LaTeX Warning: Marginpar on page 82 moved.
 
-<images/2014/tanguy-2014/campxray.jpg, id=1165, 784.9325pt x 522.95375pt>
+<images/2014/tanguy-2014/campxray.jpg, id=1183, 784.9325pt x 522.95375pt>
 File: images/2014/tanguy-2014/campxray.jpg Graphic file (type jpg)
 
 <use images/2014/tanguy-2014/campxray.jpg>
@@ -4448,7 +4449,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [82 <./images/2014/tanguy-2014/Laurel-Jarv.jpg>] [83 <./images/2014/tanguy-201
 4/campxray.jpg>]
-<"images/2014/tanguy-2014/RhysTyers_AmazingGrace-2 (1)".jpg, id=1177, 501.875pt
+<"images/2014/tanguy-2014/RhysTyers_AmazingGrace-2 (1)".jpg, id=1195, 501.875pt
  x 752.8125pt>
 File: "images/2014/tanguy-2014/RhysTyers_AmazingGrace-2 (1)".jpg Graphic file (
 type jpg)
@@ -4458,7 +4459,7 @@ Package pdftex.def Info: "images/2014/tanguy-2014/RhysTyers_AmazingGrace-2 (1)"
 .jpg used on input line 109.
 (pdftex.def)             Requested size: 184.0571pt x 276.08954pt.
 
-<"images/2014/tanguy-2014/RhysTyers_AmazingGrace (1)".jpg, id=1178, 501.875pt x
+<"images/2014/tanguy-2014/RhysTyers_AmazingGrace (1)".jpg, id=1196, 501.875pt x
  501.875pt>
 File: "images/2014/tanguy-2014/RhysTyers_AmazingGrace (1)".jpg Graphic file (ty
 pe jpg)
@@ -4467,7 +4468,7 @@ Package pdftex.def Info: "images/2014/tanguy-2014/RhysTyers_AmazingGrace (1)".j
 pg used on input line 115.
 (pdftex.def)             Requested size: 276.31433pt x 276.33075pt.
 
-<"images/2014/tanguy-2014/RhysTyers_Atlantis (1)".jpg, id=1179, 903.375pt x 507
+<"images/2014/tanguy-2014/RhysTyers_Atlantis (1)".jpg, id=1197, 903.375pt x 507
 .8975pt>
 File: "images/2014/tanguy-2014/RhysTyers_Atlantis (1)".jpg Graphic file (type j
 pg)
@@ -4490,7 +4491,7 @@ ver 11 months,
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [84]
-<images/2014/tanguy-2014/Atlantis_inset.png, id=1184, 261.52556pt x 436.03706pt
+<images/2014/tanguy-2014/Atlantis_inset.png, id=1202, 261.52556pt x 436.03706pt
 >
 File: images/2014/tanguy-2014/Atlantis_inset.png Graphic file (type png)
  <use images/2014/tanguy-2014/Atlantis_inset.png>
@@ -4519,7 +4520,7 @@ LaTeX Warning: Marginpar on page 85 moved.
 [85 <./images/2014/tanguy-2014/RhysTyers_AmazingGrace-2 (1).jpg> <./images/2014
 /tanguy-2014/RhysTyers_AmazingGrace (1).jpg> <./images/2014/tanguy-2014/RhysTye
 rs_Atlantis (1).jpg> <./images/2014/tanguy-2014/Atlantis_inset.png>]
-<"images/2014/tanguy-2014/Sic Semper Tyrannis".jpg, id=1193, 629.35126pt x 973.
+<"images/2014/tanguy-2014/Sic Semper Tyrannis".jpg, id=1211, 629.35126pt x 973.
 6375pt>
 File: "images/2014/tanguy-2014/Sic Semper Tyrannis".jpg Graphic file (type jpg)
 
@@ -4528,7 +4529,7 @@ Package pdftex.def Info: "images/2014/tanguy-2014/Sic Semper Tyrannis".jpg used
  on input line 152.
 (pdftex.def)             Requested size: 304.44447pt x 470.98053pt.
 
-<"images/2014/tanguy-2014/RhysTyers_HelmsDeep (1)".jpg, id=1194, 803.0pt x 1099
+<"images/2014/tanguy-2014/RhysTyers_HelmsDeep (1)".jpg, id=1212, 803.0pt x 1099
 .10625pt>
 File: "images/2014/tanguy-2014/RhysTyers_HelmsDeep (1)".jpg Graphic file (type 
 jpg)
@@ -4581,7 +4582,7 @@ Overfull \hbox (10.79999pt too wide) in paragraph at lines 242--243
  []
 
 [91]
-<"images/2014/tanguy-2014/Aileen_blockage_2".jpg, id=1225, 501.875pt x 669.5012
+<"images/2014/tanguy-2014/Aileen_blockage_2".jpg, id=1243, 501.875pt x 669.5012
 5pt>
 File: "images/2014/tanguy-2014/Aileen_blockage_2".jpg Graphic file (type jpg)
  <use "images/2014/tanguy-2014/Aileen_blockage_2".jpg>
@@ -4589,7 +4590,7 @@ Package pdftex.def Info: "images/2014/tanguy-2014/Aileen_blockage_2".jpg used o
 n input line 258.
 (pdftex.def)             Requested size: 198.1065pt x 264.28154pt.
 
-<"images/2014/tanguy-2014/Aileen_blockage".jpg, id=1226, 501.875pt x 501.875pt>
+<"images/2014/tanguy-2014/Aileen_blockage".jpg, id=1244, 501.875pt x 501.875pt>
 File: "images/2014/tanguy-2014/Aileen_blockage".jpg Graphic file (type jpg)
 <use "images/2014/tanguy-2014/Aileen_blockage".jpg>
 Package pdftex.def Info: "images/2014/tanguy-2014/Aileen_blockage".jpg used on 
@@ -4617,7 +4618,7 @@ ulley-jammer
  []
 
 
-<"images/2014/tanguy-2014/Aileen Pun Too Far".jpg, id=1236, 401.5pt x 534.99875
+<"images/2014/tanguy-2014/Aileen Pun Too Far".jpg, id=1254, 401.5pt x 534.99875
 pt>
 File: "images/2014/tanguy-2014/Aileen Pun Too Far".jpg Graphic file (type jpg)
  <use "images/2014/tanguy-2014/Aileen Pun Too Far".jpg>
@@ -4625,7 +4626,7 @@ Package pdftex.def Info: "images/2014/tanguy-2014/Aileen Pun Too Far".jpg used
 on input line 298.
 (pdftex.def)             Requested size: 147.99031pt x 197.20357pt.
 
-<"images/2014/tanguy-2014/Canyon Pun Too Far".jpg, id=1237, 602.25pt x 375.4025
+<"images/2014/tanguy-2014/Canyon Pun Too Far".jpg, id=1255, 602.25pt x 375.4025
 pt>
 File: "images/2014/tanguy-2014/Canyon Pun Too Far".jpg Graphic file (type jpg)
  <use "images/2014/tanguy-2014/Canyon Pun Too Far".jpg>
@@ -4633,7 +4634,7 @@ Package pdftex.def Info: "images/2014/tanguy-2014/Canyon Pun Too Far".jpg used
 on input line 304.
 (pdftex.def)             Requested size: 315.65408pt x 196.76276pt.
 
-<"images/2014/tanguy-2014/Milka Pitch".jpg, id=1238, 803.0pt x 451.6875pt>
+<"images/2014/tanguy-2014/Milka Pitch".jpg, id=1256, 803.0pt x 451.6875pt>
 File: "images/2014/tanguy-2014/Milka Pitch".jpg Graphic file (type jpg)
 
 <use "images/2014/tanguy-2014/Milka Pitch".jpg>
@@ -4644,7 +4645,7 @@ t line 309.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [94]
-<images/2014/tanguy-2014/notebook.pdf, id=1243, 555.29112pt x 664.19603pt>
+<images/2014/tanguy-2014/notebook.pdf, id=1261, 555.29112pt x 664.19603pt>
 File: images/2014/tanguy-2014/notebook.pdf Graphic file (type pdf)
 
 <use images/2014/tanguy-2014/notebook.pdf>
@@ -4669,7 +4670,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 4001) has occurred while \output is active []
 
  [96 <./images/2014/tanguy-2014/notebook.pdf>]
-<"images/2014/tanguy-2014/Area N Sunrise".jpg, id=1266, 803.0pt x 451.6875pt>
+<"images/2014/tanguy-2014/Area N Sunrise".jpg, id=1284, 803.0pt x 451.6875pt>
 File: "images/2014/tanguy-2014/Area N Sunrise".jpg Graphic file (type jpg)
 
 <use "images/2014/tanguy-2014/Area N Sunrise".jpg>
@@ -4691,7 +4692,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
  []
 
 
-<images/2014/more-extracts-2014/sunset-drinks.jpg, id=1277, 803.0pt x 534.99875
+<images/2014/more-extracts-2014/sunset-drinks.jpg, id=1295, 803.0pt x 534.99875
 pt>
 File: images/2014/more-extracts-2014/sunset-drinks.jpg Graphic file (type jpg)
  <use images/2014/more-extracts-2014/sunset-drinks.jpg>
@@ -4711,7 +4712,7 @@ Overfull \hbox (15.41179pt too wide) in paragraph at lines 5--6
 ud-ing Monatip
  []
 
-<images/2014/other-finds-2014/N09_Tanguy.jpg, id=1288, 803.0pt x 451.6875pt>
+<images/2014/other-finds-2014/N09_Tanguy.jpg, id=1307, 803.0pt x 451.6875pt>
 File: images/2014/other-finds-2014/N09_Tanguy.jpg Graphic file (type jpg)
 
 <use images/2014/other-finds-2014/N09_Tanguy.jpg>
@@ -4741,93 +4742,99 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
 
-Overfull \hbox (10.79999pt too wide) in paragraph at lines 47--48
+Overfull \hbox (10.79999pt too wide) in paragraph at lines 49--50
 [][] 
  []
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [102 <./images/2014/other-finds-2014/N09_Tanguy.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
 
-<images/2014/other-finds-2014/end_of_expo_2014.jpg, id=1302, 803.0pt x 534.9987
+<images/2014/other-finds-2014/end_of_expo_2014.jpg, id=1320, 803.0pt x 534.9987
 5pt>
 File: images/2014/other-finds-2014/end_of_expo_2014.jpg Graphic file (type jpg)
 
  <use images/2014/other-finds-2014/end_of_expo_2014.jpg>
 Package pdftex.def Info: images/2014/other-finds-2014/end_of_expo_2014.jpg used
- on input line 61.
+ on input line 63.
 (pdftex.def)             Requested size: 463.65155pt x 308.9117pt.
 
-Underfull \hbox (badness 2293) in paragraph at lines 64--64
+Underfull \hbox (badness 2293) in paragraph at lines 66--66
 []\T1/ppl/m/n/10 Figure 68: |The team at the
  []
 
 
-Underfull \hbox (badness 5403) in paragraph at lines 64--64
+Underfull \hbox (badness 5403) in paragraph at lines 66--66
 \T1/ppl/m/n/10 2014 \T1/ppl/m/it/10 back left to right \T1/ppl/m/n/10 Mar-
  []
 
 
-Underfull \hbox (badness 3449) in paragraph at lines 64--64
+Underfull \hbox (badness 3449) in paragraph at lines 66--66
 \T1/ppl/m/n/10 jan Koblu-car, Slav-ica Koblu-
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 64--64
+Underfull \hbox (badness 1997) in paragraph at lines 66--66
 \T1/ppl/m/n/10 Na-dine Kalmoni, Dave Kirk-
  []
 
 
-Overfull \hbox (10.79999pt too wide) in paragraph at lines 102--103
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (10.79999pt too wide) in paragraph at lines 104--105
  [][] 
  []
 
 
-<"images/2014/other-finds-2014/2014plan".pdf, id=1303, 1056.94875pt x 747.79375
+<"images/2014/other-finds-2014/2014plan".pdf, id=1321, 1056.94875pt x 747.79375
 pt>
 File: "images/2014/other-finds-2014/2014plan".pdf Graphic file (type pdf)
  <use "images/2014/other-finds-2014/2014plan".pdf>
 Package pdftex.def Info: "images/2014/other-finds-2014/2014plan".pdf used on in
-put line 108.
+put line 110.
 (pdftex.def)             Requested size: 686.0pt x 485.34132pt.
 
-Overfull \hbox (17.00902pt too wide) in paragraph at lines 108--111
+Overfull \hbox (17.00902pt too wide) in paragraph at lines 110--113
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 20.0pt on input line 111.
+LaTeX Warning: Float too large for page by 20.0pt on input line 113.
 
-<"images/2014/other-finds-2014/EE2014".pdf, id=1304, 804.75778pt x 1138.11pt>
+<"images/2014/other-finds-2014/EE2014".pdf, id=1322, 804.75778pt x 1138.11pt>
 File: "images/2014/other-finds-2014/EE2014".pdf Graphic file (type pdf)
 
 <use "images/2014/other-finds-2014/EE2014".pdf>
 Package pdftex.def Info: "images/2014/other-finds-2014/EE2014".pdf used on inpu
-t line 115.
+t line 117.
 (pdftex.def)             Requested size: 485.081pt x 686.0pt.
 
-Overfull \hbox (16.74869pt too wide) in paragraph at lines 115--118
+Overfull \hbox (16.74869pt too wide) in paragraph at lines 117--120
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 20.0pt on input line 118.
+LaTeX Warning: Float too large for page by 20.0pt on input line 120.
 
-) [103] [104 <./images/2014/other-finds-2014/end_of_expo_2014.jpg>] [105]
-[106 <./images/2014/other-finds-2014/2014plan.pdf>] [107 <./images/2014/other-f
-inds-2014/EE2014.pdf, page is rotated 270 degrees>]
+) [103] [104 <./images/2014/other-finds-2014/end_of_expo_2014.jpg>] [105 <./ima
+ges/2014/other-finds-2014/2014plan.pdf>] [106 <./images/2014/other-finds-2014/E
+E2014.pdf, page is rotated 270 degrees>]
 \openout2 = `text/2014/2014-outro.aux'.
 
  (./text/2014/2014-outro.tex
@@ -4861,14 +4868,14 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
-) <images/backgrounds/Red Cow Sump.jpg, id=3766, 1464.672pt x 1098.504pt>
+) <images/backgrounds/Red Cow Sump.jpg, id=3780, 1464.672pt x 1098.504pt>
 File: images/backgrounds/Red Cow Sump.jpg Graphic file (type jpg)
 
 <use images/backgrounds/Red Cow Sump.jpg>
 Package pdftex.def Info: images/backgrounds/Red Cow Sump.jpg used on input line
  15.
 (pdftex.def)             Requested size: 1126.7282pt x 845.04684pt.
- [108
+ [107
 
 
  <./images/backgrounds/Red Cow Sump.jpg>]) (./text/2015/2015.tex
@@ -4900,14 +4907,14 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
-) <images/backgrounds/Surfacepothole.jpg, id=3771, 803.0pt x 1056.94875pt>
+) <images/backgrounds/Surfacepothole.jpg, id=3785, 803.0pt x 1056.94875pt>
 File: images/backgrounds/Surfacepothole.jpg Graphic file (type jpg)
 
 <use images/backgrounds/Surfacepothole.jpg>
 Package pdftex.def Info: images/backgrounds/Surfacepothole.jpg used on input li
 ne 1.
 (pdftex.def)             Requested size: 642.00879pt x 845.04684pt.
- [109
+ [108
 
 
 
@@ -4915,7 +4922,7 @@ ne 1.
 \openout2 = `text/2015/jack-M10-2015/Jack-M10-2015.aux'.
 
  (./text/2015/jack-M10-2015/Jack-M10-2015.tex
-<"images/2015/jack-m10-2015/Jack-M10 (1)".jpg, id=3777, 301.125pt x 301.125pt>
+<"images/2015/jack-m10-2015/Jack-M10 (1)".jpg, id=3790, 301.125pt x 301.125pt>
 File: "images/2015/jack-m10-2015/Jack-M10 (1)".jpg Graphic file (type jpg)
 
 <use "images/2015/jack-m10-2015/Jack-M10 (1)".jpg>
@@ -4954,10 +4961,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--22
  []
 
 
-LaTeX Warning: Marginpar on page 110 moved.
+LaTeX Warning: Marginpar on page 109 moved.
 
 
-<"images/2015/jack-m10-2015/FrostM10_2015.jpg, id=3778, 602.25pt x 451.6875pt>
+<"images/2015/jack-m10-2015/FrostM10_2015.jpg, id=3791, 602.25pt x 451.6875pt>
 File: "images/2015/jack-m10-2015/FrostM10_2015.jpg Graphic file (type jpg)
 
 <use "images/2015/jack-m10-2015/FrostM10_2015.jpg>
@@ -4965,7 +4972,7 @@ Package pdftex.def Info: "images/2015/jack-m10-2015/FrostM10_2015.jpg used on i
 nput line 33.
 (pdftex.def)             Requested size: 292.70769pt x 219.53683pt.
 
-<images/2015/jack-m10-2015/SnowplugKan2015.jpg, id=3779, 451.6875pt x 602.25pt>
+<images/2015/jack-m10-2015/SnowplugKan2015.jpg, id=3792, 451.6875pt x 602.25pt>
 File: images/2015/jack-m10-2015/SnowplugKan2015.jpg Graphic file (type jpg)
 <use images/2015/jack-m10-2015/SnowplugKan2015.jpg>
 Package pdftex.def Info: images/2015/jack-m10-2015/SnowplugKan2015.jpg used on 
@@ -5001,7 +5008,7 @@ Underfull \hbox (badness 5847) in paragraph at lines 44--44
 \T1/ppl/m/n/10 vary-ing thick-ness --- Ce-cilia
  []
 
-[110
+[109
 
 
  <./images/2015/jack-m10-2015/Jack-M10 (1).jpg> <./images/2015/jack-m10-2015/Fr
@@ -5011,7 +5018,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--55
  []
 
 
-<"images/2015/jack-m10-2015/Gergely-M10 snow shovelling.jpg, id=3786, 602.25pt 
+<"images/2015/jack-m10-2015/Gergely-M10 snow shovelling.jpg, id=3800, 602.25pt 
 x 401.5pt>
 File: "images/2015/jack-m10-2015/Gergely-M10 snow shovelling.jpg Graphic file (
 type jpg)
@@ -5024,22 +5031,22 @@ Underfull \hbox (badness 3919) in paragraph at lines 62--62
 []\T1/ppl/m/n/10 Figure 71: |Shov-el-ling snow
  []
 
-) [111 <./images/2015/jack-m10-2015/Gergely-M10 snow shovelling.jpg>]
+) [110 <./images/2015/jack-m10-2015/Gergely-M10 snow shovelling.jpg>]
 \openout2 = `text/2015/jack-coincidence-2015/Jack-coincidence-2015.aux'.
 
 
 (./text/2015/jack-coincidence-2015/Jack-coincidence-2015.tex
 
-LaTeX Warning: Marginpar on page 112 moved.
+LaTeX Warning: Marginpar on page 111 moved.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [112
+ [111
 
 
 ]
-<images/2015/jack-coincidence-2015/migovec_cartoon 5.jpg, id=3796, 2182.1525pt 
+<images/2015/jack-coincidence-2015/migovec_cartoon 5.jpg, id=3810, 2182.1525pt 
 x 1568.86125pt>
 File: images/2015/jack-coincidence-2015/migovec_cartoon 5.jpg Graphic file (typ
 e jpg)
@@ -5048,7 +5055,7 @@ Package pdftex.def Info: images/2015/jack-coincidence-2015/migovec_cartoon 5.jp
 g used on input line 48.
 (pdftex.def)             Requested size: 301.60468pt x 216.83823pt.
 
-<images/2015/jack-coincidence-2015/Jack-coincidence2015.jpg, id=3797, 722.7pt x
+<images/2015/jack-coincidence-2015/Jack-coincidence2015.jpg, id=3811, 722.7pt x
  963.6pt>
 File: images/2015/jack-coincidence-2015/Jack-coincidence2015.jpg Graphic file (
 type jpg)
@@ -5059,17 +5066,17 @@ Package pdftex.def Info: images/2015/jack-coincidence-2015/Jack-coincidence2015
 
 Underfull \vbox (badness 6792) has occurred while \output is active []
 
- [113 <./images/2015/jack-coincidence-2015/migovec_cartoon 5.jpg> <./images/201
+ [112 <./images/2015/jack-coincidence-2015/migovec_cartoon 5.jpg> <./images/201
 5/jack-coincidence-2015/Jack-coincidence2015.jpg>])
 Underfull \hbox (badness 10000) in paragraph at lines 71--4
 
  []
 
-[114]
+[113]
 \openout2 = `text/2015/jack-yorkshire-2015/Jack-Yorkshire-2015.aux'.
 
  (./text/2015/jack-yorkshire-2015/Jack-Yorkshire-2015.tex
-<images/2015/jack-yorkshire-2015/labyrinth_inset.pdf, id=3807, 262.9825pt x 433
+<images/2015/jack-yorkshire-2015/labyrinth_inset.pdf, id=3821, 262.9825pt x 433
 .62pt>
 File: images/2015/jack-yorkshire-2015/labyrinth_inset.pdf Graphic file (type pd
 f)
@@ -5096,11 +5103,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--25
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [115
+ [114
 
 
  <./images/2015/jack-yorkshire-2015/labyrinth_inset.pdf>]
-<"images/2015/jack-yorkshire-2015/Jack-Area-N (1)".jpg, id=3819, 803.0pt x 450.
+<"images/2015/jack-yorkshire-2015/Jack-Area-N (1)".jpg, id=3832, 803.0pt x 450.
 68375pt>
 File: "images/2015/jack-yorkshire-2015/Jack-Area-N (1)".jpg Graphic file (type 
 jpg)
@@ -5113,7 +5120,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--5
 
  []
 
-[116 <./images/2015/jack-yorkshire-2015/Jack-Area-N (1).jpg>]
+[115 <./images/2015/jack-yorkshire-2015/Jack-Area-N (1).jpg>]
 \openout2 = `text/2015/tanguy-meridian-2015/Tanguy-Meridian-2015.aux'.
 
 
@@ -5123,7 +5130,7 @@ Overfull \hbox (7.1661pt too wide) in paragraph at lines 3--15
  []
 
 
-<images/2015/tanguy-meridian-2015/kal-clouds.jpg, id=3825, 803.0pt x 451.6875pt
+<images/2015/tanguy-meridian-2015/kal-clouds.jpg, id=3840, 803.0pt x 451.6875pt
 >
 File: images/2015/tanguy-meridian-2015/kal-clouds.jpg Graphic file (type jpg)
  <use images/2015/tanguy-meridian-2015/kal-clouds.jpg>
@@ -5133,11 +5140,11 @@ n input line 23.
 
 Underfull \vbox (badness 1009) has occurred while \output is active []
 
- [117
+ [116
 
 
  <./images/2015/tanguy-meridian-2015/kal-clouds.jpg>]
-<images/2015/tanguy-meridian-2015/extended_elevation_south.jpg, id=3832, 803.0p
+<images/2015/tanguy-meridian-2015/extended_elevation_south.jpg, id=3846, 803.0p
 t x 549.05125pt>
 File: images/2015/tanguy-meridian-2015/extended_elevation_south.jpg Graphic fil
 e (type jpg)
@@ -5149,8 +5156,8 @@ uth.jpg used on input line 37.
 
 Underfull \vbox (badness 5862) has occurred while \output is active []
 
- [118 <./images/2015/tanguy-meridian-2015/extended_elevation_south.jpg>]
-<images/2015/tanguy-meridian-2015/meridian_map.pdf, id=3838, 440.64626pt x 810.
+ [117 <./images/2015/tanguy-meridian-2015/extended_elevation_south.jpg>]
+<images/2015/tanguy-meridian-2015/meridian_map.pdf, id=3852, 440.64626pt x 810.
 02625pt>
 File: images/2015/tanguy-meridian-2015/meridian_map.pdf Graphic file (type pdf)
 
@@ -5191,15 +5198,15 @@ Underfull \hbox (badness 4713) in paragraph at lines 64--64
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [119])
+ [118])
 Underfull \vbox (badness 4913) has occurred while \output is active []
 
- [120 <./images/2015/tanguy-meridian-2015/meridian_map.pdf>] [121]
+ [119 <./images/2015/tanguy-meridian-2015/meridian_map.pdf>] [120]
 \openout2 = `text/2015/tanguy-push-2015/Tanguy-Push-2015.aux'.
 
 
 (./text/2015/tanguy-push-2015/Tanguy-Push-2015.tex
-<images/2015/tanguy-push-2015/push_your_luck_inset.png, id=3858, 261.52556pt x 
+<images/2015/tanguy-push-2015/push_your_luck_inset.png, id=3871, 261.52556pt x 
 436.03706pt>
 File: images/2015/tanguy-push-2015/push_your_luck_inset.png Graphic file (type 
 png)
@@ -5224,10 +5231,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--23
  []
 
 
-LaTeX Warning: Marginpar on page 122 moved.
+LaTeX Warning: Marginpar on page 121 moved.
 
 
-<"images/2015/tanguy-push-2015/push_your_luck".jpg, id=3859, 602.25pt x 748.797
+<"images/2015/tanguy-push-2015/push_your_luck".jpg, id=3872, 602.25pt x 748.797
 5pt>
 File: "images/2015/tanguy-push-2015/push_your_luck".jpg Graphic file (type jpg)
 
@@ -5253,31 +5260,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--45
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [122
+ [121
 
 
  <./images/2015/tanguy-push-2015/push_your_luck_inset.png>]
 Underfull \vbox (badness 3375) has occurred while \output is active []
 
- [123 <./images/2015/tanguy-push-2015/push_your_luck.jpg>])
+ [122 <./images/2015/tanguy-push-2015/push_your_luck.jpg>])
 Underfull \hbox (badness 10000) in paragraph at lines 57--7
 
  []
 
-[124]
+[123]
 \openout2 = `text/2015/tanguy-night-2015/Tanguy-Night-2015.aux'.
 
  (./text/2015/tanguy-night-2015/Tanguy-Night-2015.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [125
+ [124
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [126])
-[127]
+ [125])
+[126]
 \openout2 = `text/2015/tanguy-photography-2015/Tanguy-Photography-2015.aux'.
 
  (./text/2015/tanguy-photography-2015/Tanguy-Photography-2015.tex
@@ -5299,7 +5306,7 @@ Overfull \hbox (10.79999pt too wide) in paragraph at lines 39--40
 
 Underfull \vbox (badness 1231) has occurred while \output is active []
 
- [128
+ [127
 
 
 ]
@@ -5315,7 +5322,7 @@ e-ol-o-gists. Where
  []
 
 
-<"images/2015/tanguy-photography-2015/belowhelm'sdeep".jpg, id=3895, 602.25pt x
+<"images/2015/tanguy-photography-2015/belowhelm'sdeep".jpg, id=3909, 602.25pt x
  401.5pt>
 File: "images/2015/tanguy-photography-2015/belowhelm'sdeep".jpg Graphic file (t
 ype jpg)
@@ -5324,7 +5331,7 @@ Package pdftex.def Info: "images/2015/tanguy-photography-2015/belowhelm'sdeep".
 jpg used on input line 63.
 (pdftex.def)             Requested size: 318.46252pt x 212.31612pt.
 
-<"images/2015/tanguy-photography-2015/RhysTyers_Sic_Semper (1)".jpg, id=3896, 4
+<"images/2015/tanguy-photography-2015/RhysTyers_Sic_Semper (1)".jpg, id=3910, 4
 51.6875pt x 677.53125pt>
 File: "images/2015/tanguy-photography-2015/RhysTyers_Sic_Semper (1)".jpg Graphi
 c file (type jpg)
@@ -5335,7 +5342,7 @@ per (1)".jpg used on input line 69.
 (pdftex.def)             Requested size: 141.90176pt x 212.85486pt.
 
 <"images/2015/tanguy-photography-2015/RhysTyers_Touching_the_Void (1)".jpg, id=
-3897, 903.375pt x 602.25pt>
+3911, 903.375pt x 602.25pt>
 File: "images/2015/tanguy-photography-2015/RhysTyers_Touching_the_Void (1)".jpg
  Graphic file (type jpg)
 
@@ -5349,7 +5356,7 @@ Underfull \hbox (badness 1721) in paragraph at lines 86--86
  []
 
 
-<"images/2015/tanguy-photography-2015/helmsdeep".jpg, id=3898, 803.0pt x 780.91
+<"images/2015/tanguy-photography-2015/helmsdeep".jpg, id=3912, 803.0pt x 780.91
 75pt>
 File: "images/2015/tanguy-photography-2015/helmsdeep".jpg Graphic file (type jp
 g)
@@ -5358,7 +5365,7 @@ Package pdftex.def Info: "images/2015/tanguy-photography-2015/helmsdeep".jpg us
 ed on input line 93.
 (pdftex.def)             Requested size: 468.3323pt x 455.45862pt.
 
-<images/2015/tanguy-photography-2015/Worldsend2015.jpg, id=3899, 803.0pt x 534.
+<images/2015/tanguy-photography-2015/Worldsend2015.jpg, id=3913, 803.0pt x 534.
 99875pt>
 File: images/2015/tanguy-photography-2015/Worldsend2015.jpg Graphic file (type 
 jpg)
@@ -5382,13 +5389,13 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [129]
+ [128]
 Underfull \vbox (badness 7362) has occurred while \output is active []
 
- [130 <./images/2015/tanguy-photography-2015/belowhelm'sdeep.jpg> <./images/201
+ [129 <./images/2015/tanguy-photography-2015/belowhelm'sdeep.jpg> <./images/201
 5/tanguy-photography-2015/RhysTyers_Sic_Semper (1).jpg> <./images/2015/tanguy-p
 hotography-2015/RhysTyers_Touching_the_Void (1).jpg>]
-<"images/2015/tanguy-photography-2015/davy_jones_locker".jpg, id=3909, 1298.852
+<"images/2015/tanguy-photography-2015/davy_jones_locker".jpg, id=3923, 1298.852
 5pt x 1740.5025pt>
 File: "images/2015/tanguy-photography-2015/davy_jones_locker".jpg Graphic file 
 (type jpg)
@@ -5424,14 +5431,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--10
 
  []
 
-[131 <./images/2015/tanguy-photography-2015/helmsdeep.jpg>] [132 <./images/2015
+[130 <./images/2015/tanguy-photography-2015/helmsdeep.jpg>] [131 <./images/2015
 /tanguy-photography-2015/Worldsend2015.jpg> <./images/2015/tanguy-photography-2
 015/davy_jones_locker.jpg>]
 \openout2 = `text/2015/tanguy-lazarus-2015/Tanguy-Lazarus-2015.aux'.
 
 
 (./text/2015/tanguy-lazarus-2015/Tanguy-Lazarus-2015.tex
-<"images/2015/tanguy-lazarus-2015/Smash-Jarv-Rhys".jpg, id=3921, 301.125pt x 31
+<"images/2015/tanguy-lazarus-2015/Smash-Jarv-Rhys".jpg, id=3935, 301.125pt x 31
 4.17375pt>
 File: "images/2015/tanguy-lazarus-2015/Smash-Jarv-Rhys".jpg Graphic file (type 
 jpg)
@@ -5469,11 +5476,11 @@ Overfull \hbox (0.58247pt too wide) in paragraph at lines 34--35
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [133
+ [132
 
 
  <./images/2015/tanguy-lazarus-2015/Smash-Jarv-Rhys.jpg>]
-<"images/2015/tanguy-lazarus-2015/Tanguy-bolting-worlds end".jpg, id=3928, 301.
+<"images/2015/tanguy-lazarus-2015/Tanguy-bolting-worlds end".jpg, id=3941, 301.
 125pt x 451.6875pt>
 File: "images/2015/tanguy-lazarus-2015/Tanguy-bolting-worlds end".jpg Graphic f
 ile (type jpg)
@@ -5529,10 +5536,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--42
  []
 
 
-LaTeX Warning: Marginpar on page 134 moved.
+LaTeX Warning: Marginpar on page 133 moved.
 
 
-<"images/2015/tanguy-lazarus-2015/Rhys-near-duck".jpg, id=3929, 301.125pt x 779
+<"images/2015/tanguy-lazarus-2015/Rhys-near-duck".jpg, id=3942, 301.125pt x 779
 .91376pt>
 File: "images/2015/tanguy-lazarus-2015/Rhys-near-duck".jpg Graphic file (type j
 pg)
@@ -5559,9 +5566,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--59
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [134 <./images/2015/tanguy-lazarus-2015/Tanguy-bolting-worlds end.jpg> <./imag
+ [133 <./images/2015/tanguy-lazarus-2015/Tanguy-bolting-worlds end.jpg> <./imag
 es/2015/tanguy-lazarus-2015/Rhys-near-duck.jpg>]
-<"images/2015/tanguy-lazarus-2015/lazarus".jpg, id=3936, 803.0pt x 627.34375pt>
+<"images/2015/tanguy-lazarus-2015/lazarus".jpg, id=3950, 803.0pt x 627.34375pt>
 File: "images/2015/tanguy-lazarus-2015/lazarus".jpg Graphic file (type jpg)
 <use "images/2015/tanguy-lazarus-2015/lazarus".jpg>
 Package pdftex.def Info: "images/2015/tanguy-lazarus-2015/lazarus".jpg used on 
@@ -5586,13 +5593,13 @@ crawled
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [135]
+ [134]
 Underfull \hbox (badness 10000) in paragraph at lines 88--89
 
  []
 
 
-<"images/2015/tanguy-lazarus-2015/Jarv-Sunset-2014".jpg, id=3941, 1464.672pt x 
+<"images/2015/tanguy-lazarus-2015/Jarv-Sunset-2014".jpg, id=3955, 1464.672pt x 
 1098.504pt>
 File: "images/2015/tanguy-lazarus-2015/Jarv-Sunset-2014".jpg Graphic file (type
  jpg)
@@ -5615,16 +5622,16 @@ Underfull \hbox (badness 2662) in paragraph at lines 96--96
 \T1/ppl/m/n/10 thoughts turned to the west
  []
 
-) [136 <./images/2015/tanguy-lazarus-2015/lazarus.jpg>] [137 <./images/2015/tan
+) [135 <./images/2015/tanguy-lazarus-2015/lazarus.jpg>] [136 <./images/2015/tan
 guy-lazarus-2015/Jarv-Sunset-2014.jpg>]
 \openout2 = `text/2015/other-finds-2015/Other-finds-2015.aux'.
 
 
-(./text/2015/other-finds-2015/Other-finds-2015.tex [138
+(./text/2015/other-finds-2015/Other-finds-2015.tex [137
 
 
 ]
-<"images/2015/other-finds-2015/CeciliaKan_Alex_Snowplug (1)".jpg, id=3959, 2746
+<"images/2015/other-finds-2015/CeciliaKan_Alex_Snowplug (1)".jpg, id=3973, 2746
 .26pt x 2746.26pt>
 File: "images/2015/other-finds-2015/CeciliaKan_Alex_Snowplug (1)".jpg Graphic f
 ile (type jpg)
@@ -5634,7 +5641,7 @@ Package pdftex.def Info: "images/2015/other-finds-2015/CeciliaKan_Alex_Snowplug
  (1)".jpg used on input line 27.
 (pdftex.def)             Requested size: 264.60889pt x 264.585pt.
 
-<"images/2015/other-finds-2015/CeciliaKan_Snowplug (1)".jpg, id=3960, 2746.26pt
+<"images/2015/other-finds-2015/CeciliaKan_Snowplug (1)".jpg, id=3974, 2746.26pt
  x 3661.68pt>
 File: "images/2015/other-finds-2015/CeciliaKan_Snowplug (1)".jpg Graphic file (
 type jpg)
@@ -5643,7 +5650,7 @@ Package pdftex.def Info: "images/2015/other-finds-2015/CeciliaKan_Snowplug (1)"
 .jpg used on input line 33.
 (pdftex.def)             Requested size: 198.571pt x 264.72469pt.
 
-<"images/2015/other-finds-2015/CeciliaKan_Rigging_Snow (1)".jpg, id=3961, 3661.
+<"images/2015/other-finds-2015/CeciliaKan_Rigging_Snow (1)".jpg, id=3975, 3661.
 68pt x 2059.695pt>
 File: "images/2015/other-finds-2015/CeciliaKan_Rigging_Snow (1)".jpg Graphic fi
 le (type jpg)
@@ -5674,7 +5681,7 @@ Overfull \hbox (10.79999pt too wide) in paragraph at lines 114--115
  []
 
 
-<"images/2015/other-finds-2015/2015plan".pdf, id=3962, 597.50786pt x 845.04686p
+<"images/2015/other-finds-2015/2015plan".pdf, id=3976, 597.50786pt x 845.04686p
 t>
 File: "images/2015/other-finds-2015/2015plan".pdf Graphic file (type pdf)
  <use "images/2015/other-finds-2015/2015plan".pdf>
@@ -5687,9 +5694,9 @@ Overfull \hbox (16.74048pt too wide) in paragraph at lines 119--122
  []
 
 
-LaTeX Warning: Float too large for page by 34.0pt on input line 122.
+LaTeX Warning: Float too large for page by 20.0pt on input line 122.
 
-<"images/2015/other-finds-2015/EE2015".pdf, id=3963, 804.75778pt x 1138.11pt>
+<"images/2015/other-finds-2015/EE2015".pdf, id=3977, 804.75778pt x 1138.11pt>
 File: "images/2015/other-finds-2015/EE2015".pdf Graphic file (type pdf)
 
 <use "images/2015/other-finds-2015/EE2015".pdf>
@@ -5702,16 +5709,16 @@ Overfull \hbox (16.74869pt too wide) in paragraph at lines 126--129
  []
 
 
-LaTeX Warning: Float too large for page by 34.0pt on input line 129.
+LaTeX Warning: Float too large for page by 20.0pt on input line 129.
 
-) [139] [140 <./images/2015/other-finds-2015/CeciliaKan_Alex_Snowplug (1).jpg> 
+) [138] [139 <./images/2015/other-finds-2015/CeciliaKan_Alex_Snowplug (1).jpg> 
 <./images/2015/other-finds-2015/CeciliaKan_Snowplug (1).jpg> <./images/2015/oth
-er-finds-2015/CeciliaKan_Rigging_Snow (1).jpg>] [141] [142] [143 <./images/2015
-/other-finds-2015/2015plan.pdf>] [144 <./images/2015/other-finds-2015/EE2015.pd
-f>]
+er-finds-2015/CeciliaKan_Rigging_Snow (1).jpg>] [140] [141 <./images/2015/other
+-finds-2015/2015plan.pdf>] [142 <./images/2015/other-finds-2015/EE2015.pdf>]
 \openout2 = `text/2015/2015-outro.aux'.
 
- (./text/2015/2015-outro.tex
+
+(./text/2015/2015-outro.tex
 Underfull \hbox (badness 10000) in paragraph at lines 10--14
 
  []
@@ -5738,14 +5745,14 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 )
-<images/backgrounds/Tolminka at crossing (2).jpg, id=4067, 803.0pt x 1097.09875
+<images/backgrounds/Tolminka at crossing (2).jpg, id=4077, 803.0pt x 1097.09875
 pt>
 File: images/backgrounds/Tolminka at crossing (2).jpg Graphic file (type jpg)
  <use images/backgrounds/Tolminka at crossing (2).jpg>
 Package pdftex.def Info: images/backgrounds/Tolminka at crossing (2).jpg used o
 n input line 14.
 (pdftex.def)             Requested size: 618.53247pt x 845.04684pt.
- [145
+ [143
 
 
  <./images/backgrounds/Tolminka at crossing (2).jpg>]
@@ -5781,7 +5788,7 @@ Overfull \hbox (4.8621pt too wide) in paragraph at lines 12--13
 Maf-fi-jem je z ve-likim navdi-
  []
 
-[146
+[144
 
 
 ]
@@ -5808,20 +5815,20 @@ Overfull \hbox (2.6725pt too wide) in paragraph at lines 22--23
  nadal-je-vanja so se kon£ala.
  []
 
-[147]
+[145]
 Overfull \hbox (5.27222pt too wide) in paragraph at lines 31--32
 \T1/ppl/m/n/10 Tolmin-ski Migovec was the onus of the younger mem-bers of the J
 SPDT.
  []
 
-[148]
+[146]
 
-LaTeX Warning: Marginpar on page 149 moved.
+LaTeX Warning: Marginpar on page 147 moved.
 
 
-LaTeX Warning: Marginpar on page 149 moved.
+LaTeX Warning: Marginpar on page 147 moved.
 
-[149]
+[147]
 Overfull \hbox (0.38243pt too wide) in paragraph at lines 76--77
 \T1/ppl/m/n/10 pove, da je brez opreme in naj mu jo bo priskr-bel Frat-nik. Med
  drugim
@@ -5833,8 +5840,8 @@ Overfull \hbox (5.47202pt too wide) in paragraph at lines 76--77
 bo, popoldne
  []
 
-[150]
-<images/2015/rile-connection-2015/Migovec_in_Autumn.jpg, id=4117, 803.0pt x 534
+[148]
+<images/2015/rile-connection-2015/Migovec_in_Autumn.jpg, id=4127, 803.0pt x 534
 .99875pt>
 File: images/2015/rile-connection-2015/Migovec_in_Autumn.jpg Graphic file (type
  jpg)
@@ -5852,7 +5859,7 @@ Underfull \hbox (badness 4886) in paragraph at lines 86--86
 \T1/ppl/m/n/10 in Au-tumn, be-fore a ma-jor
  []
 
-[151 <./images/2015/rile-connection-2015/Migovec_in_Autumn.jpg>]
+[149 <./images/2015/rile-connection-2015/Migovec_in_Autumn.jpg>]
 Overfull \hbox (0.76216pt too wide) in paragraph at lines 92--93
 \T1/ppl/m/n/10 in neko £udno vzbur-jenje nara²£a. Kmalu za-sli²iva Frat-nikove 
 besede:
@@ -5861,8 +5868,8 @@ besede:
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [152]
-<images/2015/rile-connection-2015/Jana-plateau-surface.jpg, id=4128, 803.0pt x 
+ [150]
+<images/2015/rile-connection-2015/Jana-plateau-surface.jpg, id=4137, 803.0pt x 
 602.25pt>
 File: images/2015/rile-connection-2015/Jana-plateau-surface.jpg Graphic file (t
 ype jpg)
@@ -5880,11 +5887,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [153]
-<images/2015/rile-connection-2015/Face of Migovec (1).jpg, id=4133, 803.0pt x 6
+[151]
+<images/2015/rile-connection-2015/Face of Migovec (1).jpg, id=4143, 803.0pt x 6
 02.25pt>
 File: images/2015/rile-connection-2015/Face of Migovec (1).jpg Graphic file (ty
 pe jpg)
@@ -5893,14 +5897,14 @@ Package pdftex.def Info: images/2015/rile-connection-2015/Face of Migovec (1).j
 pg used on input line 116.
 (pdftex.def)             Requested size: 468.3323pt x 351.25343pt.
 
-[154 <./images/2015/rile-connection-2015/Jana-plateau-surface.jpg>]
+[152 <./images/2015/rile-connection-2015/Jana-plateau-surface.jpg>]
 Underfull \vbox (badness 1331) has occurred while \output is active []
 
- [155 <./images/2015/rile-connection-2015/Face of Migovec (1).jpg>]
+ [153 <./images/2015/rile-connection-2015/Face of Migovec (1).jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [156]
-<"images/2015/rile-connection-2015/Mig-surface-large".jpg, id=4148, 803.0pt x 4
+ [154]
+<"images/2015/rile-connection-2015/Mig-surface-large".jpg, id=4158, 803.0pt x 4
 51.6875pt>
 File: "images/2015/rile-connection-2015/Mig-surface-large".jpg Graphic file (ty
 pe jpg)
@@ -5921,7 +5925,7 @@ Underfull \hbox (badness 1824) in paragraph at lines 144--144
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [157]
+ [155]
 Overfull \hbox (0.43253pt too wide) in paragraph at lines 152--153
 \T1/ppl/m/n/10 sad-dle be-tween Kuk and Migovec, where sheep come down the trac
 ks
@@ -5930,12 +5934,12 @@ ks
 
 Underfull \vbox (badness 7832) has occurred while \output is active []
 
- [158 <./images/2015/rile-connection-2015/Mig-surface-large.jpg>]
+ [156 <./images/2015/rile-connection-2015/Mig-surface-large.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
-) [159]) (./text/2016/2016.tex
+) [157]) (./text/2016/2016.tex
 \openout2 = `text/2016/2016-intro.aux'.
 
  (./text/2016/2016-intro.tex
@@ -5964,14 +5968,14 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
-) <images/backgrounds/Primadona-2016.jpg, id=4163, 903.375pt x 1077.02374pt>
+) <images/backgrounds/Primadona-2016.jpg, id=4173, 903.375pt x 1077.02374pt>
 File: images/backgrounds/Primadona-2016.jpg Graphic file (type jpg)
 
 <use images/backgrounds/Primadona-2016.jpg>
 Package pdftex.def Info: images/backgrounds/Primadona-2016.jpg used on input li
 ne 1.
 (pdftex.def)             Requested size: 708.80634pt x 845.04684pt.
- [160
+ [158
 
 
 
@@ -5982,7 +5986,7 @@ tain-2016.aux'.
 
 (./text/2016/back-to-the-hollow-mountain-2016/Back-to-the-Hollow-Mountain-2016.
 tex
-<"images/2016/back-to-the-hollow-mountain-2016/Krn in cloud".jpg, id=4168, 301.
+<"images/2016/back-to-the-hollow-mountain-2016/Krn in cloud".jpg, id=4178, 301.
 125pt x 708.6475pt>
 File: "images/2016/back-to-the-hollow-mountain-2016/Krn in cloud".jpg Graphic f
 ile (type jpg)
@@ -6008,10 +6012,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--5
  []
 
 
-LaTeX Warning: Marginpar on page 161 moved.
+LaTeX Warning: Marginpar on page 159 moved.
 
 
-<"images/2016/back-to-the-hollow-mountain-2016/Tolminka gorge".jpg, id=4169, 30
+<"images/2016/back-to-the-hollow-mountain-2016/Tolminka gorge".jpg, id=4179, 30
 1.125pt x 452.69125pt>
 File: "images/2016/back-to-the-hollow-mountain-2016/Tolminka gorge".jpg Graphic
  file (type jpg)
@@ -6038,7 +6042,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--10
  []
 
 
-LaTeX Warning: Marginpar on page 161 moved.
+LaTeX Warning: Marginpar on page 159 moved.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 22--23
@@ -6046,7 +6050,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--23
  []
 
 
-<"images/2016/back-to-the-hollow-mountain-2016/Migovec panorama".jpg, id=4170, 
+<"images/2016/back-to-the-hollow-mountain-2016/Migovec panorama".jpg, id=4180, 
 803.0pt x 209.78375pt>
 File: "images/2016/back-to-the-hollow-mountain-2016/Migovec panorama".jpg Graph
 ic file (type jpg)
@@ -6056,7 +6060,7 @@ Package pdftex.def Info: "images/2016/back-to-the-hollow-mountain-2016/Migovec
 panorama".jpg used on input line 29.
 (pdftex.def)             Requested size: 468.3323pt x 122.35326pt.
 
-<"images/2016/back-to-the-hollow-mountain-2016/Migovec-selfie".jpg, id=4171, 50
+<"images/2016/back-to-the-hollow-mountain-2016/Migovec-selfie".jpg, id=4181, 50
 1.875pt x 333.245pt>
 File: "images/2016/back-to-the-hollow-mountain-2016/Migovec-selfie".jpg Graphic
  file (type jpg)
@@ -6066,7 +6070,7 @@ Package pdftex.def Info: "images/2016/back-to-the-hollow-mountain-2016/Migovec-
 selfie".jpg used on input line 34.
 (pdftex.def)             Requested size: 212.1559pt x 140.87213pt.
 
-<"images/2016/back-to-the-hollow-mountain-2016/Kal-cooling".jpg, id=4172, 501.8
+<"images/2016/back-to-the-hollow-mountain-2016/Kal-cooling".jpg, id=4182, 501.8
 75pt x 282.05376pt>
 File: "images/2016/back-to-the-hollow-mountain-2016/Kal-cooling".jpg Graphic fi
 le (type jpg)
@@ -6076,7 +6080,7 @@ Package pdftex.def Info: "images/2016/back-to-the-hollow-mountain-2016/Kal-cool
 ing".jpg used on input line 39.
 (pdftex.def)             Requested size: 251.49564pt x 141.3407pt.
 
-<"images/2016/back-to-the-hollow-mountain-2016/Limestone cliffs".jpg, id=4173, 
+<"images/2016/back-to-the-hollow-mountain-2016/Limestone cliffs".jpg, id=4183, 
 803.0pt x 300.12125pt>
 File: "images/2016/back-to-the-hollow-mountain-2016/Limestone cliffs".jpg Graph
 ic file (type jpg)
@@ -6100,11 +6104,11 @@ Underfull \hbox (badness 1072) in paragraph at lines 58--58
 \T1/ppl/m/n/10 above the val-ley, hid-ing Kuk
  []
 
-) [161
+) [159
 
 
  <./images/2016/back-to-the-hollow-mountain-2016/Krn in cloud.jpg> <./images/20
-16/back-to-the-hollow-mountain-2016/Tolminka gorge.jpg>] [162 <./images/2016/ba
+16/back-to-the-hollow-mountain-2016/Tolminka gorge.jpg>] [160 <./images/2016/ba
 ck-to-the-hollow-mountain-2016/Migovec panorama.jpg> <./images/2016/back-to-the
 -hollow-mountain-2016/Migovec-selfie.jpg> <./images/2016/back-to-the-hollow-mou
 ntain-2016/Kal-cooling.jpg> <./images/2016/back-to-the-hollow-mountain-2016/Lim
@@ -6112,7 +6116,7 @@ estone cliffs.jpg>]
 \openout2 = `text/2016/jack-begin-2016/Jack-Begin-2016.aux'.
 
  (./text/2016/jack-begin-2016/Jack-Begin-2016.tex
-<images/2016/jack-begin-2016/wrong-valley.jpg, id=4185, 301.125pt x 597.23125pt
+<images/2016/jack-begin-2016/wrong-valley.jpg, id=4195, 301.125pt x 597.23125pt
 >
 File: images/2016/jack-begin-2016/wrong-valley.jpg Graphic file (type jpg)
  <use images/2016/jack-begin-2016/wrong-valley.jpg>
@@ -6141,7 +6145,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--10
  []
 
 
-LaTeX Warning: Marginpar on page 163 moved.
+LaTeX Warning: Marginpar on page 161 moved.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 22--23
@@ -6154,19 +6158,19 @@ Overfull \hbox (10.79999pt too wide) in paragraph at lines 28--29
  []
 
 
-Underfull \vbox (badness 1231) has occurred while \output is active []
-
- [163
-
-
- <./images/2016/jack-begin-2016/wrong-valley.jpg>]
 Overfull \hbox (4.89128pt too wide) in paragraph at lines 40--41
 []\T1/ppl/m/n/10 The Slove-nian's rope went round the cor-ner on the left, but 
 I thought
  []
 
 
-<images/2016/jack-begin-2016/tolminski_kuk_157.jpg, id=4194, 301.125pt x 594.22
+Underfull \vbox (badness 1231) has occurred while \output is active []
+
+ [161
+
+
+ <./images/2016/jack-begin-2016/wrong-valley.jpg>]
+<images/2016/jack-begin-2016/tolminski_kuk_157.jpg, id=4203, 301.125pt x 594.22
 pt>
 File: images/2016/jack-begin-2016/tolminski_kuk_157.jpg Graphic file (type jpg)
 
@@ -6191,10 +6195,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--46
  []
 
 
-LaTeX Warning: Marginpar on page 164 moved.
+LaTeX Warning: Marginpar on page 162 moved.
 
 
-<images/2016/jack-begin-2016/prima-ent.jpg, id=4195, 403.5075pt x 524.96124pt>
+<images/2016/jack-begin-2016/prima-ent.jpg, id=4204, 403.5075pt x 524.96124pt>
 File: images/2016/jack-begin-2016/prima-ent.jpg Graphic file (type jpg)
 
 <use images/2016/jack-begin-2016/prima-ent.jpg>
@@ -6227,7 +6231,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--64
 \T1/ppl/m/n/10 twin en-trances of Pri-madona ---
  []
 
-[164 <./images/2016/jack-begin-2016/tolminski_kuk_157.jpg> <./images/2016/jack-
+[162 <./images/2016/jack-begin-2016/tolminski_kuk_157.jpg> <./images/2016/jack-
 begin-2016/prima-ent.jpg>]
 Overfull \hbox (3.67165pt too wide) in paragraph at lines 76--77
 []\T1/ppl/m/n/10 Kenneth tra-verse out along the rift un-til the walls were clo
@@ -6235,39 +6239,38 @@ se enough
  []
 
 
-<"images/2016/jack-begin-2016/prima-fault".jpg, id=4203, 1318.2048pt x 878.8032
-pt>
+<"images/2016/jack-begin-2016/prima-fault".jpg, id=4212, 501.875pt x 334.24875p
+t>
 File: "images/2016/jack-begin-2016/prima-fault".jpg Graphic file (type jpg)
  <use "images/2016/jack-begin-2016/prima-fault".jpg>
 Package pdftex.def Info: "images/2016/jack-begin-2016/prima-fault".jpg used on 
 input line 83.
-(pdftex.def)             Requested size: 320.80647pt x 213.86716pt.
+(pdftex.def)             Requested size: 320.80647pt x 213.66855pt.
 
-<"images/2016/jack-begin-2016/prima-beautiful".jpg, id=4204, 1129.88983pt x 753
-.25989pt>
+<"images/2016/jack-begin-2016/prima-beautiful".jpg, id=4213, 602.25pt x 903.375
+pt>
 File: "images/2016/jack-begin-2016/prima-beautiful".jpg Graphic file (type jpg)
 
  <use "images/2016/jack-begin-2016/prima-beautiful".jpg>
 Package pdftex.def Info: "images/2016/jack-begin-2016/prima-beautiful".jpg used
  on input line 89.
-(pdftex.def)             Requested size: 214.25027pt x 142.83792pt.
+(pdftex.def)             Requested size: 142.83792pt x 214.25053pt.
 
-<"images/2016/jack-begin-2016/prima-entrance-series".jpg, id=4205, 1129.88983pt
- x 753.25989pt>
+<"images/2016/jack-begin-2016/prima-entrance-series".jpg, id=4214, 501.875pt x 
+752.8125pt>
 File: "images/2016/jack-begin-2016/prima-entrance-series".jpg Graphic file (typ
 e jpg)
  <use "images/2016/jack-begin-2016/prima-entrance-series".jpg>
 Package pdftex.def Info: "images/2016/jack-begin-2016/prima-entrance-series".jp
 g used on input line 96.
-(pdftex.def)             Requested size: 278.8857pt x 185.9294pt.
+(pdftex.def)             Requested size: 185.9294pt x 278.89235pt.
 
-<"images/2016/jack-begin-2016/prima-bear".jpg, id=4206, 3607.4775pt x 3624.5412
-4pt>
+<"images/2016/jack-begin-2016/prima-bear".jpg, id=4215, 602.25pt x 605.26125pt>
 File: "images/2016/jack-begin-2016/prima-bear".jpg Graphic file (type jpg)
- <use "images/2016/jack-begin-2016/prima-bear".jpg>
+<use "images/2016/jack-begin-2016/prima-bear".jpg>
 Package pdftex.def Info: "images/2016/jack-begin-2016/prima-bear".jpg used on i
 nput line 102.
-(pdftex.def)             Requested size: 277.72214pt x 279.01865pt.
+(pdftex.def)             Requested size: 277.72214pt x 279.11621pt.
 
 Underfull \hbox (badness 3568) in paragraph at lines 111--111
 []\T1/ppl/m/n/10 Figure 100: |\T1/ppl/m/it/10 a \T1/ppl/m/n/10 The head of
@@ -6281,8 +6284,8 @@ Underfull \hbox (badness 3612) in paragraph at lines 111--111
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [165]
-[166 <./images/2016/jack-begin-2016/prima-fault.jpg> <./images/2016/jack-begin-
+ [163]
+[164 <./images/2016/jack-begin-2016/prima-fault.jpg> <./images/2016/jack-begin-
 2016/prima-beautiful.jpg> <./images/2016/jack-begin-2016/prima-entrance-series.
 jpg> <./images/2016/jack-begin-2016/prima-bear.jpg>]
 Overfull \hbox (3.44205pt too wide) in paragraph at lines 122--123
@@ -6297,7 +6300,7 @@ Overfull \hbox (11.93228pt too wide) in paragraph at lines 124--125
  []
 
 
-<"images/2016/jack-begin-2016/RhysTyers-SpiralClimb".jpg, id=4216, 501.875pt x 
+<"images/2016/jack-begin-2016/RhysTyers-SpiralClimb".jpg, id=4226, 501.875pt x 
 752.8125pt>
 File: "images/2016/jack-begin-2016/RhysTyers-SpiralClimb".jpg Graphic file (typ
 e jpg)
@@ -6306,7 +6309,7 @@ Package pdftex.def Info: "images/2016/jack-begin-2016/RhysTyers-SpiralClimb".jp
 g used on input line 136.
 (pdftex.def)             Requested size: 229.4854pt x 344.23029pt.
 
-<"images/2016/jack-begin-2016/Alkatraz".jpg, id=4217, 501.875pt x 752.8125pt>
+<"images/2016/jack-begin-2016/Alkatraz".jpg, id=4227, 501.875pt x 752.8125pt>
 File: "images/2016/jack-begin-2016/Alkatraz".jpg Graphic file (type jpg)
 
 <use "images/2016/jack-begin-2016/Alkatraz".jpg>
@@ -6314,7 +6317,7 @@ Package pdftex.def Info: "images/2016/jack-begin-2016/Alkatraz".jpg used on inp
 ut line 142.
 (pdftex.def)             Requested size: 229.4854pt x 344.23029pt.
 
-<"images/2016/jack-begin-2016/Will Scott bolting".jpg, id=4218, 803.0pt x 440.6
+<"images/2016/jack-begin-2016/Will Scott bolting".jpg, id=4228, 803.0pt x 440.6
 4626pt>
 File: "images/2016/jack-begin-2016/Will Scott bolting".jpg Graphic file (type j
 pg)
@@ -6332,24 +6335,28 @@ Underfull \hbox (badness 8151) in paragraph at lines 158--158
 \T1/ppl/m/n/10 which can be ac-cessed via
  []
 
-[167]
+[165]
+
+LaTeX Warning: Text page 166 contains only floats.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [168 <./images/2016/jack-begin-2016/RhysTyers-SpiralClimb.jpg> <./images/2016/
+ [166 <./images/2016/jack-begin-2016/RhysTyers-SpiralClimb.jpg> <./images/2016/
 jack-begin-2016/Alkatraz.jpg> <./images/2016/jack-begin-2016/Will Scott bolting
 .jpg>])
 Underfull \hbox (badness 10000) in paragraph at lines 170--4
 
  []
 
-[169]
+[167]
 \openout2 = `text/2016/miriam-2016/Miriam-2016.aux'.
 
  (./text/2016/miriam-2016/Miriam-2016.tex
 
-LaTeX Warning: Marginpar on page 170 moved.
+LaTeX Warning: Marginpar on page 168 moved.
 
-<images/2016/miriam-2016/Zdenko-2016.jpg, id=4234, 803.0pt x 534.99875pt>
+<images/2016/miriam-2016/Zdenko-2016.jpg, id=4243, 803.0pt x 534.99875pt>
 File: images/2016/miriam-2016/Zdenko-2016.jpg Graphic file (type jpg)
 
 <use images/2016/miriam-2016/Zdenko-2016.jpg>
@@ -6369,7 +6376,7 @@ Underfull \hbox (badness 1776) in paragraph at lines 40--40
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [170
+ [168
 
 
 ]
@@ -6377,12 +6384,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
-[171 <./images/2016/miriam-2016/Zdenko-2016.jpg>])
+[169 <./images/2016/miriam-2016/Zdenko-2016.jpg>])
 Underfull \hbox (badness 10000) in paragraph at lines 64--5
 
  []
 
-[172]
+[170]
 \openout2 = `text/2016/tanguy-karstaway-2016/Tanguy-Karstaway-2016.aux'.
 
  (./text/2016/tanguy-karstaway-2016/Tanguy-Karstaway-2016.tex
@@ -6391,7 +6398,7 @@ Overfull \hbox (10.79997pt too wide) in paragraph at lines 3--15
  []
 
 
-<images/2016/tanguy-karstaway-2016/Teapot-2016.jpg, id=4248, 301.125pt x 452.69
+<images/2016/tanguy-karstaway-2016/Teapot-2016.jpg, id=4259, 301.125pt x 452.69
 125pt>
 File: images/2016/tanguy-karstaway-2016/Teapot-2016.jpg Graphic file (type jpg)
 
@@ -6416,13 +6423,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--20
  []
 
 
-LaTeX Warning: Marginpar on page 173 moved.
+LaTeX Warning: Marginpar on page 171 moved.
 
-[173
+[171
 
 
  <./images/2016/tanguy-karstaway-2016/Teapot-2016.jpg>]
-<images/2016/tanguy-karstaway-2016/WillS-2016.jpg, id=4255, 803.0pt x 533.995pt
+<images/2016/tanguy-karstaway-2016/WillS-2016.jpg, id=4265, 803.0pt x 533.995pt
 >
 File: images/2016/tanguy-karstaway-2016/WillS-2016.jpg Graphic file (type jpg)
  <use images/2016/tanguy-karstaway-2016/WillS-2016.jpg>
@@ -6434,8 +6441,8 @@ Underfull \hbox (badness 1533) in paragraph at lines 39--39
 \T1/ppl/m/n/10 ing Rokovo Brezno, the 30m
  []
 
-[174 <./images/2016/tanguy-karstaway-2016/WillS-2016.jpg>]
-<"images/2016/tanguy-karstaway-2016/the western cliffs".jpg, id=4261, 301.125pt
+[172 <./images/2016/tanguy-karstaway-2016/WillS-2016.jpg>]
+<"images/2016/tanguy-karstaway-2016/the western cliffs".jpg, id=4271, 301.125pt
  x 552.0625pt>
 File: "images/2016/tanguy-karstaway-2016/the western cliffs".jpg Graphic file (
 type jpg)
@@ -6476,9 +6483,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--48
  []
 
 
-LaTeX Warning: Marginpar on page 175 moved.
+LaTeX Warning: Marginpar on page 173 moved.
 
-) [175 <./images/2016/tanguy-karstaway-2016/the western cliffs.jpg>]
+) [173 <./images/2016/tanguy-karstaway-2016/the western cliffs.jpg>]
 \openout2 = `text/2016/jack-middle-2016/Jack_Middle_2016.aux'.
 
 
@@ -6489,7 +6496,7 @@ Overfull \hbox (7.74231pt too wide) in paragraph at lines 19--20
  []
 
 
-<"images/2016/jack-middle-2016/jackbolting".jpg, id=4268, 803.0pt x 533.995pt>
+<"images/2016/jack-middle-2016/jackbolting".jpg, id=4277, 803.0pt x 533.995pt>
 File: "images/2016/jack-middle-2016/jackbolting".jpg Graphic file (type jpg)
 
 <use "images/2016/jack-middle-2016/jackbolting".jpg>
@@ -6520,12 +6527,12 @@ Overfull \hbox (5.26227pt too wide) in paragraph at lines 40--41
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [176
+ [174
 
 
 ]
-[177 <./images/2016/jack-middle-2016/jackbolting.jpg>] [178]
-<images/2016/jack-middle-2016/Mountain_King_inset.png, id=4285, 261.52556pt x 4
+[175 <./images/2016/jack-middle-2016/jackbolting.jpg>]
+<images/2016/jack-middle-2016/Mountain_King_inset.png, id=4289, 261.52556pt x 4
 36.03706pt>
 File: images/2016/jack-middle-2016/Mountain_King_inset.png Graphic file (type p
 ng)
@@ -6564,8 +6571,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--94
 \T1/ppl/m/n/10 ex-ten-sions. Slove-nian Na-tional
  []
 
+[176]
 
-LaTeX Warning: Marginpar on page 179 moved.
+LaTeX Warning: Marginpar on page 177 moved.
 
 
 Overfull \hbox (12.05202pt too wide) in paragraph at lines 102--103
@@ -6576,8 +6584,8 @@ through
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [179 <./images/2016/jack-middle-2016/Mountain_King_inset.png>]
-<"images/2016/jack-middle-2016/Hall of the Mountain King2".jpg, id=4292, 451.68
+ [177 <./images/2016/jack-middle-2016/Mountain_King_inset.png>]
+<"images/2016/jack-middle-2016/Hall of the Mountain King2".jpg, id=4302, 451.68
 75pt x 679.53876pt>
 File: "images/2016/jack-middle-2016/Hall of the Mountain King2".jpg Graphic fil
 e (type jpg)
@@ -6587,7 +6595,7 @@ Package pdftex.def Info: "images/2016/jack-middle-2016/Hall of the Mountain Kin
 g2".jpg used on input line 120.
 (pdftex.def)             Requested size: 184.0571pt x 276.9122pt.
 
-<"images/2016/jack-middle-2016/Surveying Colony".jpg, id=4293, 501.875pt x 501.
+<"images/2016/jack-middle-2016/Surveying Colony".jpg, id=4303, 501.875pt x 501.
 875pt>
 File: "images/2016/jack-middle-2016/Surveying Colony".jpg Graphic file (type jp
 g)
@@ -6596,7 +6604,7 @@ Package pdftex.def Info: "images/2016/jack-middle-2016/Surveying Colony".jpg us
 ed on input line 126.
 (pdftex.def)             Requested size: 276.31433pt x 276.33075pt.
 
-<"images/2016/jack-middle-2016/Bottom of blue Danube".jpg, id=4294, 803.0pt x 4
+<"images/2016/jack-middle-2016/Bottom of blue Danube".jpg, id=4304, 803.0pt x 4
 51.6875pt>
 File: "images/2016/jack-middle-2016/Bottom of blue Danube".jpg Graphic file (ty
 pe jpg)
@@ -6613,19 +6621,19 @@ ightly
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [180]
-[181 <./images/2016/jack-middle-2016/Hall of the Mountain King2.jpg> <./images/
+ [178]
+[179 <./images/2016/jack-middle-2016/Hall of the Mountain King2.jpg> <./images/
 2016/jack-middle-2016/Surveying Colony.jpg> <./images/2016/jack-middle-2016/Bot
 tom of blue Danube.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
-) [182]
+) [180]
 \openout2 = `text/2016/tanguy-pavement-2016/Tanguy-Pavement-2016.aux'.
 
  (./text/2016/tanguy-pavement-2016/Tanguy-Pavement-2016.tex
-<"images/2016/tanguy-pavement-2016/migface narrow".jpg, id=4309, 301.125pt x 71
+<"images/2016/tanguy-pavement-2016/migface narrow".jpg, id=4318, 301.125pt x 71
 6.6775pt>
 File: "images/2016/tanguy-pavement-2016/migface narrow".jpg Graphic file (type 
 jpg)
@@ -6665,7 +6673,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--24
  []
 
 
-LaTeX Warning: Marginpar on page 183 moved.
+LaTeX Warning: Marginpar on page 181 moved.
 
 
 Overfull \hbox (1.84218pt too wide) in paragraph at lines 29--30
@@ -6676,11 +6684,11 @@ deal high-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [183
+ [181
 
 
  <./images/2016/tanguy-pavement-2016/migface narrow.jpg>]
-<"images/2016/tanguy-pavement-2016/WillScott-bolting".jpg, id=4315, 602.25pt x 
+<"images/2016/tanguy-pavement-2016/WillScott-bolting".jpg, id=4325, 602.25pt x 
 400.49625pt>
 File: "images/2016/tanguy-pavement-2016/WillScott-bolting".jpg Graphic file (ty
 pe jpg)
@@ -6689,7 +6697,7 @@ Package pdftex.def Info: "images/2016/tanguy-pavement-2016/WillScott-bolting".j
 pg used on input line 40.
 (pdftex.def)             Requested size: 276.31433pt x 183.75385pt.
 
-<"images/2016/tanguy-pavement-2016/Janet Pavement".jpg, id=4316, 401.5pt x 401.
+<"images/2016/tanguy-pavement-2016/Janet Pavement".jpg, id=4326, 401.5pt x 401.
 5pt>
 File: "images/2016/tanguy-pavement-2016/Janet Pavement".jpg Graphic file (type 
 jpg)
@@ -6698,7 +6706,7 @@ Package pdftex.def Info: "images/2016/tanguy-pavement-2016/Janet Pavement".jpg
 used on input line 46.
 (pdftex.def)             Requested size: 184.0571pt x 184.06122pt.
 
-<"images/2016/tanguy-pavement-2016/View of Razor".jpg, id=4317, 803.0pt x 451.6
+<"images/2016/tanguy-pavement-2016/View of Razor".jpg, id=4327, 803.0pt x 451.6
 875pt>
 File: "images/2016/tanguy-pavement-2016/View of Razor".jpg Graphic file (type j
 pg)
@@ -6706,10 +6714,10 @@ pg)
 Package pdftex.def Info: "images/2016/tanguy-pavement-2016/View of Razor".jpg u
 sed on input line 53.
 (pdftex.def)             Requested size: 468.3323pt x 263.44006pt.
- [184 <./images/2016/tanguy-pavement-2016/WillScott-bolting.jpg> <./images/2016
+ [182 <./images/2016/tanguy-pavement-2016/WillScott-bolting.jpg> <./images/2016
 /tanguy-pavement-2016/Janet Pavement.jpg> <./images/2016/tanguy-pavement-2016/V
 iew of Razor.jpg>]
-<"images/2016/tanguy-pavement-2016/Bivi-chocolate".jpg, id=4323, 301.125pt x 57
+<"images/2016/tanguy-pavement-2016/Bivi-chocolate".jpg, id=4333, 301.125pt x 57
 9.16376pt>
 File: "images/2016/tanguy-pavement-2016/Bivi-chocolate".jpg Graphic file (type 
 jpg)
@@ -6744,7 +6752,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--78
  []
 
 
-<images/2016/tanguy-pavement-2016/Ice-2016.jpg, id=4324, 451.6875pt x 679.53876
+<images/2016/tanguy-pavement-2016/Ice-2016.jpg, id=4334, 451.6875pt x 679.53876
 pt>
 File: images/2016/tanguy-pavement-2016/Ice-2016.jpg Graphic file (type jpg)
  <use images/2016/tanguy-pavement-2016/Ice-2016.jpg>
@@ -6752,7 +6760,7 @@ Package pdftex.def Info: images/2016/tanguy-pavement-2016/Ice-2016.jpg used on
 input line 87.
 (pdftex.def)             Requested size: 184.0571pt x 276.9122pt.
 
-<"images/2016/tanguy-pavement-2016/Will TR01".jpg, id=4325, 501.875pt x 501.875
+<"images/2016/tanguy-pavement-2016/Will TR01".jpg, id=4335, 501.875pt x 501.875
 pt>
 File: "images/2016/tanguy-pavement-2016/Will TR01".jpg Graphic file (type jpg)
  <use "images/2016/tanguy-pavement-2016/Will TR01".jpg>
@@ -6760,7 +6768,7 @@ Package pdftex.def Info: "images/2016/tanguy-pavement-2016/Will TR01".jpg used
 on input line 93.
 (pdftex.def)             Requested size: 276.31433pt x 276.33075pt.
 
-<"images/2016/tanguy-pavement-2016/Ice curtain".jpg, id=4326, 803.0pt x 451.687
+<"images/2016/tanguy-pavement-2016/Ice curtain".jpg, id=4336, 803.0pt x 451.687
 5pt>
 File: "images/2016/tanguy-pavement-2016/Ice curtain".jpg Graphic file (type jpg
 )
@@ -6771,10 +6779,10 @@ d on input line 100.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [185 <./images/2016/tanguy-pavement-2016/Bivi-chocolate.jpg>]
+ [183 <./images/2016/tanguy-pavement-2016/Bivi-chocolate.jpg>]
 Underfull \vbox (badness 4492) has occurred while \output is active []
 
- [186 <./images/2016/tanguy-pavement-2016/Ice-2016.jpg> <./images/2016/tanguy-p
+ [184 <./images/2016/tanguy-pavement-2016/Ice-2016.jpg> <./images/2016/tanguy-p
 avement-2016/Will TR01.jpg> <./images/2016/tanguy-pavement-2016/Ice curtain.jpg
 >]
 Overfull \hbox (2.7824pt too wide) in paragraph at lines 120--121
@@ -6789,7 +6797,7 @@ cri-sis. Donuts
  []
 
 
-<"images/2016/tanguy-pavement-2016/icecave".png, id=4337, 204.765pt x 258.7266p
+<"images/2016/tanguy-pavement-2016/icecave".png, id=4347, 204.765pt x 258.7266p
 t>
 File: "images/2016/tanguy-pavement-2016/icecave".png Graphic file (type png)
  <use "images/2016/tanguy-pavement-2016/icecave".png>
@@ -6801,14 +6809,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
-) [187] [188 <./images/2016/tanguy-pavement-2016/icecave.png>]
+) [185] [186 <./images/2016/tanguy-pavement-2016/icecave.png>]
 \openout2 = `text/2016/jack-end-2016/Jack_End_2016.aux'.
 
 
 (./text/2016/jack-end-2016/Jack_End_2016.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [189
+ [187
 
 
 ]
@@ -6819,8 +6827,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [190]
-<"images/2016/jack-end-2016/Top of Upside Down (1)".jpg, id=4357, 501.875pt x 2
+ [188]
+<"images/2016/jack-end-2016/Top of Upside Down (1)".jpg, id=4367, 501.875pt x 2
 82.05376pt>
 File: "images/2016/jack-end-2016/Top of Upside Down (1)".jpg Graphic file (type
  jpg)
@@ -6829,7 +6837,7 @@ Package pdftex.def Info: "images/2016/jack-end-2016/Top of Upside Down (1)".jpg
  used on input line 44.
 (pdftex.def)             Requested size: 293.64383pt x 165.03735pt.
 
-<"images/2016/jack-end-2016/Rhys-folly (1)".jpg, id=4358, 501.875pt x 501.875pt
+<"images/2016/jack-end-2016/Rhys-folly (1)".jpg, id=4368, 501.875pt x 501.875pt
 >
 File: "images/2016/jack-end-2016/Rhys-folly (1)".jpg Graphic file (type jpg)
  <use "images/2016/jack-end-2016/Rhys-folly (1)".jpg>
@@ -6850,9 +6858,9 @@ Overfull \hbox (4.95149pt too wide) in paragraph at lines 59--60
 
 Underfull \vbox (badness 4108) has occurred while \output is active []
 
- [191 <./images/2016/jack-end-2016/Top of Upside Down (1).jpg> <./images/2016/j
+ [189 <./images/2016/jack-end-2016/Top of Upside Down (1).jpg> <./images/2016/j
 ack-end-2016/Rhys-folly (1).jpg>]
-<images/2016/jack-end-2016/Survey-Clare-2016.jpg, id=4365, 803.0pt x 534.99875p
+<images/2016/jack-end-2016/Survey-Clare-2016.jpg, id=4375, 803.0pt x 534.99875p
 t>
 File: images/2016/jack-end-2016/Survey-Clare-2016.jpg Graphic file (type jpg)
  <use images/2016/jack-end-2016/Survey-Clare-2016.jpg>
@@ -6870,24 +6878,24 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [192]
+ [190]
 Overfull \hbox (1.07213pt too wide) in paragraph at lines 90--91
 \T1/ppl/m/n/10 spot-ted a small, grim look-ing chute head-ing off. He strug-gle
 d through
  []
 
-[193 <./images/2016/jack-end-2016/Survey-Clare-2016.jpg>]) [194]
+[191 <./images/2016/jack-end-2016/Survey-Clare-2016.jpg>]) [192]
 \openout2 = `text/2016/tanguy-dvu-2016/Tanguy-DVU-2016.aux'.
 
 
 (./text/2016/tanguy-dvu-2016/Tanguy-DVU-2016.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [195
+ [193
 
 
 ]
-<images/2016/tanguy-dvu-2016/Jarv_TTT (1).jpg, id=4384, 193.72375pt x 674.52pt>
+<images/2016/tanguy-dvu-2016/Jarv_TTT (1).jpg, id=4394, 193.72375pt x 674.52pt>
 File: images/2016/tanguy-dvu-2016/Jarv_TTT (1).jpg Graphic file (type jpg)
 <use images/2016/tanguy-dvu-2016/Jarv_TTT (1).jpg>
 Package pdftex.def Info: images/2016/tanguy-dvu-2016/Jarv_TTT (1).jpg used on i
@@ -6910,10 +6918,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--31
  []
 
 
-LaTeX Warning: Marginpar on page 196 moved.
+LaTeX Warning: Marginpar on page 194 moved.
 
 
-<"images/2016/tanguy-dvu-2016/TTT and below TR grade 1".png, id=4385, 192.72pt 
+<"images/2016/tanguy-dvu-2016/TTT and below TR grade 1".png, id=4395, 192.72pt 
 x 134.6631pt>
 File: "images/2016/tanguy-dvu-2016/TTT and below TR grade 1".png Graphic file (
 type png)
@@ -6934,7 +6942,7 @@ e ropes.
  []
 
 
-<"images/2016/tanguy-dvu-2016/Jarv_chamber_DejaVu (1)".jpg, id=4386, 517.935pt 
+<"images/2016/tanguy-dvu-2016/Jarv_chamber_DejaVu (1)".jpg, id=4396, 517.935pt 
 x 690.58pt>
 File: "images/2016/tanguy-dvu-2016/Jarv_chamber_DejaVu (1)".jpg Graphic file (t
 ype jpg)
@@ -6943,7 +6951,7 @@ Package pdftex.def Info: "images/2016/tanguy-dvu-2016/Jarv_chamber_DejaVu (1)".
 jpg used on input line 55.
 (pdftex.def)             Requested size: 165.31981pt x 220.4211pt.
 
-<"images/2016/tanguy-dvu-2016/Jarv_BUckwheat (1)".jpg, id=4387, 501.875pt x 376
+<"images/2016/tanguy-dvu-2016/Jarv_BUckwheat (1)".jpg, id=4397, 501.875pt x 376
 .40625pt>
 File: "images/2016/tanguy-dvu-2016/Jarv_BUckwheat (1)".jpg Graphic file (type j
 pg)
@@ -6952,7 +6960,7 @@ Package pdftex.def Info: "images/2016/tanguy-dvu-2016/Jarv_BUckwheat (1)".jpg u
 sed on input line 62.
 (pdftex.def)             Requested size: 295.05164pt x 221.29663pt.
 
-<"images/2016/tanguy-dvu-2016/Jarv_DejaVU (1)".jpg, id=4388, 921.4425pt x 608.2
+<"images/2016/tanguy-dvu-2016/Jarv_DejaVU (1)".jpg, id=4398, 921.4425pt x 608.2
 725pt>
 File: "images/2016/tanguy-dvu-2016/Jarv_DejaVU (1)".jpg Graphic file (type jpg)
 
@@ -6993,18 +7001,18 @@ Underfull \hbox (badness 1484) in paragraph at lines 76--76
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [196 <./images/2016/tanguy-dvu-2016/Jarv_TTT (1).jpg>] [197 <./images/2016/tan
+ [194 <./images/2016/tanguy-dvu-2016/Jarv_TTT (1).jpg>] [195 <./images/2016/tan
 guy-dvu-2016/TTT and below TR grade 1.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [198 <./images/2016/tanguy-dvu-2016/Jarv_chamber_DejaVu (1).jpg> <./images/201
+ [196 <./images/2016/tanguy-dvu-2016/Jarv_chamber_DejaVu (1).jpg> <./images/201
 6/tanguy-dvu-2016/Jarv_BUckwheat (1).jpg> <./images/2016/tanguy-dvu-2016/Jarv_D
 ejaVU (1).jpg>])
 Underfull \hbox (badness 10000) in paragraph at lines 91--10
 
  []
 
-[199]
+[197]
 \openout2 = `text/2016/tanguy-sewer-2016/Tanguy-sewer-2016.aux'.
 
  (./text/2016/tanguy-sewer-2016/Tanguy-sewer-2016.tex
@@ -7013,16 +7021,16 @@ Overfull \hbox (10.79997pt too wide) in paragraph at lines 4--17
  []
 
 
-LaTeX Warning: Marginpar on page 200 moved.
+LaTeX Warning: Marginpar on page 198 moved.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [200
+ [198
 
 
 ]
-<images/2016/tanguy-sewer-2016/Jarvist Frost Mig from SW.jpg, id=4414, 803.0pt 
+<images/2016/tanguy-sewer-2016/Jarvist Frost Mig from SW.jpg, id=4423, 803.0pt 
 x 531.9875pt>
 File: images/2016/tanguy-sewer-2016/Jarvist Frost Mig from SW.jpg Graphic file 
 (type jpg)
@@ -7036,10 +7044,10 @@ Underfull \hbox (badness 2426) in paragraph at lines 61--61
 \T1/ppl/m/n/10 path which links Plan-ina na
  []
 
-[201 <./images/2016/tanguy-sewer-2016/Jarvist Frost Mig from SW.jpg>]
+[199 <./images/2016/tanguy-sewer-2016/Jarvist Frost Mig from SW.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [202]
+ [200]
 Overfull \hbox (0.67227pt too wide) in paragraph at lines 75--76
 []\T1/ppl/m/n/10 After hav-ing a rest, some choco-late and think-ing about our 
 predica-
@@ -7052,7 +7060,7 @@ eatic
  []
 
 
-<images/2016/tanguy-sewer-2016/Roped Entrance Traverse-Jarv.jpg, id=4424, 602.2
+<images/2016/tanguy-sewer-2016/Roped Entrance Traverse-Jarv.jpg, id=4434, 602.2
 5pt x 803.0pt>
 File: images/2016/tanguy-sewer-2016/Roped Entrance Traverse-Jarv.jpg Graphic fi
 le (type jpg)
@@ -7084,7 +7092,7 @@ Underfull \hbox (badness 1867) in paragraph at lines 87--87
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [203]
+ [201]
 Overfull \hbox (8.283pt too wide) in paragraph at lines 91--92
 []\T1/ppl/m/n/10 We scram-bled down some huge boul-ders and en-tered a small mu
 ddy
@@ -7093,16 +7101,16 @@ ddy
 
 Underfull \vbox (badness 4403) has occurred while \output is active []
 
- [204 <./images/2016/tanguy-sewer-2016/Roped Entrance Traverse-Jarv.jpg>])
+ [202 <./images/2016/tanguy-sewer-2016/Roped Entrance Traverse-Jarv.jpg>])
 Underfull \hbox (badness 10000) in paragraph at lines 106--11
 
  []
 
-[205]
+[203]
 \openout2 = `text/2016/arun-rescue-2016/Arun-rescue-2016.aux'.
 
  (./text/2016/arun-rescue-2016/Arun-rescue-2016.tex
-<images/2016/arun-rescue-2016/DSC_0367_jani kutin_delo na kalu.jpg, id=4439, 80
+<images/2016/arun-rescue-2016/DSC_0367_jani kutin_delo na kalu.jpg, id=4448, 80
 3.0pt x 451.6875pt>
 File: images/2016/arun-rescue-2016/DSC_0367_jani kutin_delo na kalu.jpg Graphic
  file (type jpg)
@@ -7160,11 +7168,11 @@ y thoughts.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [206
+ [204
 
 
 ]
-<images/2016/arun-rescue-2016/migovec_cartoon 2.jpg, id=4444, 602.25pt x 630.35
+<images/2016/arun-rescue-2016/migovec_cartoon 2.jpg, id=4453, 602.25pt x 630.35
 5pt>
 File: images/2016/arun-rescue-2016/migovec_cartoon 2.jpg Graphic file (type jpg
 )
@@ -7195,18 +7203,18 @@ Overfull \hbox (10.79999pt too wide) in paragraph at lines 53--54
 
 Underfull \vbox (badness 2359) has occurred while \output is active []
 
- [207 <./images/2016/arun-rescue-2016/DSC_0367_jani kutin_delo na kalu.jpg>]
+ [205 <./images/2016/arun-rescue-2016/DSC_0367_jani kutin_delo na kalu.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [208 <./images/2016/arun-rescue-2016/migovec_cartoon 2.jpg>]
-<images/2016/arun-rescue-2016/KnotVeryGood.jpg, id=4455, 803.0pt x 534.99875pt>
+ [206 <./images/2016/arun-rescue-2016/migovec_cartoon 2.jpg>]
+<images/2016/arun-rescue-2016/KnotVeryGood.jpg, id=4465, 803.0pt x 534.99875pt>
 File: images/2016/arun-rescue-2016/KnotVeryGood.jpg Graphic file (type jpg)
 <use images/2016/arun-rescue-2016/KnotVeryGood.jpg>
 Package pdftex.def Info: images/2016/arun-rescue-2016/KnotVeryGood.jpg used on 
 input line 63.
 (pdftex.def)             Requested size: 468.3323pt x 312.03014pt.
- [209] [210 <./images/2016/arun-rescue-2016/KnotVeryGood.jpg>]
-<images/2016/arun-rescue-2016/Passing down information.png, id=4466, 874.26625p
+ [207] [208 <./images/2016/arun-rescue-2016/KnotVeryGood.jpg>]
+<images/2016/arun-rescue-2016/Passing down information.png, id=4476, 874.26625p
 t x 688.5725pt>
 File: images/2016/arun-rescue-2016/Passing down information.png Graphic file (t
 ype png)
@@ -7216,7 +7224,7 @@ Package pdftex.def Info: images/2016/arun-rescue-2016/Passing down information.
 png used on input line 83.
 (pdftex.def)             Requested size: 200.4433pt x 157.86401pt.
 
-<images/2016/arun-rescue-2016/Preparing stretcher.png, id=4467, 120.45pt x 78.7
+<images/2016/arun-rescue-2016/Preparing stretcher.png, id=4477, 120.45pt x 78.7
 743pt>
 File: images/2016/arun-rescue-2016/Preparing stretcher.png Graphic file (type p
 ng)
@@ -7225,7 +7233,7 @@ Package pdftex.def Info: images/2016/arun-rescue-2016/Preparing stretcher.png u
 sed on input line 89.
 (pdftex.def)             Requested size: 242.127pt x 158.36678pt.
 
-<images/2016/arun-rescue-2016/Moving stretcher.png, id=4468, 975.645pt x 598.23
+<images/2016/arun-rescue-2016/Moving stretcher.png, id=4478, 975.645pt x 598.23
 5pt>
 File: images/2016/arun-rescue-2016/Moving stretcher.png Graphic file (type png)
 
@@ -7258,12 +7266,12 @@ Underfull \hbox (badness 1210) in paragraph at lines 105--105
 \T1/ppl/m/n/10 cow-stails move through hor-i-
  []
 
-[211 <./images/2016/arun-rescue-2016/Passing down information.png> <./images/20
+[209 <./images/2016/arun-rescue-2016/Passing down information.png> <./images/20
 16/arun-rescue-2016/Preparing stretcher.png> <./images/2016/arun-rescue-2016/Mo
 ving stretcher.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [212]
+ [210]
 Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
@@ -7278,7 +7286,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--142
 
  []
 
-) [213]
+) [211]
 \openout2 = `text/2016/other-finds-2016/Other-finds-2016.aux'.
 
  (./text/2016/other-finds-2016/Other-finds-2016.tex
@@ -7288,7 +7296,7 @@ Monatip-
  []
 
 
-<"images/2016/other-finds-2016/Will Scott sunset".jpg, id=4487, 301.125pt x 788
+<"images/2016/other-finds-2016/Will Scott sunset".jpg, id=4497, 301.125pt x 788
 .9475pt>
 File: "images/2016/other-finds-2016/Will Scott sunset".jpg Graphic file (type j
 pg)
@@ -7318,10 +7326,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--10
  []
 
 
-LaTeX Warning: Marginpar on page 214 moved.
+LaTeX Warning: Marginpar on page 212 moved.
 
 
-<"images/2016/other-finds-2016/Kenneth-eyrie (2)".jpg, id=4488, 672.5125pt x 73
+<"images/2016/other-finds-2016/Kenneth-eyrie (2)".jpg, id=4498, 672.5125pt x 73
 6.7525pt>
 File: "images/2016/other-finds-2016/Kenneth-eyrie (2)".jpg Graphic file (type j
 pg)
@@ -7330,7 +7338,7 @@ Package pdftex.def Info: "images/2016/other-finds-2016/Kenneth-eyrie (2)".jpg u
 sed on input line 21.
 (pdftex.def)             Requested size: 254.53992pt x 278.85591pt.
 
-<"images/2016/other-finds-2016/Kenneth-book".jpg, id=4489, 401.5pt x 534.99875p
+<"images/2016/other-finds-2016/Kenneth-book".jpg, id=4499, 401.5pt x 534.99875p
 t>
 File: "images/2016/other-finds-2016/Kenneth-book".jpg Graphic file (type jpg)
  <use "images/2016/other-finds-2016/Kenneth-book".jpg>
@@ -7338,7 +7346,7 @@ Package pdftex.def Info: "images/2016/other-finds-2016/Kenneth-book".jpg used o
 n input line 27.
 (pdftex.def)             Requested size: 209.11162pt x 278.64993pt.
 
-<"images/2016/other-finds-2016/Kenneth-hammer".jpg, id=4490, 803.0pt x 451.6875
+<"images/2016/other-finds-2016/Kenneth-hammer".jpg, id=4500, 803.0pt x 451.6875
 pt>
 File: "images/2016/other-finds-2016/Kenneth-hammer".jpg Graphic file (type jpg)
 
@@ -7357,14 +7365,14 @@ Overfull \hbox (10.79999pt too wide) in paragraph at lines 81--82
  []
 
 
-<"images/2016/other-finds-2016/End of expo".jpg, id=4491, 803.0pt x 451.6875pt>
+<"images/2016/other-finds-2016/End of expo".jpg, id=4501, 803.0pt x 451.6875pt>
 File: "images/2016/other-finds-2016/End of expo".jpg Graphic file (type jpg)
 <use "images/2016/other-finds-2016/End of expo".jpg>
 Package pdftex.def Info: "images/2016/other-finds-2016/End of expo".jpg used on
  input line 87.
 (pdftex.def)             Requested size: 468.3323pt x 263.44006pt.
 
-<"images/2016/other-finds-2016/2016plan".pdf, id=4492, 597.50786pt x 845.04686p
+<"images/2016/other-finds-2016/2016plan".pdf, id=4502, 597.50786pt x 845.04686p
 t>
 File: "images/2016/other-finds-2016/2016plan".pdf Graphic file (type pdf)
  <use "images/2016/other-finds-2016/2016plan".pdf>
@@ -7377,10 +7385,10 @@ Overfull \hbox (16.74048pt too wide) in paragraph at lines 96--99
  []
 
 
-LaTeX Warning: Float too large for page by 20.0pt on input line 99.
+LaTeX Warning: Float too large for page by 34.0pt on input line 99.
 
 
-<"images/2016/other-finds-2016/EE2016".pdf, id=4493, 804.75784pt x 1157.04181pt
+<"images/2016/other-finds-2016/EE2016".pdf, id=4503, 804.75784pt x 1157.04181pt
 >
 File: "images/2016/other-finds-2016/EE2016".pdf Graphic file (type pdf)
  <use "images/2016/other-finds-2016/EE2016".pdf>
@@ -7393,16 +7401,16 @@ Overfull \hbox (8.81612pt too wide) in paragraph at lines 103--106
  []
 
 
-LaTeX Warning: Float too large for page by 20.0pt on input line 106.
+LaTeX Warning: Float too large for page by 34.0pt on input line 106.
 
-) [214
+) [212
 
 
- <./images/2016/other-finds-2016/Will Scott sunset.jpg>] [215 <./images/2016/ot
+ <./images/2016/other-finds-2016/Will Scott sunset.jpg>] [213 <./images/2016/ot
 her-finds-2016/Kenneth-eyrie (2).jpg> <./images/2016/other-finds-2016/Kenneth-b
-ook.jpg> <./images/2016/other-finds-2016/Kenneth-hammer.jpg>] [216 <./images/20
-16/other-finds-2016/End of expo.jpg>] [217 <./images/2016/other-finds-2016/2016
-plan.pdf>] [218 <./images/2016/other-finds-2016/EE2016.pdf>]
+ook.jpg> <./images/2016/other-finds-2016/Kenneth-hammer.jpg>] [214 <./images/20
+16/other-finds-2016/End of expo.jpg>] [215 <./images/2016/other-finds-2016/2016
+plan.pdf>] [216 <./images/2016/other-finds-2016/EE2016.pdf>]
 \openout2 = `text/2016/2016-outro.aux'.
 
 
@@ -7432,14 +7440,14 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
-) <images/backgrounds/KennethB9.jpg, id=4796, 803.0pt x 1204.5pt>
+) <images/backgrounds/KennethB9.jpg, id=4805, 803.0pt x 1204.5pt>
 File: images/backgrounds/KennethB9.jpg Graphic file (type jpg)
 
 <use images/backgrounds/KennethB9.jpg>
 Package pdftex.def Info: images/backgrounds/KennethB9.jpg used on input line 15
 .
 (pdftex.def)             Requested size: 597.50787pt x 896.3152pt.
- [219
+ [217
 
 
  <./images/backgrounds/KennethB9.jpg>]) (./text/2017/2017.tex
@@ -7471,14 +7479,14 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
-) <images/backgrounds/RhysTyers-SpiralClimb.jpg, id=4801, 803.0pt x 1204.5pt>
+) <images/backgrounds/RhysTyers-SpiralClimb.jpg, id=4811, 803.0pt x 1204.5pt>
 File: images/backgrounds/RhysTyers-SpiralClimb.jpg Graphic file (type jpg)
 
 <use images/backgrounds/RhysTyers-SpiralClimb.jpg>
 Package pdftex.def Info: images/backgrounds/RhysTyers-SpiralClimb.jpg used on i
 nput line 1.
 (pdftex.def)             Requested size: 597.50787pt x 896.3152pt.
- [220
+ [218
 
 
 
@@ -7486,7 +7494,7 @@ nput line 1.
 \openout2 = `text/2017/welcome-2017/Jarv-welcome-2017.aux'.
 
  (./text/2017/welcome-2017/Jarv-welcome-2017.tex
-<"images/2017/welcome-2017/matrjal bajta kau 2016 (3)".jpg, id=4806, 301.125pt 
+<"images/2017/welcome-2017/matrjal bajta kau 2016 (3)".jpg, id=4816, 301.125pt 
 x 401.5pt>
 File: "images/2017/welcome-2017/matrjal bajta kau 2016 (3)".jpg Graphic file (t
 ype jpg)
@@ -7526,7 +7534,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--8
  []
 
 
-<"images/2017/welcome-2017/fratnik_in_helicopter".jpg, id=4807, 301.125pt x 225
+<"images/2017/welcome-2017/fratnik_in_helicopter".jpg, id=4817, 301.125pt x 225
 .84375pt>
 File: "images/2017/welcome-2017/fratnik_in_helicopter".jpg Graphic file (type j
 pg)
@@ -7566,17 +7574,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--16
  []
 
 
-LaTeX Warning: Marginpar on page 221 moved.
+LaTeX Warning: Marginpar on page 219 moved.
 
 
-<"images/2017/welcome-2017/Ben crates".jpg, id=4808, 2388.925pt x 2534.46875pt>
+<"images/2017/welcome-2017/Ben crates".jpg, id=4818, 2388.925pt x 2534.46875pt>
 File: "images/2017/welcome-2017/Ben crates".jpg Graphic file (type jpg)
 <use "images/2017/welcome-2017/Ben crates".jpg>
 Package pdftex.def Info: "images/2017/welcome-2017/Ben crates".jpg used on inpu
 t line 27.
 (pdftex.def)             Requested size: 193.41861pt x 205.19803pt.
 
-<"images/2017/welcome-2017/solarpanel".jpg, id=4809, 602.25pt x 455.7025pt>
+<"images/2017/welcome-2017/solarpanel".jpg, id=4819, 602.25pt x 455.7025pt>
 File: "images/2017/welcome-2017/solarpanel".jpg Graphic file (type jpg)
 
 <use "images/2017/welcome-2017/solarpanel".jpg>
@@ -7584,7 +7592,7 @@ Package pdftex.def Info: "images/2017/welcome-2017/solarpanel".jpg used on inpu
 t line 33.
 (pdftex.def)             Requested size: 270.22578pt x 204.48013pt.
 
-<"images/2017/welcome-2017/Full Barrell".jpg, id=4810, 5447.35126pt x 3360.555p
+<"images/2017/welcome-2017/Full Barrell".jpg, id=4820, 5447.35126pt x 3360.555p
 t>
 File: "images/2017/welcome-2017/Full Barrell".jpg Graphic file (type jpg)
  <use "images/2017/welcome-2017/Full Barrell".jpg>
@@ -7604,16 +7612,16 @@ Underfull \hbox (badness 1184) in paragraph at lines 46--46
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [221
+ [219
 
 
  <./images/2017/welcome-2017/matrjal bajta kau 2016 (3).jpg> <./images/2017/wel
 come-2017/fratnik_in_helicopter.jpg>]
 Underfull \vbox (badness 2564) has occurred while \output is active []
 
- [222 <./images/2017/welcome-2017/Ben crates.jpg> <./images/2017/welcome-2017/s
+ [220 <./images/2017/welcome-2017/Ben crates.jpg> <./images/2017/welcome-2017/s
 olarpanel.jpg> <./images/2017/welcome-2017/Full Barrell.jpg>]
-<"images/2017/welcome-2017/lightning".jpg, id=4822, 803.0pt x 451.6875pt>
+<"images/2017/welcome-2017/lightning".jpg, id=4833, 803.0pt x 451.6875pt>
 File: "images/2017/welcome-2017/lightning".jpg Graphic file (type jpg)
 
 <use "images/2017/welcome-2017/lightning".jpg>
@@ -7623,10 +7631,10 @@ Package pdftex.def Info: "images/2017/welcome-2017/lightning".jpg used on input
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [223]
+ [221]
 Underfull \vbox (badness 7832) has occurred while \output is active []
 
- [224 <./images/2017/welcome-2017/lightning.jpg>]
+ [222 <./images/2017/welcome-2017/lightning.jpg>]
 Overfull \hbox (2.90172pt too wide) in paragraph at lines 84--85
 []\T1/ppl/m/n/10 Perhaps un-sur-pris-ingly, the light-ning strike def-i-nitely 
 slowed down
@@ -7649,11 +7657,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--3
 
  []
 
-[225]
+[223]
 \openout2 = `text/2017/gondolin-2017/Gondolin-2017.aux'.
 
  (./text/2017/gondolin-2017/Gondolin-2017.tex
-<"images/2017/gondolin-2017/mink_gps".jpg, id=4838, 301.125pt x 678.535pt>
+<"images/2017/gondolin-2017/mink_gps".jpg, id=4848, 301.125pt x 678.535pt>
 File: "images/2017/gondolin-2017/mink_gps".jpg Graphic file (type jpg)
 
 <use "images/2017/gondolin-2017/mink_gps".jpg>
@@ -7692,9 +7700,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--7
  []
 
 
-LaTeX Warning: Marginpar on page 226 moved.
+LaTeX Warning: Marginpar on page 224 moved.
 
-<"images/2017/gondolin-2017/Jarv_V09 (1)".jpg, id=4839, 517.935pt x 690.58pt>
+<"images/2017/gondolin-2017/Jarv_V09 (1)".jpg, id=4849, 517.935pt x 690.58pt>
 File: "images/2017/gondolin-2017/Jarv_V09 (1)".jpg Graphic file (type jpg)
 
 <use "images/2017/gondolin-2017/Jarv_V09 (1)".jpg>
@@ -7702,7 +7710,7 @@ Package pdftex.def Info: "images/2017/gondolin-2017/Jarv_V09 (1)".jpg used on i
 nput line 20.
 (pdftex.def)             Requested size: 243.53479pt x 324.72017pt.
 
-<"images/2017/gondolin-2017/Gondolin-abseil".jpg, id=4840, 501.875pt x 752.8125
+<"images/2017/gondolin-2017/Gondolin-abseil".jpg, id=4850, 501.875pt x 752.8125
 pt>
 File: "images/2017/gondolin-2017/Gondolin-abseil".jpg Graphic file (type jpg)
  <use "images/2017/gondolin-2017/Gondolin-abseil".jpg>
@@ -7722,15 +7730,15 @@ Underfull \hbox (badness 1377) in paragraph at lines 33--33
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [226
+ [224
 
 
  <./images/2017/gondolin-2017/mink_gps.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [227 <./images/2017/gondolin-2017/Jarv_V09 (1).jpg> <./images/2017/gondolin-20
+ [225 <./images/2017/gondolin-2017/Jarv_V09 (1).jpg> <./images/2017/gondolin-20
 17/Gondolin-abseil.jpg>]
-<"images/2017/gondolin-2017/Gondolin-pendulum".jpg, id=4851, 803.0pt x 451.6875
+<"images/2017/gondolin-2017/Gondolin-pendulum".jpg, id=4861, 803.0pt x 451.6875
 pt>
 File: "images/2017/gondolin-2017/Gondolin-pendulum".jpg Graphic file (type jpg)
 
@@ -7739,7 +7747,7 @@ Package pdftex.def Info: "images/2017/gondolin-2017/Gondolin-pendulum".jpg used
  on input line 49.
 (pdftex.def)             Requested size: 468.3323pt x 263.44006pt.
 
-<"images/2017/gondolin-2017/gondolin_drawn".pdf, id=4852, 597.50786pt x 845.046
+<"images/2017/gondolin-2017/gondolin_drawn".pdf, id=4862, 597.50786pt x 845.046
 86pt>
 File: "images/2017/gondolin-2017/gondolin_drawn".pdf Graphic file (type pdf)
  <use "images/2017/gondolin-2017/gondolin_drawn".pdf>
@@ -7747,10 +7755,14 @@ Package pdftex.def Info: "images/2017/gondolin-2017/gondolin_drawn".pdf used on
  input line 62.
 (pdftex.def)             Requested size: 468.3323pt x 662.3575pt.
 
+
+LaTeX Warning: Float too large for page by 10.3575pt on input line 65.
+
+
 Underfull \vbox (badness 2359) has occurred while \output is active []
 
- [228 <./images/2017/gondolin-2017/Gondolin-pendulum.jpg>]
-<"images/2017/gondolin-2017/Ben-survey".jpg, id=4858, 401.5pt x 554.07pt>
+ [226 <./images/2017/gondolin-2017/Gondolin-pendulum.jpg>]
+<"images/2017/gondolin-2017/Ben-survey".jpg, id=4868, 401.5pt x 554.07pt>
 File: "images/2017/gondolin-2017/Ben-survey".jpg Graphic file (type jpg)
 
 <use "images/2017/gondolin-2017/Ben-survey".jpg>
@@ -7758,7 +7770,7 @@ Package pdftex.def Info: "images/2017/gondolin-2017/Ben-survey".jpg used on inp
 ut line 80.
 (pdftex.def)             Requested size: 236.51009pt x 326.3912pt.
 
-<"images/2017/gondolin-2017/Ben_Gondolin".jpg, id=4859, 401.5pt x 602.25pt>
+<"images/2017/gondolin-2017/Ben_Gondolin".jpg, id=4869, 401.5pt x 602.25pt>
 File: "images/2017/gondolin-2017/Ben_Gondolin".jpg Graphic file (type jpg)
 
 <use "images/2017/gondolin-2017/Ben_Gondolin".jpg>
@@ -7766,7 +7778,7 @@ Package pdftex.def Info: "images/2017/gondolin-2017/Ben_Gondolin".jpg used on i
 nput line 87.
 (pdftex.def)             Requested size: 217.7728pt x 326.66211pt.
 
-<"images/2017/gondolin-2017/Tanguy-Gondolin".jpg, id=4860, 803.0pt x 451.6875pt
+<"images/2017/gondolin-2017/Tanguy-Gondolin".jpg, id=4870, 803.0pt x 451.6875pt
 >
 File: "images/2017/gondolin-2017/Tanguy-Gondolin".jpg Graphic file (type jpg)
  <use "images/2017/gondolin-2017/Tanguy-Gondolin".jpg>
@@ -7778,7 +7790,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--4
 
  []
 
-[229] [230 <./images/2017/gondolin-2017/gondolin_drawn.pdf>] [231 <./images/201
+[227] [228 <./images/2017/gondolin-2017/gondolin_drawn.pdf>] [229 <./images/201
 7/gondolin-2017/Ben-survey.jpg> <./images/2017/gondolin-2017/Ben_Gondolin.jpg> 
 <./images/2017/gondolin-2017/Tanguy-Gondolin.jpg>]
 \openout2 = `text/2017/jack-electric-2017/Jack-Electric-2017.aux'.
@@ -7796,7 +7808,7 @@ scended
  []
 
 
-<images/2017/jack-electric-2017/Kenneth-Abseil.jpg, id=6235, 301.125pt x 451.68
+<images/2017/jack-electric-2017/Kenneth-Abseil.jpg, id=6245, 301.125pt x 451.68
 75pt>
 File: images/2017/jack-electric-2017/Kenneth-Abseil.jpg Graphic file (type jpg)
 
@@ -7841,10 +7853,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--26
  []
 
 
-LaTeX Warning: Marginpar on page 232 moved.
+LaTeX Warning: Marginpar on page 230 moved.
 
 
-<"images/2017/jack-electric-2017/Electric-dreams-2".jpg, id=6236, 803.0pt x 373
+<"images/2017/jack-electric-2017/Electric-dreams-2".jpg, id=6246, 803.0pt x 373
 .395pt>
 File: "images/2017/jack-electric-2017/Electric-dreams-2".jpg Graphic file (type
  jpg)
@@ -7855,11 +7867,11 @@ Package pdftex.def Info: "images/2017/jack-electric-2017/Electric-dreams-2".jpg
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [232
+ [230
 
 
  <./images/2017/jack-electric-2017/Kenneth-Abseil.jpg>]
-<"images/2017/jack-electric-2017/Dave-crystal pool".jpg, id=6243, 301.125pt x 4
+<"images/2017/jack-electric-2017/Dave-crystal pool".jpg, id=6253, 301.125pt x 4
 29.605pt>
 File: "images/2017/jack-electric-2017/Dave-crystal pool".jpg Graphic file (type
  jpg)
@@ -7889,7 +7901,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--64
  []
 
 
-<"images/2017/jack-electric-2017/Electric dreams".jpg, id=6244, 803.0pt x 534.9
+<"images/2017/jack-electric-2017/Electric dreams".jpg, id=6254, 803.0pt x 534.9
 9875pt>
 File: "images/2017/jack-electric-2017/Electric dreams".jpg Graphic file (type j
 pg)
@@ -7897,14 +7909,14 @@ pg)
 Package pdftex.def Info: "images/2017/jack-electric-2017/Electric dreams".jpg u
 sed on input line 70.
 (pdftex.def)             Requested size: 468.3323pt x 312.03014pt.
- [233 <./images/2017/jack-electric-2017/Electric-dreams-2.jpg> <./images/2017/j
+ [231 <./images/2017/jack-electric-2017/Electric-dreams-2.jpg> <./images/2017/j
 ack-electric-2017/Dave-crystal pool.jpg>]
 Overfull \hbox (10.79997pt too wide) in paragraph at lines 82--94
 []  
  []
 
 
-LaTeX Warning: Marginpar on page 234 moved.
+LaTeX Warning: Marginpar on page 232 moved.
 
 
 Overfull \hbox (22.7927pt too wide) in paragraph at lines 97--98
@@ -7915,8 +7927,8 @@ e streamway
 
 Underfull \vbox (badness 3375) has occurred while \output is active []
 
- [234 <./images/2017/jack-electric-2017/Electric dreams.jpg>]
-<images/2017/jack-electric-2017/Mountain_King_inset.png, id=6257, 261.52556pt x
+ [232 <./images/2017/jack-electric-2017/Electric dreams.jpg>]
+<images/2017/jack-electric-2017/Mountain_King_inset.png, id=6267, 261.52556pt x
  436.03706pt>
 File: images/2017/jack-electric-2017/Mountain_King_inset.png Graphic file (type
  png)
@@ -7970,16 +7982,16 @@ Overfull \hbox (2.16255pt too wide) in paragraph at lines 118--119
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [235 <./images/2017/jack-electric-2017/Mountain_King_inset.png>])
+ [233 <./images/2017/jack-electric-2017/Mountain_King_inset.png>])
 Underfull \hbox (badness 10000) in paragraph at lines 126--5
 
  []
 
-[236]
+[234]
 \openout2 = `text/2017/tanguy-hearts-2017/Tanguy-Hearts-2017.aux'.
 
  (./text/2017/tanguy-hearts-2017/Tanguy-Hearts-2017.tex
-<"images/2017/tanguy-hearts-2017/Smer0".jpg, id=6269, 401.5pt x 537.00626pt>
+<"images/2017/tanguy-hearts-2017/Smer0".jpg, id=6278, 401.5pt x 537.00626pt>
 File: "images/2017/tanguy-hearts-2017/Smer0".jpg Graphic file (type jpg)
 
 <use "images/2017/tanguy-hearts-2017/Smer0".jpg>
@@ -7987,7 +7999,7 @@ Package pdftex.def Info: "images/2017/tanguy-hearts-2017/Smer0".jpg used on inp
 ut line 21.
 (pdftex.def)             Requested size: 153.61436pt x 205.46567pt.
 
-<"images/2017/tanguy-hearts-2017/sump sediment".JPG, id=6270, 602.25pt x 402.50
+<"images/2017/tanguy-hearts-2017/sump sediment".JPG, id=6279, 602.25pt x 402.50
 375pt>
 File: "images/2017/tanguy-hearts-2017/sump sediment".JPG Graphic file (type jpg
 )
@@ -7996,7 +8008,7 @@ Package pdftex.def Info: "images/2017/tanguy-hearts-2017/sump sediment".JPG use
 d on input line 27.
 (pdftex.def)             Requested size: 310.03719pt x 207.21497pt.
 
-<"images/2017/tanguy-hearts-2017/Sump_Jack_of_Hearts".jpg, id=6271, 803.0pt x 4
+<"images/2017/tanguy-hearts-2017/Sump_Jack_of_Hearts".jpg, id=6280, 803.0pt x 4
 11.5375pt>
 File: "images/2017/tanguy-hearts-2017/Sump_Jack_of_Hearts".jpg Graphic file (ty
 pe jpg)
@@ -8022,14 +8034,14 @@ Underfull \hbox (badness 1478) in paragraph at lines 41--41
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [237
+ [235
 
 
 ]
-[238 <./images/2017/tanguy-hearts-2017/Smer0.jpg> <./images/2017/tanguy-hearts-
+[236 <./images/2017/tanguy-hearts-2017/Smer0.jpg> <./images/2017/tanguy-hearts-
 2017/sump sediment.JPG> <./images/2017/tanguy-hearts-2017/Sump_Jack_of_Hearts.j
 pg>]
-<"images/2017/tanguy-hearts-2017/tanguy-bolting-hearts".jpg, id=6281, 301.125pt
+<"images/2017/tanguy-hearts-2017/tanguy-bolting-hearts".jpg, id=6291, 301.125pt
  x 401.5pt>
 File: "images/2017/tanguy-hearts-2017/tanguy-bolting-hearts".jpg Graphic file (
 type jpg)
@@ -8044,25 +8056,25 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Marginpar on page 239 moved.
+LaTeX Warning: Marginpar on page 237 moved.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [239 <./images/2017/tanguy-hearts-2017/tanguy-bolting-hearts.jpg>])
+ [237 <./images/2017/tanguy-hearts-2017/tanguy-bolting-hearts.jpg>])
 Underfull \hbox (badness 10000) in paragraph at lines 87--6
 
  []
 
-[240]
+[238]
 \openout2 = `text/2017/tanguy-hammerhead-2017/Tanguy-hammerhead-2017.aux'.
 
  (./text/2017/tanguy-hammerhead-2017/Tanguy-hammerhead-2017.tex
 
-LaTeX Warning: Marginpar on page 241 moved.
+LaTeX Warning: Marginpar on page 239 moved.
 
 
-<"images/2017/tanguy-hammerhead-2017/formations_povezava".jpg, id=6291, 501.875
+<"images/2017/tanguy-hammerhead-2017/formations_povezava".jpg, id=6301, 501.875
 pt x 273.02pt>
 File: "images/2017/tanguy-hammerhead-2017/formations_povezava".jpg Graphic file
  (type jpg)
@@ -8072,7 +8084,7 @@ Package pdftex.def Info: "images/2017/tanguy-hammerhead-2017/formations_povezav
 a".jpg used on input line 29.
 (pdftex.def)             Requested size: 329.28185pt x 179.13977pt.
 
-<"images/2017/tanguy-hammerhead-2017/Povezava-rift".jpg, id=6292, 401.5pt x 534
+<"images/2017/tanguy-hammerhead-2017/Povezava-rift".jpg, id=6302, 401.5pt x 534
 .99875pt>
 File: "images/2017/tanguy-hammerhead-2017/Povezava-rift".jpg Graphic file (type
  jpg)
@@ -8085,12 +8097,12 @@ Underfull \hbox (badness 4995) in paragraph at lines 41--41
 []\T1/ppl/m/n/10 Figure 143: |\T1/ppl/m/it/10 a \T1/ppl/m/n/10 Pe-cu-liar cal-
  []
 
-[241
+[239
 
 
  <./images/2017/tanguy-hammerhead-2017/formations_povezava.jpg> <./images/2017/
 tanguy-hammerhead-2017/Povezava-rift.jpg>]
-<"images/2017/tanguy-hammerhead-2017/formation_povezava".jpg, id=6300, 301.125p
+<"images/2017/tanguy-hammerhead-2017/formation_povezava".jpg, id=6309, 301.125p
 t x 455.7025pt>
 File: "images/2017/tanguy-hammerhead-2017/formation_povezava".jpg Graphic file 
 (type jpg)
@@ -8100,7 +8112,7 @@ Package pdftex.def Info: "images/2017/tanguy-hammerhead-2017/formation_povezava
 ".jpg used on input line 56.
 (pdftex.def)             Requested size: 153.61436pt x 232.47472pt.
 
-<"images/2017/tanguy-hammerhead-2017/Mary's Cafe".jpg, id=6301, 602.25pt x 451.
+<"images/2017/tanguy-hammerhead-2017/Mary's Cafe".jpg, id=6310, 602.25pt x 451.
 6875pt>
 File: "images/2017/tanguy-hammerhead-2017/Mary's Cafe".jpg Graphic file (type j
 pg)
@@ -8122,9 +8134,9 @@ an washed
 
 Underfull \vbox (badness 3364) has occurred while \output is active []
 
- [242 <./images/2017/tanguy-hammerhead-2017/formation_povezava.jpg> <./images/2
+ [240 <./images/2017/tanguy-hammerhead-2017/formation_povezava.jpg> <./images/2
 017/tanguy-hammerhead-2017/Mary's Cafe.jpg>]
-<"images/2017/tanguy-hammerhead-2017/Hammerhead".jpg, id=6307, 602.25pt x 451.6
+<"images/2017/tanguy-hammerhead-2017/Hammerhead".jpg, id=6316, 602.25pt x 451.6
 875pt>
 File: "images/2017/tanguy-hammerhead-2017/Hammerhead".jpg Graphic file (type jp
 g)
@@ -8133,7 +8145,7 @@ Package pdftex.def Info: "images/2017/tanguy-hammerhead-2017/Hammerhead".jpg us
 ed on input line 101.
 (pdftex.def)             Requested size: 296.781pt x 222.59007pt.
 
-<"images/2017/tanguy-hammerhead-2017/Hammerhead pitch".jpg, id=6308, 517.935pt 
+<"images/2017/tanguy-hammerhead-2017/Hammerhead pitch".jpg, id=6317, 517.935pt 
 x 690.58pt>
 File: "images/2017/tanguy-hammerhead-2017/Hammerhead pitch".jpg Graphic file (t
 ype jpg)
@@ -8147,7 +8159,7 @@ Underfull \hbox (badness 2707) in paragraph at lines 113--113
  []
 
 
-<"images/2017/tanguy-hammerhead-2017/stars out Jarvist".jpg, id=6309, 3661.68pt
+<"images/2017/tanguy-hammerhead-2017/stars out Jarvist".jpg, id=6318, 3661.68pt
  x 2746.26pt>
 File: "images/2017/tanguy-hammerhead-2017/stars out Jarvist".jpg Graphic file (
 type jpg)
@@ -8164,21 +8176,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--7
 
  []
 
-[243 <./images/2017/tanguy-hammerhead-2017/Hammerhead.jpg> <./images/2017/tangu
-y-hammerhead-2017/Hammerhead pitch.jpg>] [244 <./images/2017/tanguy-hammerhead-
+[241 <./images/2017/tanguy-hammerhead-2017/Hammerhead.jpg> <./images/2017/tangu
+y-hammerhead-2017/Hammerhead pitch.jpg>] [242 <./images/2017/tanguy-hammerhead-
 2017/stars out Jarvist.jpg>]
 \openout2 = `text/2017/rhys-hallelujah-2017/Rhys-Hallelujah-2017.aux'.
 
 
 (./text/2017/rhys-hallelujah-2017/Rhys-Hallelujah-2017.tex
-<"images/2017/rhys-hallelujah-2017/Diss-knot".jpg, id=6320, 602.25pt x 401.5pt>
+<"images/2017/rhys-hallelujah-2017/Diss-knot".jpg, id=6330, 602.25pt x 401.5pt>
 File: "images/2017/rhys-hallelujah-2017/Diss-knot".jpg Graphic file (type jpg)
 <use "images/2017/rhys-hallelujah-2017/Diss-knot".jpg>
 Package pdftex.def Info: "images/2017/rhys-hallelujah-2017/Diss-knot".jpg used 
 on input line 35.
 (pdftex.def)             Requested size: 320.80647pt x 213.87834pt.
 
-<"images/2017/rhys-hallelujah-2017/Dave-Knot".JPG, id=6321, 602.25pt x 903.375p
+<"images/2017/rhys-hallelujah-2017/Dave-Knot".JPG, id=6331, 602.25pt x 903.375p
 t>
 File: "images/2017/rhys-hallelujah-2017/Dave-Knot".JPG Graphic file (type jpg)
  <use "images/2017/rhys-hallelujah-2017/Dave-Knot".JPG>
@@ -8193,7 +8205,7 @@ Underfull \hbox (badness 3179) in paragraph at lines 47--47
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [245
+ [243
 
 
 ]
@@ -8205,7 +8217,7 @@ treamway
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [246 <./images/2017/rhys-hallelujah-2017/Diss-knot.jpg> <./images/2017/rhys-ha
+ [244 <./images/2017/rhys-hallelujah-2017/Diss-knot.jpg> <./images/2017/rhys-ha
 llelujah-2017/Dave-Knot.JPG>]
 Overfull \hbox (1.69278pt too wide) in paragraph at lines 80--81
 []\T1/ppl/m/n/10 We sur-veyed out, nam-ing our find `Union Pas-sage of the Year
@@ -8215,8 +8227,8 @@ Overfull \hbox (1.69278pt too wide) in paragraph at lines 80--81
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [247]
-<"images/2017/rhys-hallelujah-2017/hallelujah".jpg, id=6336, 501.875pt x 752.81
+ [245]
+<"images/2017/rhys-hallelujah-2017/hallelujah".jpg, id=6345, 501.875pt x 752.81
 25pt>
 File: "images/2017/rhys-hallelujah-2017/hallelujah".jpg Graphic file (type jpg)
 
@@ -8225,7 +8237,7 @@ Package pdftex.def Info: "images/2017/rhys-hallelujah-2017/hallelujah".jpg used
  on input line 107.
 (pdftex.def)             Requested size: 231.8222pt x 347.73383pt.
 
-<"images/2017/rhys-hallelujah-2017/Diss-hallelujah".JPG, id=6337, 501.875pt x 7
+<"images/2017/rhys-hallelujah-2017/Diss-hallelujah".JPG, id=6346, 501.875pt x 7
 52.8125pt>
 File: "images/2017/rhys-hallelujah-2017/Diss-hallelujah".JPG Graphic file (type
  jpg)
@@ -8243,9 +8255,9 @@ Underfull \hbox (badness 3758) in paragraph at lines 119--119
 \T1/ppl/m/n/10 of \T1/ppl/m/it/10 Hal-lelu-jah b \T1/ppl/m/n/10 Re-becca Diss
  []
 
-[248 <./images/2017/rhys-hallelujah-2017/hallelujah.jpg> <./images/2017/rhys-ha
+[246 <./images/2017/rhys-hallelujah-2017/hallelujah.jpg> <./images/2017/rhys-ha
 llelujah-2017/Diss-hallelujah.JPG>]
-<"images/2017/rhys-hallelujah-2017/Diss-Prima-hallelujah".jpg, id=6343, 803.0pt
+<"images/2017/rhys-hallelujah-2017/Diss-Prima-hallelujah".jpg, id=6352, 803.0pt
  x 618.31pt>
 File: "images/2017/rhys-hallelujah-2017/Diss-Prima-hallelujah".jpg Graphic file
  (type jpg)
@@ -8257,22 +8269,19 @@ h".jpg used on input line 154.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [249]
+ [247]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [250 <./images/2017/rhys-hallelujah-2017/Diss-Prima-hallelujah.jpg>])
+ [248 <./images/2017/rhys-hallelujah-2017/Diss-Prima-hallelujah.jpg>])
 Underfull \hbox (badness 10000) in paragraph at lines 183--8
 
  []
 
-[251]
+[249]
 \openout2 = `text/2017/tanguy-n-2017/Tanguy_N_2017.aux'.
 
  (./text/2017/tanguy-n-2017/Tanguy_N_2017.tex
-
-LaTeX Warning: Marginpar on page 252 moved.
-
-<"images/2017/tanguy-n-2017/AreaN_Rob".jpg, id=6357, 803.0pt x 451.6875pt>
+<"images/2017/tanguy-n-2017/AreaN_Rob".jpg, id=6367, 803.0pt x 451.6875pt>
 File: "images/2017/tanguy-n-2017/AreaN_Rob".jpg Graphic file (type jpg)
 
 <use "images/2017/tanguy-n-2017/AreaN_Rob".jpg>
@@ -8285,14 +8294,11 @@ Overfull \hbox (6.71234pt too wide) in paragraph at lines 28--29
  blazed
  []
 
-
-Underfull \vbox (badness 7151) has occurred while \output is active []
-
- [252
+[250
 
 
  <./images/2017/tanguy-n-2017/AreaN_Rob.jpg>]
-<"images/2017/tanguy-n-2017/Elephantfoot".jpg, id=6364, 501.875pt x 333.245pt>
+<"images/2017/tanguy-n-2017/Elephantfoot".jpg, id=6373, 501.875pt x 333.245pt>
 File: "images/2017/tanguy-n-2017/Elephantfoot".jpg Graphic file (type jpg)
 
 <use "images/2017/tanguy-n-2017/Elephantfoot".jpg>
@@ -8300,7 +8306,7 @@ Package pdftex.def Info: "images/2017/tanguy-n-2017/Elephantfoot".jpg used on i
 nput line 54.
 (pdftex.def)             Requested size: 212.6204pt x 141.18231pt.
 
-<"images/2017/tanguy-n-2017/Kuk_shakehole".jpg, id=6365, 501.875pt x 282.05376p
+<"images/2017/tanguy-n-2017/Kuk_shakehole".jpg, id=6374, 501.875pt x 282.05376p
 t>
 File: "images/2017/tanguy-n-2017/Kuk_shakehole".jpg Graphic file (type jpg)
  <use "images/2017/tanguy-n-2017/Kuk_shakehole".jpg>
@@ -8308,7 +8314,7 @@ Package pdftex.def Info: "images/2017/tanguy-n-2017/Kuk_shakehole".jpg used on
 input line 61.
 (pdftex.def)             Requested size: 251.02399pt x 141.07817pt.
 
-<"images/2017/tanguy-n-2017/Ridge_north_kuk".jpg, id=6366, 803.0pt x 451.6875pt
+<"images/2017/tanguy-n-2017/Ridge_north_kuk".jpg, id=6375, 803.0pt x 451.6875pt
 >
 File: "images/2017/tanguy-n-2017/Ridge_north_kuk".jpg Graphic file (type jpg)
  <use "images/2017/tanguy-n-2017/Ridge_north_kuk".jpg>
@@ -8330,7 +8336,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--9
 
  []
 
-[253] [254 <./images/2017/tanguy-n-2017/Elephantfoot.jpg> <./images/2017/tanguy
+[251] [252 <./images/2017/tanguy-n-2017/Elephantfoot.jpg> <./images/2017/tanguy
 -n-2017/Kuk_shakehole.jpg> <./images/2017/tanguy-n-2017/Ridge_north_kuk.jpg>]
 \openout2 = `text/2017/tanguy-alabaster-2017/Tanguy-Alabaster-2017.aux'.
 
@@ -8338,7 +8344,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--9
 (./text/2017/tanguy-alabaster-2017/Tanguy-Alabaster-2017.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [255
+ [253
 
 
 ]
@@ -8350,13 +8356,13 @@ w: it seemed
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [256])
-[257]
+ [254])
+[255]
 \openout2 = `text/2017/other-finds-2017/Other-Finds-2017.aux'.
 
  (./text/2017/other-finds-2017/Other-Finds-2017.tex
 
-LaTeX Warning: Marginpar on page 258 moved.
+LaTeX Warning: Marginpar on page 256 moved.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 80--82
@@ -8375,7 +8381,7 @@ Overfull \hbox (10.79999pt too wide) in paragraph at lines 153--154
  []
 
 
-<"images/2017/other-finds-2017/2017plan".pdf, id=6395, 597.50786pt x 845.04686p
+<"images/2017/other-finds-2017/2017plan".pdf, id=6403, 597.50786pt x 845.04686p
 t>
 File: "images/2017/other-finds-2017/2017plan".pdf Graphic file (type pdf)
  <use "images/2017/other-finds-2017/2017plan".pdf>
@@ -8388,10 +8394,10 @@ Overfull \hbox (16.74048pt too wide) in paragraph at lines 158--161
  []
 
 
-LaTeX Warning: Float too large for page by 20.0pt on input line 161.
+LaTeX Warning: Float too large for page by 34.0pt on input line 161.
 
 
-<"images/2017/other-finds-2017/EE2017".pdf, id=6396, 804.75784pt x 1166.33336pt
+<"images/2017/other-finds-2017/EE2017".pdf, id=6404, 804.75784pt x 1166.33336pt
 >
 File: "images/2017/other-finds-2017/EE2017".pdf Graphic file (type pdf)
  <use "images/2017/other-finds-2017/EE2017".pdf>
@@ -8404,13 +8410,13 @@ Overfull \hbox (4.99715pt too wide) in paragraph at lines 165--168
  []
 
 
-LaTeX Warning: Float too large for page by 20.0pt on input line 168.
+LaTeX Warning: Float too large for page by 34.0pt on input line 168.
 
-) [258
+) [256
 
 
-] [259] [260] [261 <./images/2017/other-finds-2017/2017plan.pdf>]
-[262 <./images/2017/other-finds-2017/EE2017.pdf>]
+] [257] [258] [259 <./images/2017/other-finds-2017/2017plan.pdf>]
+[260 <./images/2017/other-finds-2017/EE2017.pdf>]
 \openout2 = `text/2017/2017-outro.aux'.
 
  (./text/2017/2017-outro.tex
@@ -8439,14 +8445,14 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
-) <images/backgrounds/Galaktika-Rhys.jpg, id=6532, 803.0pt x 1204.5pt>
+) <images/backgrounds/Galaktika-Rhys.jpg, id=6540, 803.0pt x 1204.5pt>
 File: images/backgrounds/Galaktika-Rhys.jpg Graphic file (type jpg)
 
 <use images/backgrounds/Galaktika-Rhys.jpg>
 Package pdftex.def Info: images/backgrounds/Galaktika-Rhys.jpg used on input li
 ne 13.
 (pdftex.def)             Requested size: 597.50787pt x 896.3152pt.
- [263
+ [261
 
 
  <./images/backgrounds/Galaktika-Rhys.jpg>]) (./text/Part3.tex
@@ -8478,20 +8484,20 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
-<images/backgrounds/Jack-Mountain-King.jpg, id=6537, 803.0pt x 1207.51125pt>
+<images/backgrounds/Jack-Mountain-King.jpg, id=6545, 803.0pt x 1207.51125pt>
 File: images/backgrounds/Jack-Mountain-King.jpg Graphic file (type jpg)
 
 <use images/backgrounds/Jack-Mountain-King.jpg>
 Package pdftex.def Info: images/backgrounds/Jack-Mountain-King.jpg used on inpu
 t line 15.
 (pdftex.def)             Requested size: 597.50787pt x 898.55597pt.
- [264
+ [262
 
 
 
 
 \@writefile{toc}{\contentsline {part}{III\hspace  {1em}Excursions under the mou
-ntain: in the footsteps of the explorers}{264}{part.3}}
+ntain: in the footsteps of the explorers}{262}{part.3}}
 
  <./images/backgrounds/Jack-Mountain-King.jpg>]
 \openout2 = `text/other_tex_files/Prima-Mona-trip.aux'.
@@ -8508,10 +8514,10 @@ Overfull \hbox (2.64238pt too wide) in paragraph at lines 4--5
 natip
  []
 
-[265
+[263
 
-] [266]
-<images/PDF_maps/Prima-Mona-trip.pdf, id=6559, 405.77884pt x 485.04308pt>
+] [264]
+<images/PDF_maps/Prima-Mona-trip.pdf, id=6566, 405.77884pt x 485.04308pt>
 File: images/PDF_maps/Prima-Mona-trip.pdf Graphic file (type pdf)
 
 <use images/PDF_maps/Prima-Mona-trip.pdf>
@@ -8524,9 +8530,9 @@ Overfull \hbox (105.61153pt too wide) in paragraph at lines 45--48
  []
 
 
-LaTeX Warning: Float too large for page by 34.0pt on input line 48.
+LaTeX Warning: Float too large for page by 20.0pt on input line 48.
 
-) [267] [268 <./images/PDF_maps/Prima-Mona-trip.pdf>]
+) [265] [266 <./images/PDF_maps/Prima-Mona-trip.pdf>]
 \openout2 = `text/other_tex_files/Prima-low-trip.aux'.
 
 
@@ -8536,20 +8542,25 @@ Overfull \hbox (15.99184pt too wide) in paragraph at lines 13--14
 he streamway
  []
 
-[269
+[267
 
 
-] [270] <images/PDF_maps/Primalow.pdf, id=6813, 476.77907pt x 650.16246pt>
+] [268] <images/PDF_maps/Primalow.pdf, id=6821, 476.77907pt x 650.16246pt>
 File: images/PDF_maps/Primalow.pdf Graphic file (type pdf)
 
 <use images/PDF_maps/Primalow.pdf>
 Package pdftex.def Info: images/PDF_maps/Primalow.pdf used on input line 35.
 (pdftex.def)             Requested size: 468.3323pt x 638.67273pt.
-) [271] [272 <./images/PDF_maps/Primalow.pdf>]
+) [269]
+
+LaTeX Warning: Text page 270 contains only floats.
+
+[270 <./images/PDF_maps/Primalow.pdf>]
 \openout2 = `text/other_tex_files/Paradise-trip.aux'.
 
- (./text/other_tex_files/Paradise-trip.tex
-<images/PDF_maps/Paradise.pdf, id=6882, 1143.14798pt x 1412.37746pt>
+
+(./text/other_tex_files/Paradise-trip.tex
+<images/PDF_maps/Paradise.pdf, id=6889, 1143.14798pt x 1412.37746pt>
 File: images/PDF_maps/Paradise.pdf Graphic file (type pdf)
 
 <use images/PDF_maps/Paradise.pdf>
@@ -8560,13 +8571,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--24
 \T1/ppl/m/n/10 lower pas-sages off Chee-tah
  []
 
-[273
+[271
 
 
 ]
 Underfull \vbox (badness 1895) has occurred while \output is active []
 
- [274 <./images/PDF_maps/Paradise.pdf>]
+ [272 <./images/PDF_maps/Paradise.pdf>]
 Overfull \hbox (1.5219pt too wide) in paragraph at lines 37--38
 \T1/ppl/m/n/10 con-tin-ues be-yond to a junc-tion. The ob-vi-ous con-tin-u-a-ti
 on drops down
@@ -8578,7 +8589,7 @@ Overfull \hbox (0.562pt too wide) in paragraph at lines 37--38
 ck at the junc-tion, a too tight squeeze
  []
 
-<images/PDF_maps/Paradisesouth.pdf, id=6911, 906.91068pt x 1266.56647pt>
+<images/PDF_maps/Paradisesouth.pdf, id=6919, 906.91068pt x 1266.56647pt>
 File: images/PDF_maps/Paradisesouth.pdf Graphic file (type pdf)
 
 <use images/PDF_maps/Paradisesouth.pdf>
@@ -8590,7 +8601,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--47
 \T1/ppl/m/n/10 lower pas-sages off Chee-tah
  []
 
-) [275] [276 <./images/PDF_maps/Paradisesouth.pdf>]
+
+LaTeX Warning: Float too large for page by 2.05737pt on input line 47.
+
+) [273] [274 <./images/PDF_maps/Paradisesouth.pdf>]
 \openout2 = `text/other_tex_files/M2_M16_roundtrip.aux'.
 
 
@@ -8600,7 +8614,7 @@ Overfull \hbox (1.83205pt too wide) in paragraph at lines 3--4
 ter chal-
  []
 
-[277
+[275
 
 
 ])
@@ -8609,7 +8623,7 @@ Overfull \hbox (0.41176pt too wide) in paragraph at lines 26--18
 e-ries some
  []
 
-[278]) (./Hollowmountain3.lof
+[276]) (./Hollowmountain3.lof
 Overfull \hbox (4.39323pt too wide) in paragraph at lines 9--9
  [][] [][]\T1/ppl/m/n/10 Surface pot-holes like M17 and M19 can reach 30m depth
  ---Tanguy
@@ -8624,7 +8638,7 @@ e 2013 scanned
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [279
+ [277
 
 
 ]
@@ -8654,7 +8668,7 @@ Overfull \hbox (22.56198pt too wide) in paragraph at lines 38--38
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [280]
+ [278]
 Overfull \hbox (7.8023pt too wide) in paragraph at lines 51--51
  [][] [][]\T1/ppl/m/it/10 a \T1/ppl/m/n/10 Rhys Ty-ers stand-ing at the bot-tom
  of Re-pub-lika cham-ber \T1/ppl/m/it/10 b \T1/ppl/m/n/10 Mud/-
@@ -8675,7 +8689,7 @@ s\T1/ppl/m/n/10 , Slove-nian Na-tional Grid ESPG
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [281]
+ [279]
 Overfull \hbox (0.16255pt too wide) in paragraph at lines 71--71
  \T1/ppl/m/n/10 Gian, Fiona Hart-ley, Tan-guy Racine, Na-dine Kalmoni, Dave Kir
 k-
@@ -8684,13 +8698,13 @@ k-
 
 Overfull \hbox (1.53305pt too wide) in paragraph at lines 75--75
  \T1/ppl/m/n/10 and haul-ing team, 20m di-rectly above --- Gergely Am-brus[] 11
-0 
+1 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [282]
+ [280]
 Overfull \hbox (6.74313pt too wide) in paragraph at lines 85--85
  \T1/ppl/m/n/10 ing \T1/ppl/m/it/10 Touch-ing the Void \T1/ppl/m/n/10 ex-ten-si
 ons ---scanned from 2015 un-der-ground
@@ -8699,13 +8713,13 @@ ons ---scanned from 2015 un-der-ground
 
 Overfull \hbox (0.51315pt too wide) in paragraph at lines 86--86
  \T1/ppl/m/n/10 stream of the Sic Sem-per Tyran-nis wa-ter-fall --- Rhys Ty-ers
-[] 131 
+[] 132 
  []
 
 
 Overfull \hbox (15.40312pt too wide) in paragraph at lines 87--87
  \T1/ppl/m/n/10 Cham-ber grade 1 ex-tended el-e-va-tion --- scanned, Rhys Ty-er
-s [] 131 
+s [] 132 
  []
 
 
@@ -8723,7 +8737,7 @@ Overfull \hbox (2.72224pt too wide) in paragraph at lines 93--93
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [283]
+ [281]
 Overfull \hbox (2.55243pt too wide) in paragraph at lines 97--97
  [][] [][]\T1/ppl/m/n/10 The Migovec sur-face, seen from Tolminksi Kuk, pock-ma
 rked with
@@ -8757,7 +8771,7 @@ pl/m/n/10 drop-ping into the \T1/ppl/m/it/10 Hall of the Moun-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [284]
+ [282]
 Overfull \hbox (12.10246pt too wide) in paragraph at lines 115--115
  \T1/ppl/m/n/10 Cot-ter en-joy-ing a snack on the Lime-stone Pave-ment \T1/ppl/
 m/it/10 c \T1/ppl/m/n/10 The panorama
@@ -8772,10 +8786,10 @@ nd Pri-madona
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [285]
+ [283]
 Overfull \hbox (26.24265pt too wide) in paragraph at lines 129--129
  \T1/ppl/m/n/10 Maks Merela, deputy leader of the Slove-nian Cave Res-cue (JZS)
-[] 210 
+[] 211 
  []
 
 
@@ -8787,36 +8801,50 @@ Hare cave thanks
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [286]
+ [284]
 Overfull \hbox (0.33257pt too wide) in paragraph at lines 149--149
  \T1/ppl/m/n/10 est level of the rift \T1/ppl/m/it/10 b \T1/ppl/m/n/10 The Pove
-zava pas-sage --- Jarvist Frost[] 240 
+zava pas-sage --- Jarvist Frost[] 241 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [287]
+ [285]
 Overfull \hbox (3.7428pt too wide) in paragraph at lines 158--158
  [][] [][]\T1/ppl/m/n/10 Plan view of the Primadona-Monatip con-nec-tion pas-sa
-ges[] 267 
+ges[] 268 
  []
 
 
 Overfull \hbox (0.73297pt too wide) in paragraph at lines 159--159
  [][] [][]\T1/ppl/m/n/10 Plan view of the lower pas-sages to the south of Se-jn
-a Soba[] 271 
+a Soba[] 272 
  []
 
 )
 \tf@lof=\write8
 \openout8 = `Hollowmountain3.lof'.
 
- (./Hollowmountain3.bbl) [288]
-\openout2 = `Post-script.aux'.
+ (./Hollowmountain3.bbl) [286]
+\openout2 = `text/other_tex_files/Post-script.aux'.
 
+ (./text/other_tex_files/Post-script.tex
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+)
+[287
 
-No file Post-script.tex.
+]
 
 Package natbib Warning: There were undefined citations.
 
@@ -8878,11 +8906,12 @@ aux) (./text/2016/jack-begin-2016/Jack-Begin-2016.aux)
 (./text/other_tex_files/Prima-Mona-trip.aux)
 (./text/other_tex_files/Prima-low-trip.aux)
 (./text/other_tex_files/Paradise-trip.aux)
-(./text/other_tex_files/M2_M16_roundtrip.aux) (./Post-script.aux))
+(./text/other_tex_files/M2_M16_roundtrip.aux)
+(./text/other_tex_files/Post-script.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 185.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 185.
 Package rerunfilecheck Info: File `Hollowmountain3.out' has not changed.
-(rerunfilecheck)             Checksum: 25244F6DE3FF52B7D98720228D139432;16579.
+(rerunfilecheck)             Checksum: 5F9CFDCB1FBD13B882A6D0940C8126E9;17415.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -8890,10 +8919,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 185.
  ) 
 Here is how much of TeX's memory you used:
- 45401 strings out of 493014
- 935188 string characters out of 6133352
- 1021202 words of memory out of 5000000
- 46919 multiletter control sequences out of 15000+600000
+ 45418 strings out of 493014
+ 935587 string characters out of 6133352
+ 1035613 words of memory out of 5000000
+ 46928 multiletter control sequences out of 15000+600000
  93657 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,17n,101p,10418b,1003s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -8910,10 +8939,10 @@ ive/2016/texmf-dist/fonts/type1/public/lm/lmtt8.pfb></usr/local/texlive/2016/te
 xmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2016/texmf-dis
 t/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts
 /type1/urw/palatino/uplri8a.pfb>
-Output written on Hollowmountain3.pdf (288 pages, 93114045 bytes).
+Output written on Hollowmountain3.pdf (287 pages, 69635848 bytes).
 PDF statistics:
- 7622 PDF objects out of 8907 (max. 8388607)
- 5373 compressed objects within 54 object streams
- 716 named destinations out of 1000 (max. 500000)
- 4533 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 7642 PDF objects out of 8907 (max. 8388607)
+ 5391 compressed objects within 54 object streams
+ 722 named destinations out of 1000 (max. 500000)
+ 4557 words of extra memory for PDF output out of 10000 (max. 10000000)
 
